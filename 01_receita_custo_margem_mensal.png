@@ -1,0 +1,1201 @@
+﻿id_viagem,data,filial_origem,destino,tipo_veiculo,motorista,distancia_km,peso_kg,capacidade_kg,ocupacao_pct,custo_combustivel,custo_pedagio,custo_motorista,custo_total,frete_cobrado,margem,tempo_previsto_h,tempo_real_h,atraso_h,status_entrega,avaliacao_cliente
+V01029,2025-07-01,Recife,Sousa,Caminhão 3/4,Motorista 18,719.6,682.5,3500,19.5,2100.78,68.33,295.01,2464.12,3717.45,1253.33,14.1,14.1,0.0,Entregue no prazo,3.7
+V00849,2025-07-01,Fortaleza,Recife,Caminhão Toco,Motorista 06,837.6,4921.5,6000,82.0,2680.28,42.35,258.45,2981.08,3719.27,738.19,17.7,17.7,0.0,Entregue no prazo,4.9
+V00756,2025-07-01,Natal,Mossoró,Van,Motorista 06,457.3,1496.4,1500,99.8,848.83,47.74,173.03,1069.6,1362.69,293.09,9.1,9.1,0.0,Entregue no prazo,5.0
+V00992,2025-07-01,Mossoró,Currais Novos,Carreta,Motorista 03,376.0,24866.4,27000,92.1,2610.47,35.98,143.7,2790.15,3828.1,1037.95,7.5,7.5,0.0,Entregue no prazo,5.0
+V00447,2025-07-01,Fortaleza,Natal,Caminhão Truck,Motorista 16,775.4,601.9,14000,4.3,3811.28,108.7,301.84,4221.82,5785.06,1563.24,12.1,12.1,0.0,Entregue no prazo,3.0
+V01165,2025-07-01,Recife,Mossoró,Caminhão Truck,Motorista 01,587.3,10038.8,14000,71.7,2996.56,33.18,198.78,3228.52,3801.29,572.77,9.4,14.2,4.8,Entregue com atraso,3.6
+V00649,2025-07-01,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 03,361.6,734.5,3500,21.0,1010.86,51.59,135.63,1198.08,1493.57,295.49,6.4,6.9,0.5,Entregue com atraso,4.4
+V00678,2025-07-01,Fortaleza,João Pessoa,Caminhão Truck,Motorista 02,199.3,9685.7,14000,69.2,886.19,24.18,66.08,976.45,1221.45,245.0,4.1,4.1,0.0,Em rota,
+V00064,2025-07-02,Mossoró,Currais Novos,Caminhão 3/4,Motorista 02,342.3,1342.9,3500,38.4,854.17,34.56,159.19,1047.92,1322.35,274.43,5.4,7.1,1.7,Entregue com atraso,3.5
+V00207,2025-07-02,Recife,Parnamirim,Van,Motorista 17,527.6,1345.3,1500,89.7,1064.33,61.15,180.57,1306.05,1952.8,646.75,8.4,8.4,0.0,Entregue no prazo,4.1
+V00264,2025-07-02,Recife,Parnamirim,Carreta,Motorista 13,658.6,19016.5,27000,70.4,4013.24,77.43,249.73,4340.4,6304.44,1964.04,12.2,12.2,0.0,Entregue no prazo,4.5
+V00896,2025-07-03,Recife,Sousa,Van,Motorista 18,568.0,1311.4,1500,87.4,984.74,46.98,231.42,1263.14,1559.51,296.37,9.3,10.9,1.6,Entregue com atraso,3.5
+V00969,2025-07-04,Recife,Parnamirim,Caminhão Toco,Motorista 01,222.2,3288.6,6000,54.8,701.51,23.31,66.72,791.54,1012.81,221.27,4.5,4.5,0.0,Em rota,
+V00949,2025-07-04,Natal,Assú,Caminhão 3/4,Motorista 06,275.5,1266.7,3500,36.2,691.3,34.51,102.8,828.61,1193.65,365.04,5.1,5.1,0.0,Entregue no prazo,4.9
+V00326,2025-07-04,Recife,Sousa,Caminhão Toco,Motorista 08,791.4,4484.7,6000,74.7,2627.71,60.55,347.61,3035.87,3725.46,689.59,16.9,16.9,0.0,Entregue no prazo,3.5
+V00497,2025-07-04,João Pessoa,Fortaleza,Caminhão Toco,Motorista 05,68.6,4077.6,6000,68.0,260.22,4.55,31.73,296.5,442.19,145.69,1.1,1.1,0.0,Entregue no prazo,4.4
+V01045,2025-07-05,Mossoró,Natal,Caminhão Toco,Motorista 14,183.4,3036.3,6000,50.6,685.59,19.6,87.78,792.97,1113.82,320.85,3.1,3.1,0.0,Entregue no prazo,5.0
+V01092,2025-07-05,João Pessoa,Parnamirim,Caminhão Toco,Motorista 04,90.4,5660.3,6000,94.3,314.58,5.29,42.83,362.7,457.56,94.86,1.8,1.8,0.0,Entregue no prazo,4.3
+V00416,2025-07-05,Recife,Fortaleza,Caminhão 3/4,Motorista 17,439.3,563.5,3500,16.1,1139.19,32.55,133.17,1304.91,1688.61,383.7,9.4,9.4,0.0,Entregue no prazo,4.6
+V00614,2025-07-05,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 14,350.7,463.9,3500,13.3,841.11,38.25,147.25,1026.61,1352.56,325.95,6.5,6.5,0.0,Entregue no prazo,5.0
+V00129,2025-07-05,Recife,Caicó,Caminhão Truck,Motorista 05,681.3,4005.6,14000,28.6,3431.52,98.38,224.66,3754.56,5012.6,1258.04,10.5,10.5,0.0,Entregue no prazo,3.3
+V00721,2025-07-05,Recife,Parnamirim,Van,Motorista 02,234.5,1357.9,1500,90.5,455.71,13.44,108.86,578.01,778.7,200.69,3.8,3.8,0.0,Entregue no prazo,4.1
+V00843,2025-07-05,Natal,Sousa,Van,Motorista 06,500.9,1283.0,1500,85.5,966.56,26.11,184.0,1176.67,1421.17,244.5,10.1,10.1,0.0,Cancelada,
+V00965,2025-07-06,Mossoró,Natal,Caminhão Toco,Motorista 18,632.0,5639.9,6000,94.0,2218.23,32.23,232.38,2482.84,3251.16,768.32,12.2,12.2,0.0,Entregue no prazo,4.1
+V00335,2025-07-06,Recife,Caicó,Caminhão Toco,Motorista 05,353.2,5135.5,6000,85.6,1184.63,18.9,158.67,1362.2,2003.54,641.34,7.3,7.3,0.0,Entregue no prazo,5.0
+V00742,2025-07-06,Mossoró,Assú,Van,Motorista 16,137.0,1468.3,1500,97.9,275.47,19.09,65.39,359.95,491.93,131.98,2.4,2.4,0.0,Entregue no prazo,5.0
+V00935,2025-07-06,Recife,Fortaleza,Caminhão Toco,Motorista 01,688.0,4088.3,6000,68.1,2179.35,58.24,253.06,2490.65,3427.76,937.11,13.5,13.5,0.0,Entregue no prazo,4.2
+V00606,2025-07-07,João Pessoa,Fortaleza,Caminhão Truck,Motorista 07,383.0,6647.9,14000,47.5,1654.6,53.41,156.46,1864.47,2873.85,1009.38,6.3,6.3,0.0,Entregue no prazo,4.6
+V00895,2025-07-07,Fortaleza,Natal,Van,Motorista 07,598.1,460.0,1500,30.7,1230.88,50.84,280.61,1562.33,2387.47,825.14,9.6,9.6,0.0,Entregue no prazo,4.1
+V00688,2025-07-08,Fortaleza,João Pessoa,Caminhão Truck,Motorista 03,768.2,7417.1,14000,53.0,3210.17,69.2,262.23,3541.6,4355.72,814.12,13.9,13.9,0.0,Entregue no prazo,4.6
+V00876,2025-07-08,Fortaleza,Recife,Van,Motorista 10,237.1,1169.1,1500,77.9,451.77,30.17,86.53,568.47,822.13,253.66,3.8,3.8,0.0,Entregue no prazo,4.3
+V00829,2025-07-08,João Pessoa,Caicó,Caminhão Toco,Motorista 17,524.8,2456.9,6000,40.9,1854.64,56.51,174.81,2085.96,2734.89,648.93,10.1,10.1,0.0,Entregue no prazo,3.9
+V00098,2025-07-09,Mossoró,Recife,Caminhão Truck,Motorista 07,568.6,11545.0,14000,82.5,2546.18,72.53,280.26,2898.97,3570.1,671.13,10.3,10.3,0.0,Entregue no prazo,4.6
+V00602,2025-07-09,Recife,Caicó,Caminhão Toco,Motorista 18,570.6,1905.0,6000,31.8,1850.7,37.58,206.86,2095.14,2498.17,403.03,12.6,14.1,1.5,Entregue com atraso,3.0
+V00270,2025-07-09,Mossoró,Currais Novos,Caminhão 3/4,Motorista 06,622.1,332.9,3500,9.5,1619.65,63.22,258.87,1941.74,2959.94,1018.2,10.6,10.6,0.0,Entregue no prazo,4.5
+V01004,2025-07-10,Mossoró,Currais Novos,Van,Motorista 10,328.6,784.3,1500,52.3,659.58,20.73,119.99,800.3,1105.14,304.84,5.6,8.5,2.9,Entregue com atraso,2.9
+V00485,2025-07-10,Natal,Sousa,Carreta,Motorista 09,787.0,18672.7,27000,69.2,4546.51,67.42,329.36,4943.29,7336.97,2393.68,17.2,17.2,0.0,Entregue no prazo,3.7
+V01091,2025-07-10,Recife,Assú,Caminhão Toco,Motorista 18,220.9,5556.8,6000,92.6,815.1,18.03,99.99,933.12,1081.35,148.23,4.0,4.0,0.0,Entregue no prazo,4.9
+V00715,2025-07-10,João Pessoa,Natal,Van,Motorista 08,414.8,351.6,1500,23.4,740.63,21.8,177.76,940.19,1416.96,476.77,6.6,6.6,0.0,Entregue no prazo,5.0
+V01123,2025-07-11,Natal,Mossoró,Caminhão Toco,Motorista 15,781.7,1552.9,6000,25.9,2910.81,87.76,258.62,3257.19,4210.6,953.41,16.1,16.1,0.0,Entregue no prazo,5.0
+V00682,2025-07-12,Mossoró,Parnamirim,Van,Motorista 15,416.2,1393.2,1500,92.9,746.74,44.23,191.7,982.67,1297.96,315.29,8.4,8.4,0.0,Em rota,
+V00519,2025-07-12,Mossoró,Fortaleza,Caminhão 3/4,Motorista 19,715.5,690.5,3500,19.7,1886.42,71.0,219.89,2177.31,2674.39,497.08,11.6,14.3,2.7,Entregue com atraso,3.5
+V00852,2025-07-12,Recife,Sousa,Carreta,Motorista 12,576.6,23537.7,27000,87.2,3995.07,62.21,222.55,4279.83,6020.13,1740.3,9.4,9.4,0.0,Entregue no prazo,4.3
+V00917,2025-07-13,João Pessoa,Caicó,Caminhão Truck,Motorista 20,622.8,5991.2,14000,42.8,2590.01,33.63,246.51,2870.15,3988.7,1118.55,13.4,13.4,0.0,Entregue no prazo,4.0
+V01008,2025-07-13,Natal,Currais Novos,Caminhão Truck,Motorista 13,821.2,8223.1,14000,58.7,4165.32,107.46,393.3,4666.08,5387.69,721.61,12.8,12.8,0.0,Entregue no prazo,3.8
+V00152,2025-07-13,João Pessoa,Natal,Van,Motorista 11,680.4,1309.9,1500,87.3,1176.34,99.38,230.92,1506.64,2306.02,799.38,10.5,10.5,0.0,Entregue no prazo,4.6
+V00379,2025-07-13,Mossoró,Natal,Van,Motorista 15,198.6,997.8,1500,66.5,341.67,20.77,86.75,449.19,550.75,101.56,3.6,3.6,0.0,Entregue no prazo,5.0
+V00555,2025-07-13,Fortaleza,Parnamirim,Caminhão 3/4,Motorista 10,294.9,2968.6,3500,84.8,747.13,34.2,96.55,877.88,1250.76,372.88,4.7,4.7,0.0,Entregue no prazo,5.0
+V00886,2025-07-14,Natal,João Pessoa,Van,Motorista 01,480.9,630.3,1500,42.0,815.62,46.49,153.92,1016.03,1305.03,289.0,9.1,9.1,0.0,Entregue no prazo,4.6
+V00676,2025-07-14,Recife,Currais Novos,Caminhão 3/4,Motorista 10,708.1,523.4,3500,15.0,1980.95,59.33,256.33,2296.61,3497.78,1201.17,14.2,14.2,0.0,Entregue no prazo,4.6
+V00051,2025-07-14,Mossoró,Natal,Caminhão Toco,Motorista 03,216.4,624.5,6000,10.4,773.18,25.28,91.73,890.19,1188.76,298.57,4.1,8.5,4.4,Entregue com atraso,2.0
+V00892,2025-07-14,Natal,Fortaleza,Caminhão 3/4,Motorista 19,108.4,1463.6,3500,41.8,320.19,11.81,39.99,371.99,520.89,148.9,1.7,1.7,0.0,Entregue no prazo,4.8
+V01058,2025-07-14,Fortaleza,Natal,Van,Motorista 06,170.3,1318.6,1500,87.9,316.66,15.51,71.6,403.77,566.89,163.12,3.7,3.7,0.0,Em rota,
+V00135,2025-07-15,João Pessoa,Fortaleza,Van,Motorista 13,576.8,474.4,1500,31.6,1158.52,51.99,206.78,1417.29,1716.24,298.95,11.5,11.5,0.0,Entregue no prazo,4.6
+V01104,2025-07-15,Recife,Sousa,Caminhão 3/4,Motorista 11,63.8,3232.2,3500,92.3,174.55,8.34,24.04,206.93,277.02,70.09,1.0,1.0,0.0,Entregue no prazo,5.0
+V01078,2025-07-15,Natal,Parnamirim,Carreta,Motorista 10,509.2,10105.4,27000,37.4,3119.56,59.5,192.3,3371.36,4221.1,849.74,9.6,17.3,7.7,Entregue com atraso,4.0
+V00904,2025-07-15,João Pessoa,Caicó,Van,Motorista 18,276.4,394.6,1500,26.3,475.92,26.77,106.41,609.1,770.85,161.75,5.7,13.6,7.9,Entregue com atraso,1.9
+V00093,2025-07-15,Fortaleza,Mossoró,Van,Motorista 16,798.2,267.9,1500,17.9,1443.51,60.68,356.13,1860.32,2869.58,1009.26,15.9,15.9,0.0,Entregue no prazo,4.1
+V00498,2025-07-16,Mossoró,Recife,Carreta,Motorista 16,788.5,21255.9,27000,78.7,4797.99,103.85,301.02,5202.86,6663.35,1460.49,13.2,13.2,0.0,Entregue no prazo,5.0
+V00330,2025-07-17,Natal,Caicó,Caminhão Toco,Motorista 18,81.7,2082.7,6000,34.7,296.72,6.84,27.44,331.0,417.9,86.9,1.5,1.5,0.0,Entregue no prazo,4.5
+V01184,2025-07-17,Fortaleza,Mossoró,Caminhão Truck,Motorista 18,651.2,7453.7,14000,53.2,3095.04,81.89,304.9,3481.83,5065.11,1583.28,12.5,12.5,0.0,Em rota,
+V00353,2025-07-18,Natal,Fortaleza,Caminhão Truck,Motorista 11,169.8,5506.3,14000,39.3,753.97,15.82,77.49,847.28,1138.46,291.18,2.8,2.8,0.0,Entregue no prazo,5.0
+V00567,2025-07-19,João Pessoa,Fortaleza,Caminhão Toco,Motorista 05,678.3,974.5,6000,16.2,2254.66,75.68,297.22,2627.56,3446.46,818.9,10.9,10.9,0.0,Entregue no prazo,4.3
+V00637,2025-07-19,Fortaleza,Sousa,Van,Motorista 10,620.0,339.7,1500,22.6,1240.47,76.61,212.25,1529.33,1847.61,318.28,12.1,12.1,0.0,Em rota,
+V00672,2025-07-20,Fortaleza,Assú,Caminhão Toco,Motorista 06,380.7,5744.9,6000,95.7,1234.43,38.7,170.25,1443.38,1981.38,538.0,6.0,6.0,0.0,Entregue no prazo,4.1
+V00384,2025-07-20,Natal,Mossoró,Caminhão Toco,Motorista 17,704.9,1563.2,6000,26.1,2547.82,63.81,295.5,2907.13,3468.15,561.02,15.5,15.5,0.0,Cancelada,
+V00988,2025-07-20,João Pessoa,Recife,Van,Motorista 13,376.3,370.5,1500,24.7,773.74,55.85,126.97,956.56,1430.94,474.38,7.1,7.1,0.0,Entregue no prazo,4.7
+V00045,2025-07-21,Natal,Sousa,Caminhão Toco,Motorista 20,72.4,3912.0,6000,65.2,235.37,4.92,23.0,263.29,313.66,50.37,1.3,1.3,0.0,Entregue no prazo,4.3
+V00007,2025-07-21,Natal,Caicó,Caminhão Truck,Motorista 17,742.1,6926.6,14000,49.5,3752.33,96.46,285.74,4134.53,4791.87,657.34,14.7,14.7,0.0,Entregue no prazo,3.8
+V00026,2025-07-22,Fortaleza,Currais Novos,Caminhão Toco,Motorista 02,310.3,3869.2,6000,64.5,1195.35,18.7,151.25,1365.3,1945.76,580.46,6.7,6.7,0.0,Entregue no prazo,4.7
+V00308,2025-07-22,Natal,Currais Novos,Carreta,Motorista 06,292.7,4602.9,27000,17.0,1988.57,18.22,124.98,2131.77,2557.14,425.37,6.3,6.3,0.0,Cancelada,
+V00847,2025-07-22,Fortaleza,Sousa,Caminhão 3/4,Motorista 02,600.2,1034.1,3500,29.5,1525.96,37.28,283.85,1847.09,2488.73,641.64,10.6,10.6,0.0,Entregue no prazo,3.8
+V00748,2025-07-23,Natal,João Pessoa,Caminhão 3/4,Motorista 06,46.6,1929.2,3500,55.1,124.34,4.78,23.06,152.18,230.49,78.31,1.0,1.0,0.0,Entregue no prazo,3.5
+V01063,2025-07-23,Fortaleza,Natal,Caminhão Toco,Motorista 09,721.2,1245.7,6000,20.8,2245.43,63.35,340.25,2649.03,3280.37,631.34,15.0,15.0,0.0,Cancelada,
+V01130,2025-07-23,Natal,Sousa,Caminhão 3/4,Motorista 04,141.8,471.9,3500,13.5,409.52,7.24,66.98,483.74,643.62,159.88,3.1,3.1,0.0,Entregue no prazo,4.9
+V00483,2025-07-23,Recife,Parnamirim,Caminhão 3/4,Motorista 15,58.1,1842.0,3500,52.6,141.8,3.97,21.67,167.44,221.52,54.08,1.0,1.0,0.0,Entregue no prazo,3.8
+V01191,2025-07-25,Natal,Currais Novos,Van,Motorista 01,122.2,787.4,1500,52.5,208.54,17.04,60.23,285.81,383.41,97.6,2.6,8.3,5.7,Entregue com atraso,3.9
+V01178,2025-07-25,João Pessoa,Caicó,Van,Motorista 17,569.1,1331.2,1500,88.7,1150.49,65.09,230.54,1446.12,1854.73,408.61,8.8,8.8,0.0,Entregue no prazo,4.7
+V00915,2025-07-25,Mossoró,Currais Novos,Caminhão Toco,Motorista 16,665.7,4849.6,6000,80.8,2404.57,64.42,276.37,2745.36,3579.97,834.61,14.0,14.0,0.0,Entregue no prazo,4.5
+V00919,2025-07-25,Natal,João Pessoa,Van,Motorista 08,508.0,290.4,1500,19.4,833.86,28.51,248.09,1110.46,1654.53,544.07,8.2,8.2,0.0,Cancelada,
+V00581,2025-07-25,João Pessoa,Currais Novos,Caminhão 3/4,Motorista 12,78.6,547.8,3500,15.7,193.36,6.61,32.12,232.09,332.97,100.88,1.6,1.6,0.0,Entregue no prazo,4.7
+V00978,2025-07-26,Natal,Sousa,Caminhão Toco,Motorista 17,753.9,1268.0,6000,21.1,2845.45,46.86,258.59,3150.9,3670.39,519.49,15.8,15.8,0.0,Cancelada,
+V00376,2025-07-26,Recife,Mossoró,Caminhão Truck,Motorista 16,275.9,464.5,14000,3.3,1251.48,14.71,135.41,1401.6,1729.53,327.93,4.5,6.6,2.1,Entregue com atraso,3.6
+V00873,2025-07-26,Fortaleza,Sousa,Van,Motorista 15,555.6,880.1,1500,58.7,1124.88,68.15,223.32,1416.35,1857.45,441.1,10.5,10.5,0.0,Entregue no prazo,4.6
+V00317,2025-07-27,Mossoró,Assú,Caminhão Toco,Motorista 08,616.1,1593.3,6000,26.6,2117.66,48.2,194.81,2360.67,3542.53,1181.86,10.3,10.3,0.0,Entregue no prazo,3.8
+V00165,2025-07-28,Recife,Assú,Van,Motorista 01,611.0,423.7,1500,28.2,1257.19,57.97,202.73,1517.89,1854.98,337.09,13.0,14.4,1.4,Entregue com atraso,2.7
+V00887,2025-07-28,João Pessoa,Natal,Caminhão 3/4,Motorista 09,534.2,3424.7,3500,97.8,1288.68,38.04,210.81,1537.53,2363.87,826.34,8.8,11.8,3.0,Entregue com atraso,3.2
+V00697,2025-07-28,João Pessoa,Fortaleza,Caminhão Toco,Motorista 04,572.3,386.0,6000,6.4,1791.71,45.41,272.16,2109.28,3071.02,961.74,12.6,12.6,0.0,Entregue no prazo,5.0
+V00907,2025-07-28,João Pessoa,Fortaleza,Van,Motorista 20,843.6,1052.3,1500,70.2,1572.42,106.76,394.82,2074.0,3054.35,980.35,18.6,18.6,0.0,Entregue no prazo,3.9
+V00110,2025-07-28,Recife,Natal,Caminhão 3/4,Motorista 12,507.9,3484.9,3500,99.6,1470.98,51.88,158.83,1681.69,2493.19,811.5,8.9,8.9,0.0,Entregue no prazo,5.0
+V00150,2025-07-29,João Pessoa,Natal,Caminhão 3/4,Motorista 20,306.6,2592.4,3500,74.1,824.82,17.19,134.29,976.3,1392.24,415.94,4.8,4.8,0.0,Entregue no prazo,3.6
+V01153,2025-07-29,Recife,Currais Novos,Carreta,Motorista 01,338.6,8269.1,27000,30.6,1946.92,33.52,127.22,2107.66,3009.64,901.98,5.5,5.5,0.0,Entregue no prazo,5.0
+V00615,2025-07-29,Fortaleza,Sousa,Van,Motorista 03,424.2,1411.0,1500,94.1,822.33,52.94,143.97,1019.24,1489.03,469.79,6.9,6.9,0.0,Entregue no prazo,4.3
+V00802,2025-07-30,Fortaleza,Caicó,Caminhão Toco,Motorista 20,396.5,1684.7,6000,28.1,1435.94,34.28,181.29,1651.51,1979.53,328.02,8.4,8.4,0.0,Entregue no prazo,4.7
+V00960,2025-07-31,Recife,Parnamirim,Caminhão 3/4,Motorista 03,373.7,1181.1,3500,33.7,988.75,22.17,115.54,1126.46,1345.72,219.26,7.7,7.7,0.0,Entregue no prazo,4.3
+V00508,2025-08-02,Natal,Fortaleza,Caminhão Truck,Motorista 11,264.7,6048.6,14000,43.2,1265.56,13.89,122.31,1401.76,1912.89,511.13,5.2,5.2,0.0,Entregue no prazo,3.9
+V00306,2025-08-02,Recife,Assú,Caminhão Toco,Motorista 09,35.7,2540.2,6000,42.3,116.37,4.71,13.12,134.2,198.75,64.55,0.8,0.8,0.0,Entregue no prazo,4.4
+V00115,2025-08-02,Recife,Assú,Caminhão Toco,Motorista 10,270.7,5604.2,6000,93.4,919.69,15.89,114.62,1050.2,1255.55,205.35,5.2,5.2,0.0,Entregue no prazo,4.1
+V00855,2025-08-03,João Pessoa,Mossoró,Van,Motorista 20,568.5,767.3,1500,51.2,1123.05,74.92,203.58,1401.55,1802.23,400.68,8.9,8.9,0.0,Entregue no prazo,4.6
+V00762,2025-08-03,Recife,Assú,Caminhão Toco,Motorista 20,816.7,2774.9,6000,46.2,3023.28,102.15,288.38,3413.81,4706.78,1292.97,13.0,13.0,0.0,Entregue no prazo,4.4
+V00928,2025-08-03,Mossoró,Recife,Caminhão Toco,Motorista 05,532.9,4617.7,6000,77.0,1877.86,60.09,259.55,2197.5,2790.0,592.5,10.2,10.2,0.0,Entregue no prazo,4.8
+V00815,2025-08-03,Mossoró,Caicó,Van,Motorista 04,125.4,250.6,1500,16.7,244.03,14.36,44.7,303.09,384.39,81.3,2.0,2.0,0.0,Em rota,
+V01028,2025-08-04,Fortaleza,Mossoró,Van,Motorista 20,550.3,1074.1,1500,71.6,1059.85,42.12,201.45,1303.42,1785.0,481.58,11.2,11.2,0.0,Entregue no prazo,4.9
+V00124,2025-08-04,Fortaleza,Recife,Carreta,Motorista 04,111.4,5797.6,27000,21.5,781.44,10.18,42.23,833.85,1063.39,229.54,2.3,2.3,0.0,Entregue no prazo,4.6
+V00524,2025-08-04,Natal,Fortaleza,Van,Motorista 19,694.6,686.6,1500,45.8,1197.55,85.77,250.69,1534.01,1872.13,338.12,11.4,11.4,0.0,Entregue no prazo,5.0
+V00327,2025-08-04,Natal,Fortaleza,Van,Motorista 19,425.5,274.5,1500,18.3,722.74,51.38,188.22,962.34,1452.5,490.16,7.5,7.5,0.0,Entregue no prazo,4.8
+V00709,2025-08-04,Natal,João Pessoa,Van,Motorista 13,521.8,430.8,1500,28.7,916.64,43.66,215.8,1176.1,1743.73,567.63,8.2,15.0,6.8,Entregue com atraso,1.9
+V00059,2025-08-04,Mossoró,Currais Novos,Caminhão 3/4,Motorista 14,115.4,2590.3,3500,74.0,313.42,8.93,36.45,358.8,424.91,66.11,1.8,1.8,0.0,Entregue no prazo,4.3
+V00151,2025-08-05,Natal,Assú,Carreta,Motorista 06,255.3,21826.7,27000,80.8,1606.47,26.72,98.69,1731.88,2022.07,290.19,5.3,5.3,0.0,Entregue no prazo,4.2
+V00382,2025-08-05,Fortaleza,Natal,Carreta,Motorista 07,138.1,23972.7,27000,88.8,829.47,9.99,65.1,904.56,1335.89,431.33,2.6,2.6,0.0,Entregue no prazo,4.1
+V00963,2025-08-05,João Pessoa,Sousa,Caminhão Truck,Motorista 16,789.7,644.6,14000,4.6,3609.21,64.24,341.95,4015.4,5966.29,1950.89,15.1,15.1,0.0,Entregue no prazo,4.5
+V00546,2025-08-05,Mossoró,Parnamirim,Caminhão Truck,Motorista 02,744.4,413.2,14000,3.0,3379.73,53.91,281.18,3714.82,4890.17,1175.35,12.4,12.4,0.0,Entregue no prazo,4.9
+V00338,2025-08-06,Mossoró,Sousa,Caminhão Toco,Motorista 20,348.1,5011.5,6000,83.5,1104.74,49.97,156.74,1311.45,2001.97,690.52,5.9,5.9,0.0,Entregue no prazo,4.1
+V00268,2025-08-06,Mossoró,João Pessoa,Van,Motorista 19,272.3,889.0,1500,59.3,524.25,29.76,89.77,643.78,784.66,140.88,4.4,4.4,0.0,Entregue no prazo,5.0
+V00552,2025-08-06,Mossoró,Natal,Caminhão 3/4,Motorista 12,824.4,3473.2,3500,99.2,2352.3,95.92,304.32,2752.54,3354.13,601.59,17.7,17.7,0.0,Entregue no prazo,4.9
+V01127,2025-08-07,João Pessoa,Recife,Van,Motorista 06,46.4,910.4,1500,60.7,82.3,3.61,17.04,102.95,144.7,41.75,1.0,1.0,0.0,Cancelada,
+V00311,2025-08-07,Natal,Fortaleza,Caminhão Toco,Motorista 06,566.9,2585.0,6000,43.1,2054.37,35.05,215.59,2305.01,3382.03,1077.02,11.5,11.5,0.0,Entregue no prazo,5.0
+V01018,2025-08-07,Fortaleza,João Pessoa,Van,Motorista 18,543.4,740.5,1500,49.4,1116.22,67.11,169.74,1353.07,1959.05,605.98,11.9,11.9,0.0,Entregue no prazo,4.7
+V01084,2025-08-07,João Pessoa,Sousa,Caminhão Truck,Motorista 02,43.9,6819.9,14000,48.7,220.21,6.13,21.57,247.91,372.32,124.41,0.8,0.8,0.0,Entregue no prazo,5.0
+V00996,2025-08-07,Recife,Caicó,Caminhão Toco,Motorista 11,342.7,1274.6,6000,21.2,1152.16,28.7,137.03,1317.89,1871.24,553.35,5.3,5.3,0.0,Entregue no prazo,4.0
+V00250,2025-08-08,João Pessoa,Natal,Caminhão Truck,Motorista 01,564.7,10976.7,14000,78.4,2789.84,62.26,227.19,3079.29,3616.33,537.04,11.1,11.1,0.0,Entregue no prazo,5.0
+V00586,2025-08-08,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 18,295.7,2137.5,3500,61.1,704.75,39.32,121.97,866.04,1228.33,362.29,5.0,5.0,0.0,Entregue no prazo,5.0
+V00638,2025-08-08,Natal,Sousa,Van,Motorista 04,843.2,1405.8,1500,93.7,1482.75,51.57,394.58,1928.9,2987.61,1058.71,16.6,16.6,0.0,Entregue no prazo,4.7
+V00766,2025-08-08,Mossoró,Currais Novos,Van,Motorista 17,390.3,587.2,1500,39.1,712.36,22.29,179.44,914.09,1140.16,226.07,6.6,6.6,0.0,Entregue no prazo,4.9
+V00477,2025-08-08,Recife,Mossoró,Caminhão Truck,Motorista 01,226.8,1350.6,14000,9.6,1155.45,24.49,98.3,1278.24,1936.06,657.82,4.4,4.4,0.0,Entregue no prazo,4.9
+V00373,2025-08-08,Natal,Sousa,Caminhão Toco,Motorista 09,104.9,4588.5,6000,76.5,372.93,7.2,35.42,415.55,508.51,92.96,2.3,2.3,0.0,Entregue no prazo,4.7
+V01072,2025-08-08,Recife,João Pessoa,Caminhão 3/4,Motorista 01,76.4,2949.5,3500,84.3,181.02,8.81,27.72,217.55,266.9,49.35,1.3,1.3,0.0,Entregue no prazo,4.7
+V00909,2025-08-08,Recife,Currais Novos,Caminhão Toco,Motorista 01,74.7,5084.8,6000,84.7,269.74,6.75,22.65,299.14,414.81,115.67,1.7,1.7,0.0,Entregue no prazo,3.9
+V00961,2025-08-09,Fortaleza,Caicó,Carreta,Motorista 14,716.8,9950.5,27000,36.9,4080.5,76.61,295.13,4452.24,6633.79,2181.55,11.0,11.0,0.0,Entregue no prazo,4.9
+V00109,2025-08-10,Fortaleza,Sousa,Caminhão 3/4,Motorista 09,69.5,3179.6,3500,90.8,201.13,8.12,29.1,238.35,359.17,120.82,1.4,1.4,0.0,Entregue no prazo,3.6
+V00700,2025-08-10,Mossoró,Assú,Caminhão Truck,Motorista 19,35.6,799.7,14000,5.7,180.38,3.66,15.92,199.96,297.02,97.06,0.6,4.7,4.1,Entregue com atraso,3.5
+V00091,2025-08-10,Mossoró,Recife,Van,Motorista 12,66.6,247.2,1500,16.5,116.16,5.17,30.46,151.79,233.75,81.96,1.3,1.3,0.0,Entregue no prazo,4.5
+V00933,2025-08-11,Mossoró,Recife,Caminhão Truck,Motorista 15,190.5,10751.0,14000,76.8,776.56,16.68,61.37,854.61,1103.29,248.68,3.9,3.9,0.0,Entregue no prazo,3.6
+V01052,2025-08-11,Fortaleza,Parnamirim,Van,Motorista 06,787.9,1272.6,1500,84.8,1575.6,92.42,284.37,1952.39,2273.07,320.68,12.4,12.4,0.0,Entregue no prazo,4.1
+V00137,2025-08-11,João Pessoa,Fortaleza,Van,Motorista 14,704.5,1245.1,1500,83.0,1316.45,71.87,231.48,1619.8,2365.13,745.33,14.0,14.0,0.0,Entregue no prazo,5.0
+V01077,2025-08-11,Fortaleza,Caicó,Caminhão Truck,Motorista 02,815.5,2377.7,14000,17.0,3662.54,109.61,376.25,4148.4,5807.42,1659.02,16.2,16.2,0.0,Entregue no prazo,4.8
+V00589,2025-08-11,Fortaleza,Currais Novos,Caminhão Truck,Motorista 20,757.9,4591.0,14000,32.8,3211.02,94.43,284.71,3590.16,4808.19,1218.03,13.2,13.2,0.0,Cancelada,
+V00516,2025-08-12,Recife,Currais Novos,Caminhão Toco,Motorista 18,204.4,3700.8,6000,61.7,712.96,27.94,100.27,841.17,1103.57,262.4,3.7,3.7,0.0,Em rota,
+V00821,2025-08-12,Natal,Mossoró,Caminhão 3/4,Motorista 14,754.0,2536.4,3500,72.5,2189.99,66.61,273.46,2530.06,3294.73,764.67,16.6,19.7,3.1,Entregue com atraso,2.9
+V00167,2025-08-13,Mossoró,João Pessoa,Caminhão 3/4,Motorista 04,674.7,2623.7,3500,75.0,1747.36,35.43,315.62,2098.41,2422.76,324.35,11.4,11.4,0.0,Em rota,
+V00071,2025-08-13,Recife,Caicó,Carreta,Motorista 02,139.7,11418.0,27000,42.3,950.66,15.12,60.94,1026.72,1258.63,231.91,2.4,2.4,0.0,Entregue no prazo,4.6
+V00657,2025-08-13,Mossoró,Currais Novos,Caminhão 3/4,Motorista 05,316.9,2537.5,3500,72.5,817.32,33.44,101.4,952.16,1401.59,449.43,6.0,6.0,0.0,Entregue no prazo,4.1
+V00517,2025-08-13,Mossoró,Assú,Caminhão Truck,Motorista 01,370.3,4711.8,14000,33.7,1752.45,52.97,173.07,1978.49,3063.09,1084.6,8.1,8.1,0.0,Entregue no prazo,5.0
+V00161,2025-08-14,Natal,Mossoró,Van,Motorista 17,472.1,567.2,1500,37.8,855.14,25.38,153.7,1034.22,1506.05,471.83,10.5,10.5,0.0,Entregue no prazo,5.0
+V00334,2025-08-15,Natal,Sousa,Caminhão Toco,Motorista 13,290.3,1477.9,6000,24.6,1015.47,17.49,130.74,1163.7,1760.09,596.39,4.8,4.8,0.0,Entregue no prazo,4.5
+V00708,2025-08-15,Natal,Recife,Caminhão 3/4,Motorista 20,683.7,1661.4,3500,47.5,1741.39,83.63,314.72,2139.74,3138.33,998.59,10.6,16.9,6.3,Entregue com atraso,2.6
+V00854,2025-08-15,Recife,Parnamirim,Van,Motorista 20,822.9,590.2,1500,39.3,1613.21,76.86,338.78,2028.85,2995.76,966.91,16.6,16.6,0.0,Entregue no prazo,4.3
+V00422,2025-08-16,Mossoró,Fortaleza,Caminhão Truck,Motorista 02,71.7,12117.1,14000,86.6,317.89,10.03,35.0,362.92,514.75,151.83,1.2,1.2,0.0,Entregue no prazo,4.9
+V00991,2025-08-16,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 06,581.2,707.4,3500,20.2,1410.34,40.93,263.48,1714.75,2174.56,459.81,12.8,12.8,0.0,Em rota,
+V00862,2025-08-16,João Pessoa,Assú,Caminhão Truck,Motorista 05,784.1,12826.1,14000,91.6,4048.18,107.74,391.7,4547.62,5674.86,1127.24,12.7,14.9,2.2,Entregue com atraso,2.8
+V00673,2025-08-16,Natal,Fortaleza,Caminhão 3/4,Motorista 05,80.5,3363.2,3500,96.1,195.8,6.48,37.39,239.67,296.59,56.92,1.6,1.6,0.0,Entregue no prazo,4.6
+V01109,2025-08-16,Natal,Parnamirim,Caminhão Toco,Motorista 03,92.6,4000.9,6000,66.7,321.8,5.9,45.11,372.81,571.24,198.43,1.5,2.7,1.2,Entregue com atraso,3.5
+V00471,2025-08-16,João Pessoa,Parnamirim,Caminhão Toco,Motorista 12,534.6,2589.3,6000,43.2,2060.48,29.32,182.86,2272.66,3127.99,855.33,9.3,9.3,0.0,Entregue no prazo,5.0
+V00870,2025-08-17,Natal,Sousa,Caminhão 3/4,Motorista 09,89.6,2961.1,3500,84.6,219.83,5.11,34.05,258.99,357.61,98.62,1.4,1.4,0.0,Em rota,
+V00453,2025-08-17,João Pessoa,Caicó,Caminhão 3/4,Motorista 01,136.9,1340.6,3500,38.3,392.22,10.22,42.8,445.24,535.48,90.24,2.2,2.2,0.0,Entregue no prazo,4.8
+V00116,2025-08-17,Mossoró,Currais Novos,Caminhão 3/4,Motorista 11,66.8,1687.0,3500,48.2,196.67,4.44,25.25,226.36,326.4,100.04,1.1,1.1,0.0,Entregue no prazo,5.0
+V00030,2025-08-18,Mossoró,Assú,Carreta,Motorista 01,293.0,19614.5,27000,72.6,1973.66,20.52,138.77,2132.95,3062.85,929.9,5.2,5.2,0.0,Entregue no prazo,5.0
+V00329,2025-08-18,João Pessoa,Caicó,Caminhão Truck,Motorista 12,314.5,13073.6,14000,93.4,1600.17,31.52,114.97,1746.66,2523.67,777.01,6.9,6.9,0.0,Entregue no prazo,5.0
+V00062,2025-08-19,Mossoró,Currais Novos,Caminhão Toco,Motorista 16,31.0,1944.9,6000,32.4,120.72,3.02,11.67,135.41,162.21,26.8,0.5,0.5,0.0,Entregue no prazo,5.0
+V00757,2025-08-20,Fortaleza,Caicó,Van,Motorista 04,772.9,1371.3,1500,91.4,1591.72,108.35,251.56,1951.63,2887.42,935.79,14.5,14.5,0.0,Em rota,
+V00395,2025-08-20,João Pessoa,Fortaleza,Caminhão Truck,Motorista 02,612.5,5981.1,14000,42.7,2837.06,35.78,304.36,3177.2,4500.7,1323.5,12.1,12.1,0.0,Entregue no prazo,4.9
+V00841,2025-08-20,Recife,Natal,Van,Motorista 08,703.3,765.5,1500,51.0,1369.52,54.12,225.08,1648.72,2128.45,479.73,13.3,13.3,0.0,Entregue no prazo,5.0
+V00805,2025-08-20,Natal,Fortaleza,Caminhão Truck,Motorista 12,598.6,13177.5,14000,94.1,2797.75,65.86,296.54,3160.15,4445.86,1285.71,13.1,20.4,7.3,Entregue com atraso,2.9
+V01152,2025-08-20,João Pessoa,Sousa,Van,Motorista 17,800.1,1252.0,1500,83.5,1591.62,55.62,262.96,1910.2,2216.62,306.42,16.1,18.4,2.3,Entregue com atraso,2.7
+V00314,2025-08-20,Natal,Currais Novos,Caminhão Truck,Motorista 04,482.6,3537.4,14000,25.3,2185.81,70.83,208.27,2464.91,3391.12,926.21,7.6,7.6,0.0,Entregue no prazo,4.7
+V00037,2025-08-20,Fortaleza,Currais Novos,Caminhão Toco,Motorista 16,479.0,4940.3,6000,82.3,1649.9,54.78,194.13,1898.81,2739.29,840.48,10.3,10.3,0.0,Entregue no prazo,4.2
+V00198,2025-08-21,João Pessoa,Currais Novos,Carreta,Motorista 20,664.4,20242.1,27000,75.0,3862.45,47.65,260.98,4171.08,5237.22,1066.14,12.5,19.2,6.7,Entregue com atraso,2.6
+V00143,2025-08-21,Recife,Fortaleza,Caminhão 3/4,Motorista 08,564.3,2637.4,3500,75.4,1436.23,64.6,213.88,1714.71,2461.09,746.38,11.5,14.2,2.7,Entregue com atraso,3.8
+V00576,2025-08-21,João Pessoa,Fortaleza,Van,Motorista 04,368.5,1317.8,1500,87.9,638.73,54.58,155.78,849.09,1245.97,396.88,7.9,7.9,0.0,Entregue no prazo,4.3
+V00817,2025-08-22,Natal,Fortaleza,Caminhão Toco,Motorista 05,45.7,4299.9,6000,71.7,164.53,2.96,20.71,188.2,221.58,33.38,0.7,0.7,0.0,Entregue no prazo,4.5
+V00055,2025-08-22,Mossoró,Parnamirim,Carreta,Motorista 04,101.4,22062.1,27000,81.7,624.52,10.41,32.7,667.63,768.46,100.83,1.8,1.8,0.0,Entregue no prazo,4.7
+V00086,2025-08-22,Natal,Currais Novos,Caminhão Truck,Motorista 02,521.5,8509.6,14000,60.8,2125.53,42.87,222.84,2391.24,2892.44,501.2,8.9,16.8,7.9,Entregue com atraso,3.6
+V00216,2025-08-22,Fortaleza,Natal,Caminhão Truck,Motorista 05,173.6,9484.2,14000,67.7,746.14,12.47,82.43,841.04,1051.19,210.15,3.5,3.5,0.0,Entregue no prazo,4.3
+V00413,2025-08-22,Recife,Assú,Caminhão Truck,Motorista 18,52.5,5770.0,14000,41.2,271.31,3.54,22.81,297.66,362.95,65.29,0.9,0.9,0.0,Entregue no prazo,4.6
+V00749,2025-08-22,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 15,719.3,2452.7,3500,70.1,1780.58,69.18,346.75,2196.51,2813.06,616.55,13.1,13.1,0.0,Em rota,
+V00582,2025-08-22,João Pessoa,Assú,Caminhão Truck,Motorista 07,121.0,2644.3,14000,18.9,548.4,7.58,50.0,605.98,793.45,187.47,2.4,2.4,0.0,Entregue no prazo,5.0
+V00210,2025-08-23,Fortaleza,Parnamirim,Van,Motorista 10,240.3,661.9,1500,44.1,462.17,13.52,82.21,557.9,822.13,264.23,5.0,5.0,0.0,Entregue no prazo,4.3
+V00065,2025-08-23,João Pessoa,Assú,Caminhão 3/4,Motorista 12,793.1,584.0,3500,16.7,2277.26,69.84,377.19,2724.29,4078.87,1354.58,13.0,15.8,2.8,Entregue com atraso,4.1
+V00774,2025-08-23,Natal,João Pessoa,Caminhão Toco,Motorista 03,290.4,2292.3,6000,38.2,1053.84,32.89,100.61,1187.34,1791.69,604.35,4.7,4.7,0.0,Entregue no prazo,5.0
+V00278,2025-08-23,Mossoró,Parnamirim,Caminhão Toco,Motorista 01,48.2,5933.5,6000,98.9,149.19,7.07,19.76,176.02,270.24,94.22,1.0,1.0,0.0,Entregue no prazo,4.3
+V00410,2025-08-23,Fortaleza,Natal,Caminhão Toco,Motorista 04,97.2,1336.7,6000,22.3,375.41,14.35,36.47,426.23,647.58,221.35,1.7,1.7,0.0,Entregue no prazo,5.0
+V00679,2025-08-23,Fortaleza,Sousa,Van,Motorista 13,803.9,1245.5,1500,83.0,1367.67,72.88,298.35,1738.9,2549.93,811.03,14.6,14.6,0.0,Entregue no prazo,4.2
+V00356,2025-08-23,João Pessoa,Currais Novos,Carreta,Motorista 12,161.7,4837.0,27000,17.9,969.15,10.02,55.96,1035.13,1234.46,199.33,2.6,2.6,0.0,Entregue no prazo,3.9
+V01167,2025-08-24,Fortaleza,Recife,Caminhão Toco,Motorista 13,294.9,2320.7,6000,38.7,913.79,32.12,131.05,1076.96,1571.72,494.76,6.1,6.1,0.0,Entregue no prazo,3.3
+V00039,2025-08-24,Mossoró,João Pessoa,Van,Motorista 19,587.8,293.9,1500,19.6,960.34,44.54,230.73,1235.61,1850.09,614.48,9.9,13.6,3.7,Entregue com atraso,2.6
+V00866,2025-08-25,Recife,Assú,Van,Motorista 01,190.9,912.6,1500,60.8,348.17,26.3,61.09,435.56,545.8,110.24,3.2,3.2,0.0,Entregue no prazo,4.5
+V00884,2025-08-25,Recife,Currais Novos,Van,Motorista 06,801.8,965.4,1500,64.4,1411.2,76.15,369.74,1857.09,2255.71,398.62,15.8,15.8,0.0,Entregue no prazo,5.0
+V00585,2025-08-26,João Pessoa,Natal,Caminhão Toco,Motorista 19,158.2,2734.8,6000,45.6,537.46,19.67,65.83,622.96,813.12,190.16,3.3,3.3,0.0,Entregue no prazo,5.0
+V00645,2025-08-27,João Pessoa,Assú,Van,Motorista 06,367.1,661.7,1500,44.1,661.96,33.38,150.08,845.42,1156.02,310.6,6.7,6.7,0.0,Entregue no prazo,4.4
+V00437,2025-08-27,João Pessoa,Natal,Carreta,Motorista 03,695.4,1683.6,27000,6.2,4460.36,39.68,338.53,4838.57,7047.57,2209.0,12.0,17.4,5.4,Entregue com atraso,3.3
+V00445,2025-08-27,Recife,Caicó,Caminhão 3/4,Motorista 07,34.8,459.1,3500,13.1,101.37,2.01,15.36,118.74,180.25,61.51,0.7,0.7,0.0,Entregue no prazo,5.0
+V00403,2025-08-27,Recife,Parnamirim,Caminhão Truck,Motorista 01,138.6,7747.4,14000,55.3,646.5,8.17,53.17,707.84,1055.61,347.77,2.2,2.2,0.0,Entregue no prazo,4.7
+V00357,2025-08-27,Mossoró,Assú,Caminhão Truck,Motorista 10,283.8,13653.7,14000,97.5,1280.65,26.81,117.86,1425.32,2199.75,774.43,5.7,5.7,0.0,Entregue no prazo,5.0
+V00656,2025-08-27,Recife,Caicó,Carreta,Motorista 06,687.2,25483.9,27000,94.4,3939.49,52.58,274.2,4266.27,6350.83,2084.56,12.5,14.0,1.5,Entregue com atraso,3.8
+V00031,2025-08-28,Fortaleza,Parnamirim,Van,Motorista 17,104.8,399.8,1500,26.7,191.17,10.8,31.81,233.78,343.36,109.58,2.1,2.1,0.0,Cancelada,
+V00414,2025-08-29,Fortaleza,Currais Novos,Van,Motorista 10,623.1,376.9,1500,25.1,1243.85,40.8,224.46,1509.11,1885.77,376.66,11.9,11.9,0.0,Entregue no prazo,3.1
+V01032,2025-08-29,Mossoró,Sousa,Caminhão Truck,Motorista 14,333.3,11611.5,14000,82.9,1408.48,28.12,148.32,1584.92,1832.61,247.69,6.6,6.6,0.0,Entregue no prazo,4.7
+V00263,2025-08-29,Mossoró,Natal,Carreta,Motorista 08,508.2,19769.9,27000,73.2,3123.13,57.98,199.84,3380.95,4144.96,764.01,8.6,8.6,0.0,Entregue no prazo,5.0
+V00871,2025-08-30,Fortaleza,Caicó,Van,Motorista 02,493.4,782.3,1500,52.2,867.97,49.46,181.44,1098.87,1596.44,497.57,8.8,13.4,4.6,Entregue com atraso,3.1
+V00839,2025-08-30,Mossoró,João Pessoa,Van,Motorista 07,293.5,248.7,1500,16.6,596.69,18.77,120.44,735.9,926.96,191.06,6.3,6.3,0.0,Entregue no prazo,4.7
+V01048,2025-08-31,Fortaleza,Mossoró,Carreta,Motorista 20,749.9,2339.5,27000,8.7,4356.86,39.15,319.21,4715.22,6520.91,1805.69,11.6,15.2,3.6,Entregue com atraso,2.6
+V00117,2025-08-31,Mossoró,Currais Novos,Carreta,Motorista 05,31.3,17255.6,27000,63.9,177.13,2.37,9.76,189.26,263.36,74.1,0.5,0.5,0.0,Entregue no prazo,3.9
+V00562,2025-08-31,Mossoró,Fortaleza,Caminhão Toco,Motorista 09,235.0,3735.3,6000,62.3,835.99,20.44,93.34,949.77,1211.44,261.67,4.9,4.9,0.0,Entregue no prazo,4.4
+V00974,2025-08-31,Recife,Assú,Caminhão Toco,Motorista 15,624.2,406.2,6000,6.8,2439.23,85.68,224.38,2749.29,3444.76,695.47,11.9,11.9,0.0,Entregue no prazo,4.1
+V00162,2025-08-31,Recife,Sousa,Carreta,Motorista 07,196.9,470.4,27000,1.7,1232.22,27.23,61.11,1320.56,1619.6,299.04,3.8,9.1,5.3,Entregue com atraso,4.2
+V00102,2025-09-01,João Pessoa,Sousa,Caminhão Truck,Motorista 18,120.8,10682.2,14000,76.3,623.52,16.93,51.98,692.43,883.28,190.85,2.4,9.5,7.1,Entregue com atraso,3.3
+V00139,2025-09-01,João Pessoa,Sousa,Van,Motorista 11,707.9,368.9,1500,24.6,1326.78,96.74,293.33,1716.85,2597.39,880.54,11.1,11.1,0.0,Entregue no prazo,4.3
+V01198,2025-09-01,Mossoró,Natal,Van,Motorista 13,805.2,386.9,1500,25.8,1631.62,46.99,374.04,2052.65,2485.32,432.67,17.6,17.6,0.0,Entregue no prazo,4.8
+V01064,2025-09-01,João Pessoa,Assú,Caminhão Truck,Motorista 05,283.6,5370.9,14000,38.4,1298.25,26.28,114.29,1438.82,1989.81,550.99,5.2,5.2,0.0,Entregue no prazo,4.3
+V01176,2025-09-01,João Pessoa,Assú,Caminhão 3/4,Motorista 03,694.4,2707.6,3500,77.4,1843.55,72.06,216.59,2132.2,2925.81,793.61,11.4,11.4,0.0,Entregue no prazo,5.0
+V00732,2025-09-01,Fortaleza,Currais Novos,Van,Motorista 04,279.5,868.8,1500,57.9,542.53,39.86,88.79,671.18,1028.08,356.9,4.4,4.4,0.0,Entregue no prazo,5.0
+V00398,2025-09-01,Recife,João Pessoa,Caminhão Toco,Motorista 16,66.8,3810.8,6000,63.5,221.95,5.8,30.32,258.07,380.49,122.42,1.3,1.3,0.0,Em rota,
+V00513,2025-09-03,Fortaleza,Sousa,Van,Motorista 03,361.9,492.8,1500,32.9,628.15,35.45,135.15,798.75,1210.53,411.78,6.9,6.9,0.0,Entregue no prazo,5.0
+V00095,2025-09-03,Recife,Fortaleza,Caminhão 3/4,Motorista 11,85.5,2535.9,3500,72.5,230.28,4.97,33.49,268.74,361.15,92.41,1.8,1.8,0.0,Em rota,
+V00724,2025-09-03,João Pessoa,Caicó,Van,Motorista 17,137.5,792.0,1500,52.8,272.9,18.26,52.57,343.73,466.62,122.89,3.0,3.0,0.0,Entregue no prazo,3.9
+V00159,2025-09-04,João Pessoa,Currais Novos,Caminhão Truck,Motorista 07,723.6,5733.0,14000,40.9,3551.79,95.74,345.72,3993.25,5461.98,1468.73,14.7,14.7,0.0,Entregue no prazo,5.0
+V00785,2025-09-04,João Pessoa,Fortaleza,Caminhão Toco,Motorista 18,38.3,2989.9,6000,49.8,130.69,2.32,18.56,151.57,223.11,71.54,0.8,0.8,0.0,Entregue no prazo,3.6
+V01075,2025-09-05,João Pessoa,Sousa,Caminhão Truck,Motorista 12,253.0,6962.6,14000,49.7,1139.89,16.96,86.15,1243.0,1886.03,643.03,4.1,4.1,0.0,Entregue no prazo,4.3
+V00921,2025-09-05,Mossoró,Assú,Caminhão Toco,Motorista 06,341.6,5207.2,6000,86.8,1236.88,41.72,112.77,1391.37,2091.6,700.23,7.1,7.1,0.0,Entregue no prazo,4.5
+V00299,2025-09-06,João Pessoa,Currais Novos,Caminhão 3/4,Motorista 03,546.3,3049.5,3500,87.1,1325.32,80.72,227.55,1633.59,2529.11,895.52,8.6,8.6,0.0,Entregue no prazo,4.7
+V00920,2025-09-06,Natal,Mossoró,Caminhão 3/4,Motorista 03,524.7,2407.4,3500,68.8,1451.2,49.63,193.78,1694.61,2515.43,820.82,8.7,8.7,0.0,Entregue no prazo,3.9
+V00470,2025-09-07,Natal,João Pessoa,Caminhão 3/4,Motorista 19,734.3,2275.3,3500,65.0,2082.37,92.91,272.61,2447.89,3083.44,635.55,12.0,12.0,0.0,Entregue no prazo,3.9
+V01121,2025-09-07,Recife,Mossoró,Caminhão Truck,Motorista 16,685.4,3947.2,14000,28.2,2801.46,69.71,232.58,3103.75,4510.18,1406.43,11.9,11.9,0.0,Cancelada,
+V00814,2025-09-07,Natal,Currais Novos,Caminhão Toco,Motorista 18,391.1,4301.3,6000,71.7,1392.13,31.99,160.65,1584.77,2285.69,700.92,8.5,8.5,0.0,Entregue no prazo,3.9
+V00459,2025-09-07,Mossoró,Currais Novos,Caminhão 3/4,Motorista 01,753.4,1631.8,3500,46.6,2129.06,112.99,335.25,2577.3,3081.61,504.31,13.6,13.6,0.0,Entregue no prazo,4.0
+V01022,2025-09-07,Fortaleza,Caicó,Caminhão Truck,Motorista 05,52.1,12607.9,14000,90.1,230.82,6.48,23.55,260.85,367.86,107.01,1.0,1.0,0.0,Entregue no prazo,4.5
+V00579,2025-09-07,João Pessoa,Fortaleza,Caminhão Truck,Motorista 05,457.1,11742.1,14000,83.9,2278.17,66.56,200.97,2545.7,3139.12,593.42,10.1,10.1,0.0,Entregue no prazo,3.6
+V00947,2025-09-08,Fortaleza,Sousa,Van,Motorista 08,632.9,480.6,1500,32.0,1266.43,57.89,194.45,1518.77,1941.85,423.08,10.5,10.5,0.0,Em rota,
+V00628,2025-09-08,João Pessoa,Natal,Caminhão Truck,Motorista 12,462.2,727.2,14000,5.2,2191.81,61.38,153.22,2406.41,3339.45,933.04,8.1,8.1,0.0,Entregue no prazo,3.8
+V00005,2025-09-10,João Pessoa,Assú,Van,Motorista 14,270.4,1365.2,1500,91.0,439.63,15.83,92.36,547.82,635.81,87.99,5.6,5.6,0.0,Entregue no prazo,5.0
+V00765,2025-09-10,Mossoró,Caicó,Van,Motorista 16,240.3,1146.0,1500,76.4,397.24,17.37,108.07,522.68,692.47,169.79,4.1,4.1,0.0,Entregue no prazo,4.7
+V00859,2025-09-11,Natal,Mossoró,Caminhão 3/4,Motorista 17,302.2,2260.6,3500,64.6,869.32,43.42,139.2,1051.94,1389.27,337.33,5.2,9.4,4.2,Entregue com atraso,3.0
+V00603,2025-09-12,Natal,Sousa,Caminhão Truck,Motorista 15,580.0,11893.5,14000,85.0,2355.22,52.37,279.24,2686.83,3885.49,1198.66,10.4,10.4,0.0,Entregue no prazo,4.8
+V00786,2025-09-13,Recife,Currais Novos,Van,Motorista 06,192.4,233.5,1500,15.6,313.44,21.59,83.18,418.21,532.97,114.76,3.7,3.7,0.0,Entregue no prazo,5.0
+V01180,2025-09-13,Fortaleza,Currais Novos,Van,Motorista 02,54.0,1466.9,1500,97.8,92.88,5.25,16.86,114.99,156.25,41.26,1.0,1.0,0.0,Entregue no prazo,5.0
+V00968,2025-09-13,Natal,Recife,Caminhão 3/4,Motorista 10,523.0,673.3,3500,19.2,1530.28,35.27,193.81,1759.36,2287.53,528.17,9.7,16.2,6.5,Entregue com atraso,3.0
+V00536,2025-09-13,Natal,Sousa,Caminhão 3/4,Motorista 20,638.1,1198.7,3500,34.2,1767.88,42.01,279.25,2089.14,2509.63,420.49,11.9,11.9,0.0,Entregue no prazo,4.1
+V00282,2025-09-13,Recife,Parnamirim,Van,Motorista 08,134.6,731.8,1500,48.8,239.52,10.81,60.06,310.39,443.95,133.56,2.4,2.4,0.0,Cancelada,
+V01027,2025-09-14,Mossoró,João Pessoa,Caminhão Truck,Motorista 16,373.9,8396.3,14000,60.0,1877.45,24.65,113.3,2015.4,2679.87,664.47,7.0,7.0,0.0,Entregue no prazo,4.9
+V00571,2025-09-14,Natal,Parnamirim,Carreta,Motorista 07,197.9,9173.1,27000,34.0,1205.6,10.29,64.72,1280.61,1828.81,548.2,4.2,4.2,0.0,Entregue no prazo,5.0
+V00463,2025-09-14,Mossoró,Currais Novos,Caminhão 3/4,Motorista 11,151.4,525.7,3500,15.0,411.33,17.08,56.48,484.89,661.47,176.58,2.5,10.2,7.7,Entregue com atraso,2.1
+V00601,2025-09-14,Mossoró,Parnamirim,Caminhão Truck,Motorista 11,474.5,12882.7,14000,92.0,2402.11,44.99,168.39,2615.49,3419.15,803.66,9.0,9.0,0.0,Entregue no prazo,5.0
+V00856,2025-09-16,Natal,João Pessoa,Carreta,Motorista 07,636.6,23535.5,27000,87.2,4177.84,85.54,224.23,4487.61,5336.13,848.52,11.1,11.1,0.0,Entregue no prazo,4.3
+V00755,2025-09-16,Recife,Currais Novos,Caminhão 3/4,Motorista 19,160.6,1636.8,3500,46.8,417.76,17.28,66.92,501.96,727.84,225.88,2.9,2.9,0.0,Entregue no prazo,4.3
+V00888,2025-09-16,Mossoró,João Pessoa,Caminhão Truck,Motorista 07,337.3,307.7,14000,2.2,1629.29,27.75,139.75,1796.79,2753.92,957.13,6.6,6.6,0.0,Em rota,
+V01047,2025-09-16,Natal,Assú,Van,Motorista 18,178.7,818.5,1500,54.6,342.05,11.54,60.23,413.82,509.73,95.91,3.6,3.6,0.0,Entregue no prazo,5.0
+V00664,2025-09-18,Mossoró,Recife,Caminhão 3/4,Motorista 16,354.5,795.2,3500,22.7,1023.44,18.12,128.48,1170.04,1351.44,181.4,7.6,7.6,0.0,Entregue no prazo,4.1
+V00104,2025-09-19,Fortaleza,Recife,Van,Motorista 16,117.2,609.4,1500,40.6,190.07,13.85,39.08,243.0,343.14,100.14,1.8,1.8,0.0,Entregue no prazo,5.0
+V00204,2025-09-19,Natal,Parnamirim,Carreta,Motorista 12,440.3,18715.7,27000,69.3,2932.64,50.57,156.33,3139.54,3806.64,667.1,7.6,7.6,0.0,Entregue no prazo,4.9
+V00061,2025-09-19,Natal,Currais Novos,Caminhão 3/4,Motorista 06,487.4,2611.1,3500,74.6,1287.9,27.3,201.03,1516.23,2324.46,808.23,10.0,10.0,0.0,Entregue no prazo,3.7
+V00806,2025-09-19,Recife,Currais Novos,Caminhão Toco,Motorista 08,297.2,1578.2,6000,26.3,1044.7,42.17,129.92,1216.79,1761.63,544.84,4.8,4.8,0.0,Entregue no prazo,4.7
+V00711,2025-09-20,Mossoró,Caicó,Van,Motorista 17,150.9,1120.6,1500,74.7,274.03,11.32,66.0,351.35,508.43,157.08,3.1,3.1,0.0,Cancelada,
+V00752,2025-09-21,João Pessoa,Sousa,Caminhão 3/4,Motorista 09,753.0,2310.6,3500,66.0,1794.91,56.71,347.57,2199.19,2676.09,476.9,12.8,15.8,3.0,Entregue com atraso,2.9
+V00932,2025-09-21,Natal,Currais Novos,Caminhão 3/4,Motorista 17,445.9,3486.3,3500,99.6,1095.17,66.1,167.32,1328.59,1634.34,305.75,8.4,8.4,0.0,Entregue no prazo,5.0
+V01011,2025-09-22,Mossoró,Currais Novos,Caminhão Toco,Motorista 17,580.8,2702.4,6000,45.0,1834.32,35.01,261.87,2131.2,2639.31,508.11,12.7,12.7,0.0,Em rota,
+V00563,2025-09-22,João Pessoa,Sousa,Caminhão Toco,Motorista 16,465.0,2611.5,6000,43.5,1759.01,33.93,161.79,1954.73,2539.28,584.55,9.4,9.4,0.0,Entregue no prazo,4.4
+V00754,2025-09-23,João Pessoa,Assú,Caminhão 3/4,Motorista 19,816.8,2154.0,3500,61.5,2346.41,108.25,255.89,2710.55,3302.38,591.83,15.9,15.9,0.0,Entregue no prazo,4.2
+V01089,2025-09-24,Natal,Recife,Van,Motorista 16,757.1,1065.2,1500,71.0,1447.04,56.51,286.92,1790.47,2548.41,757.94,12.0,12.0,0.0,Entregue no prazo,4.9
+V00466,2025-09-24,Fortaleza,Mossoró,Caminhão Toco,Motorista 18,166.9,902.7,6000,15.0,522.83,23.52,56.53,602.88,793.7,190.82,3.1,3.1,0.0,Entregue no prazo,5.0
+V00912,2025-09-24,Recife,João Pessoa,Caminhão Truck,Motorista 01,769.8,5523.1,14000,39.5,3792.41,94.28,240.1,4126.79,5705.71,1578.92,16.2,16.2,0.0,Em rota,
+V00157,2025-09-24,Fortaleza,Recife,Carreta,Motorista 14,540.1,26797.5,27000,99.2,3337.17,58.0,206.92,3602.09,5363.18,1761.09,8.6,16.4,7.8,Entregue com atraso,2.9
+V00012,2025-09-26,Mossoró,Sousa,Caminhão Truck,Motorista 08,386.6,3600.3,14000,25.7,1921.98,50.24,169.69,2141.91,2696.36,554.45,6.8,6.8,0.0,Entregue no prazo,3.8
+V00049,2025-09-27,Mossoró,Natal,Caminhão 3/4,Motorista 16,647.0,498.6,3500,14.2,1635.39,39.41,278.28,1953.08,2843.83,890.75,10.2,10.2,0.0,Entregue no prazo,4.7
+V01050,2025-09-27,Recife,Mossoró,Caminhão Toco,Motorista 18,404.3,1775.8,6000,29.6,1358.09,24.03,155.91,1538.03,2373.65,835.62,7.8,14.6,6.8,Entregue com atraso,2.6
+V01053,2025-09-27,Mossoró,Currais Novos,Caminhão Truck,Motorista 17,266.1,10351.6,14000,73.9,1309.87,34.83,110.21,1454.91,1679.26,224.35,4.4,4.4,0.0,Entregue no prazo,4.3
+V00454,2025-09-27,Mossoró,Natal,Caminhão Truck,Motorista 03,283.7,9779.0,14000,69.8,1154.13,24.76,105.07,1283.96,1755.68,471.72,6.1,8.2,2.1,Entregue com atraso,2.3
+V00692,2025-09-28,João Pessoa,Sousa,Caminhão Truck,Motorista 10,316.3,9450.4,14000,67.5,1509.61,45.26,148.12,1702.99,2399.48,696.49,6.1,10.9,4.8,Entregue com atraso,3.6
+V00993,2025-09-28,Fortaleza,Caicó,Caminhão Toco,Motorista 08,417.4,3051.4,6000,50.9,1283.78,27.05,156.79,1467.62,2089.15,621.53,8.4,8.4,0.0,Entregue no prazo,5.0
+V00530,2025-09-28,Fortaleza,João Pessoa,Caminhão Toco,Motorista 10,644.4,5795.2,6000,96.6,2012.16,35.66,314.15,2361.97,3216.89,854.92,11.2,11.2,0.0,Entregue no prazo,4.9
+V01179,2025-09-28,Fortaleza,Sousa,Caminhão 3/4,Motorista 18,704.7,3324.4,3500,95.0,1697.86,79.71,291.51,2069.08,3116.29,1047.21,11.7,11.7,0.0,Em rota,
+V00527,2025-09-28,Fortaleza,Mossoró,Van,Motorista 02,756.8,1289.2,1500,85.9,1526.66,107.62,242.86,1877.14,2255.38,378.24,13.5,21.3,7.8,Entregue com atraso,3.2
+V00634,2025-09-29,Recife,Natal,Caminhão 3/4,Motorista 20,794.2,3214.8,3500,91.9,2129.63,97.28,307.52,2534.43,3553.31,1018.88,15.3,15.3,0.0,Entregue no prazo,5.0
+V01150,2025-09-30,Fortaleza,Assú,Caminhão 3/4,Motorista 10,386.9,1612.7,3500,46.1,1117.24,50.51,172.64,1340.39,1789.81,449.42,7.5,7.5,0.0,Entregue no prazo,4.5
+V00057,2025-09-30,Natal,Sousa,Van,Motorista 04,152.8,751.1,1500,50.1,258.06,11.23,72.4,341.69,457.58,115.89,2.7,2.7,0.0,Entregue no prazo,5.0
+V00844,2025-09-30,Natal,João Pessoa,Van,Motorista 17,504.5,673.6,1500,44.9,835.52,69.97,171.36,1076.85,1560.82,483.97,10.0,11.4,1.4,Entregue com atraso,3.4
+V00436,2025-09-30,Natal,João Pessoa,Carreta,Motorista 17,56.9,13577.8,27000,50.3,370.47,3.2,25.28,398.95,495.56,96.61,1.0,1.0,0.0,Em rota,
+V00389,2025-09-30,Mossoró,Natal,Caminhão Truck,Motorista 11,546.6,5959.9,14000,42.6,2302.47,32.44,165.8,2500.71,3749.6,1248.89,11.0,11.0,0.0,Entregue no prazo,4.1
+V00529,2025-10-01,Recife,Sousa,Caminhão Toco,Motorista 07,625.5,5082.6,6000,84.7,2073.01,51.08,271.62,2395.71,2785.2,389.49,10.5,14.1,3.6,Entregue com atraso,2.9
+V00837,2025-10-01,Recife,João Pessoa,Caminhão Toco,Motorista 20,304.8,5205.7,6000,86.8,1068.85,31.34,150.05,1250.24,1598.25,348.01,5.6,11.8,6.2,Entregue com atraso,3.1
+V01019,2025-10-02,Mossoró,Currais Novos,Caminhão Toco,Motorista 09,535.4,1264.1,6000,21.1,1947.36,67.64,206.59,2221.59,3320.51,1098.92,11.2,11.2,0.0,Entregue no prazo,4.6
+V00973,2025-10-02,Mossoró,Caicó,Van,Motorista 09,587.1,935.1,1500,62.3,1066.37,61.06,199.33,1326.76,1754.36,427.6,10.7,10.7,0.0,Cancelada,
+V00472,2025-10-02,Mossoró,Recife,Caminhão Toco,Motorista 13,622.0,5198.9,6000,86.6,2249.13,62.92,206.37,2518.42,2950.04,431.62,11.5,11.5,0.0,Entregue no prazo,3.4
+V01020,2025-10-03,Recife,Fortaleza,Carreta,Motorista 07,380.5,14468.3,27000,53.6,2653.22,56.99,171.48,2881.69,4432.95,1551.26,6.3,6.3,0.0,Em rota,
+V00764,2025-10-03,Natal,Parnamirim,Caminhão 3/4,Motorista 14,415.8,358.3,3500,10.2,1211.36,39.27,173.72,1424.35,1717.3,292.95,9.2,9.2,0.0,Entregue no prazo,4.8
+V01114,2025-10-03,Mossoró,Natal,Caminhão Toco,Motorista 13,392.0,3269.3,6000,54.5,1349.25,38.93,141.01,1529.19,1855.8,326.61,8.5,8.5,0.0,Entregue no prazo,3.7
+V00828,2025-10-03,Mossoró,Natal,Caminhão Toco,Motorista 13,592.8,1431.7,6000,23.9,2246.09,33.11,203.39,2482.59,3846.58,1363.99,11.0,11.0,0.0,Entregue no prazo,4.8
+V00954,2025-10-03,João Pessoa,Recife,Carreta,Motorista 02,164.6,1661.2,27000,6.2,1002.59,15.83,56.12,1074.54,1365.28,290.74,3.4,9.2,5.8,Entregue com atraso,2.5
+V00520,2025-10-03,João Pessoa,Sousa,Van,Motorista 06,406.4,510.0,1500,34.0,830.61,44.86,130.48,1005.95,1387.28,381.33,7.4,11.9,4.5,Entregue com atraso,3.6
+V00343,2025-10-03,Fortaleza,João Pessoa,Caminhão Truck,Motorista 17,618.2,8232.6,14000,58.8,3058.56,84.35,241.95,3384.86,4535.86,1151.0,11.7,11.7,0.0,Em rota,
+V00494,2025-10-04,Recife,Currais Novos,Caminhão 3/4,Motorista 19,344.2,2822.4,3500,80.6,907.52,23.09,121.65,1052.26,1424.39,372.13,7.2,7.2,0.0,Entregue no prazo,5.0
+V00144,2025-10-04,Fortaleza,Sousa,Caminhão Truck,Motorista 10,475.9,1578.2,14000,11.3,2295.77,35.31,229.49,2560.57,3803.23,1242.66,8.0,8.0,0.0,Em rota,
+V00450,2025-10-04,João Pessoa,Mossoró,Caminhão Toco,Motorista 13,460.2,3908.4,6000,65.1,1540.43,64.74,192.12,1797.29,2128.28,330.99,8.5,15.0,6.5,Entregue com atraso,4.3
+V00193,2025-10-04,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 20,67.2,1354.8,3500,38.7,197.84,5.91,31.33,235.08,349.55,114.47,1.3,1.3,0.0,Entregue no prazo,4.7
+V00547,2025-10-04,João Pessoa,Recife,Van,Motorista 03,202.2,712.3,1500,47.5,356.37,18.2,66.75,441.32,596.41,155.09,3.3,3.3,0.0,Entregue no prazo,5.0
+V00321,2025-10-05,Recife,Currais Novos,Caminhão 3/4,Motorista 16,423.8,2383.6,3500,68.1,1052.05,25.97,177.69,1255.71,1687.52,431.81,9.3,9.3,0.0,Entregue no prazo,4.6
+V00234,2025-10-05,João Pessoa,Recife,Van,Motorista 19,219.8,1085.8,1500,72.4,449.07,12.02,79.99,541.08,717.08,176.0,3.5,3.5,0.0,Em rota,
+V01085,2025-10-05,Mossoró,Caicó,Caminhão Truck,Motorista 17,101.6,12979.9,14000,92.7,463.56,8.77,43.27,515.6,731.91,216.31,2.1,4.8,2.7,Entregue com atraso,3.1
+V00738,2025-10-06,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 19,166.5,2795.0,3500,79.9,416.67,15.27,61.62,493.56,737.14,243.58,3.5,3.5,0.0,Entregue no prazo,4.6
+V00230,2025-10-06,Natal,Parnamirim,Caminhão 3/4,Motorista 09,56.1,2780.8,3500,79.5,140.03,3.61,18.13,161.77,187.8,26.03,1.0,1.0,0.0,Entregue no prazo,4.6
+V00793,2025-10-06,Fortaleza,Assú,Van,Motorista 04,152.5,809.9,1500,54.0,304.09,7.86,54.07,366.02,421.28,55.26,2.9,9.4,6.5,Entregue com atraso,3.4
+V00336,2025-10-07,Mossoró,Assú,Caminhão 3/4,Motorista 15,195.5,3199.1,3500,91.4,554.1,23.0,70.42,647.52,792.32,144.8,3.3,3.3,0.0,Entregue no prazo,4.1
+V00344,2025-10-07,Mossoró,Caicó,Caminhão Truck,Motorista 18,424.1,1148.8,14000,8.2,1979.88,38.9,201.68,2220.46,2734.71,514.25,6.9,6.9,0.0,Entregue no prazo,3.5
+V00740,2025-10-07,Natal,Parnamirim,Van,Motorista 04,638.0,979.3,1500,65.3,1050.09,81.5,240.28,1371.87,1758.95,387.08,11.8,11.8,0.0,Entregue no prazo,3.7
+V00272,2025-10-07,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 05,772.5,2956.7,3500,84.5,1906.51,72.7,262.56,2241.77,2815.19,573.42,14.0,14.0,0.0,Entregue no prazo,4.2
+V00257,2025-10-07,João Pessoa,Fortaleza,Caminhão 3/4,Motorista 20,558.8,1151.2,3500,32.9,1416.12,77.74,169.16,1663.02,2127.15,464.13,10.0,10.0,0.0,Entregue no prazo,4.7
+V00580,2025-10-07,Recife,Natal,Van,Motorista 06,844.4,1185.8,1500,79.1,1669.49,94.27,419.82,2183.58,3070.08,886.5,13.6,13.6,0.0,Em rota,
+V00545,2025-10-07,Recife,Parnamirim,Van,Motorista 11,365.7,576.8,1500,38.5,594.82,39.31,139.13,773.26,1005.13,231.87,7.5,7.5,0.0,Entregue no prazo,5.0
+V00120,2025-10-07,Mossoró,Sousa,Caminhão 3/4,Motorista 03,398.1,478.5,3500,13.7,1034.9,56.14,183.76,1274.8,1576.19,301.39,7.3,8.3,1.0,Entregue com atraso,3.9
+V00289,2025-10-07,Recife,Mossoró,Caminhão Truck,Motorista 15,586.8,13058.0,14000,93.3,3034.68,71.6,209.75,3316.03,4980.35,1664.32,12.8,12.8,0.0,Entregue no prazo,4.9
+V00569,2025-10-08,João Pessoa,Caicó,Caminhão 3/4,Motorista 16,499.1,1784.3,3500,51.0,1327.31,60.99,243.34,1631.64,1935.94,304.3,11.0,12.3,1.3,Entregue com atraso,2.6
+V00488,2025-10-08,Natal,Parnamirim,Caminhão Toco,Motorista 07,656.4,229.5,6000,3.8,2520.64,45.78,326.12,2892.54,4178.28,1285.74,10.9,10.9,0.0,Entregue no prazo,4.7
+V00013,2025-10-08,João Pessoa,Natal,Van,Motorista 10,596.3,877.7,1500,58.5,989.27,86.95,269.34,1345.56,1891.29,545.73,9.9,15.2,5.3,Entregue com atraso,4.1
+V00478,2025-10-08,Mossoró,Parnamirim,Caminhão 3/4,Motorista 03,715.4,534.2,3500,15.3,1988.33,53.56,216.84,2258.73,2748.21,489.48,12.5,12.5,0.0,Entregue no prazo,5.0
+V01160,2025-10-09,João Pessoa,Recife,Van,Motorista 17,404.6,1273.6,1500,84.9,712.46,35.77,194.97,943.2,1400.43,457.23,6.9,6.9,0.0,Entregue no prazo,4.4
+V01014,2025-10-09,Recife,Caicó,Caminhão Toco,Motorista 13,557.4,5316.8,6000,88.6,1896.18,31.58,224.75,2152.51,2773.27,620.76,9.5,9.5,0.0,Em rota,
+V00411,2025-10-09,João Pessoa,Caicó,Caminhão Toco,Motorista 19,195.7,838.4,6000,14.0,662.62,26.17,92.58,781.37,1086.99,305.62,3.3,3.3,0.0,Entregue no prazo,5.0
+V00934,2025-10-09,Fortaleza,Recife,Caminhão Toco,Motorista 19,405.9,3233.2,6000,53.9,1324.79,56.5,200.61,1581.9,2316.72,734.82,7.3,7.3,0.0,Em rota,
+V00202,2025-10-09,Recife,Assú,Caminhão 3/4,Motorista 19,506.4,3469.2,3500,99.1,1434.06,47.72,223.57,1705.35,2226.66,521.31,10.2,10.2,0.0,Entregue no prazo,4.8
+V00126,2025-10-09,João Pessoa,Assú,Van,Motorista 17,466.5,418.8,1500,27.9,807.56,62.44,173.18,1043.18,1544.66,501.48,7.9,7.9,0.0,Entregue no prazo,5.0
+V00510,2025-10-09,Mossoró,Assú,Caminhão 3/4,Motorista 20,475.6,1205.7,3500,34.4,1169.11,27.87,210.61,1407.59,1729.22,321.63,8.1,8.1,0.0,Entregue no prazo,4.1
+V00417,2025-10-11,Natal,Recife,Caminhão Truck,Motorista 10,242.0,4853.5,14000,34.7,1089.62,13.34,96.63,1199.59,1438.7,239.11,4.6,4.6,0.0,Entregue no prazo,5.0
+V00001,2025-10-11,João Pessoa,Fortaleza,Caminhão Toco,Motorista 07,829.9,2862.1,6000,47.7,2932.63,112.92,337.78,3383.33,4140.47,757.14,16.3,16.3,0.0,Entregue no prazo,3.8
+V00787,2025-10-11,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 15,835.0,1355.2,3500,38.7,2095.32,87.42,281.75,2464.49,2866.32,401.83,13.1,13.1,0.0,Cancelada,
+V00008,2025-10-11,Fortaleza,Mossoró,Van,Motorista 13,596.8,1088.1,1500,72.5,1187.73,61.45,276.32,1525.5,2058.26,532.76,12.9,12.9,0.0,Entregue no prazo,5.0
+V01057,2025-10-12,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 04,294.5,1600.6,3500,45.7,717.0,39.2,108.89,865.09,1133.32,268.23,4.7,4.7,0.0,Entregue no prazo,4.1
+V00369,2025-10-12,Fortaleza,Recife,Caminhão Toco,Motorista 07,659.7,4560.4,6000,76.0,2348.61,47.01,210.71,2606.33,3064.25,457.92,11.6,18.5,6.9,Entregue com atraso,4.2
+V01070,2025-10-12,João Pessoa,Fortaleza,Van,Motorista 01,355.2,1488.2,1500,99.2,600.35,26.77,112.88,740.0,931.43,191.43,5.9,12.2,6.3,Entregue com atraso,3.4
+V01071,2025-10-12,Natal,João Pessoa,Caminhão Truck,Motorista 20,318.0,483.9,14000,3.5,1637.4,18.02,152.53,1807.95,2305.49,497.54,5.6,5.6,0.0,Entregue no prazo,5.0
+V01137,2025-10-12,Natal,Mossoró,Caminhão 3/4,Motorista 10,434.1,2090.5,3500,59.7,1062.75,60.53,150.31,1273.59,1561.24,287.65,8.8,8.8,0.0,Cancelada,
+V01140,2025-10-12,Natal,Sousa,Caminhão 3/4,Motorista 18,311.5,2467.5,3500,70.5,829.86,21.51,127.88,979.25,1285.73,306.48,5.9,9.5,3.6,Entregue com atraso,2.7
+V00284,2025-10-12,Fortaleza,Sousa,Caminhão Truck,Motorista 08,530.3,6936.9,14000,49.5,2227.17,40.37,203.54,2471.08,3434.11,963.03,9.6,9.6,0.0,Entregue no prazo,4.6
+V00532,2025-10-13,Mossoró,João Pessoa,Caminhão Truck,Motorista 16,312.1,4026.2,14000,28.8,1613.95,39.04,133.87,1786.86,2308.83,521.97,6.8,6.8,0.0,Entregue no prazo,5.0
+V00739,2025-10-13,Mossoró,Recife,Carreta,Motorista 02,746.2,6287.6,27000,23.3,4173.09,74.03,303.16,4550.28,5599.12,1048.84,14.7,18.7,4.0,Entregue com atraso,3.9
+V00429,2025-10-14,João Pessoa,Sousa,Caminhão 3/4,Motorista 17,474.1,2277.1,3500,65.1,1188.57,61.67,202.17,1452.41,1962.79,510.38,10.3,10.3,0.0,Cancelada,
+V00804,2025-10-14,Fortaleza,João Pessoa,Caminhão Toco,Motorista 17,88.9,3560.8,6000,59.3,340.21,4.55,35.53,380.29,490.58,110.29,1.6,1.6,0.0,Entregue no prazo,4.7
+V01149,2025-10-14,Recife,Fortaleza,Van,Motorista 18,592.4,1085.3,1500,72.4,1107.01,63.01,264.89,1434.91,1805.12,370.21,11.4,14.2,2.8,Entregue com atraso,3.6
+V00066,2025-10-14,Mossoró,Assú,Van,Motorista 02,213.4,1444.5,1500,96.3,400.74,30.57,88.57,519.88,697.54,177.66,4.2,4.2,0.0,Entregue no prazo,4.3
+V00004,2025-10-15,Fortaleza,Parnamirim,Van,Motorista 15,496.9,1353.7,1500,90.2,929.46,60.66,229.1,1219.22,1884.29,665.07,8.7,16.4,7.7,Entregue com atraso,3.5
+V00868,2025-10-15,Recife,Currais Novos,Caminhão 3/4,Motorista 05,367.7,263.0,3500,7.5,868.57,43.57,171.92,1084.06,1553.55,469.49,6.9,6.9,0.0,Entregue no prazo,5.0
+V00166,2025-10-16,Natal,Currais Novos,Caminhão Truck,Motorista 17,55.3,916.2,14000,6.5,232.81,3.95,23.95,260.71,316.22,55.51,1.2,6.7,5.5,Entregue com atraso,4.3
+V00415,2025-10-16,Fortaleza,Recife,Van,Motorista 18,73.3,1013.6,1500,67.6,120.54,9.8,29.5,159.84,217.51,57.67,1.3,1.3,0.0,Entregue no prazo,4.4
+V00587,2025-10-17,Recife,Caicó,Carreta,Motorista 19,616.8,21322.7,27000,79.0,4114.9,67.21,240.54,4422.65,6604.56,2181.91,9.6,9.6,0.0,Entregue no prazo,4.6
+V00923,2025-10-17,Mossoró,Fortaleza,Van,Motorista 15,153.7,1286.7,1500,85.8,313.73,9.79,61.12,384.64,482.17,97.53,2.6,4.2,1.6,Entregue com atraso,3.2
+V01162,2025-10-18,Mossoró,João Pessoa,Carreta,Motorista 16,491.1,25463.3,27000,94.3,3130.29,30.09,208.99,3369.37,4862.47,1493.1,9.3,12.2,2.9,Entregue com atraso,2.9
+V01079,2025-10-19,Recife,Fortaleza,Carreta,Motorista 16,84.3,25847.8,27000,95.7,574.02,7.57,41.85,623.44,803.12,179.68,1.6,1.6,0.0,Entregue no prazo,5.0
+V00925,2025-10-19,Mossoró,Sousa,Van,Motorista 12,773.8,1107.7,1500,73.8,1576.06,101.48,360.36,2037.9,2807.99,770.09,15.1,15.1,0.0,Entregue no prazo,5.0
+V00823,2025-10-19,Mossoró,Currais Novos,Caminhão 3/4,Motorista 18,714.5,376.1,3500,10.7,2065.56,80.7,284.19,2430.45,3660.22,1229.77,11.5,11.5,0.0,Entregue no prazo,3.4
+V01139,2025-10-19,Natal,Caicó,Van,Motorista 19,633.5,910.5,1500,60.7,1298.11,43.28,266.83,1608.22,1985.56,377.34,11.1,17.0,5.9,Entregue com atraso,4.1
+V00897,2025-10-19,Natal,Sousa,Caminhão 3/4,Motorista 20,71.2,2208.7,3500,63.1,173.67,9.47,26.42,209.56,264.59,55.03,1.2,1.2,0.0,Entregue no prazo,3.6
+V00927,2025-10-19,Mossoró,Parnamirim,Van,Motorista 07,174.0,683.5,1500,45.6,284.09,11.08,58.23,353.4,414.1,60.7,3.0,6.3,3.3,Entregue com atraso,3.1
+V00929,2025-10-19,Fortaleza,Recife,Van,Motorista 06,311.2,451.7,1500,30.1,531.93,38.36,131.58,701.87,865.08,163.21,6.5,6.5,0.0,Entregue no prazo,4.6
+V00262,2025-10-20,Fortaleza,Currais Novos,Carreta,Motorista 15,476.4,6464.3,27000,23.9,3129.26,62.89,146.88,3339.03,4505.19,1166.16,8.1,8.1,0.0,Entregue no prazo,4.1
+V00948,2025-10-20,João Pessoa,Assú,Caminhão Toco,Motorista 10,642.2,3447.8,6000,57.5,2309.79,47.66,248.22,2605.67,3262.68,657.01,10.2,10.2,0.0,Entregue no prazo,4.4
+V00779,2025-10-20,Recife,Caicó,Caminhão Truck,Motorista 07,585.1,9515.6,14000,68.0,3014.14,70.91,233.25,3318.3,4953.99,1635.69,12.4,12.4,0.0,Entregue no prazo,4.3
+V00288,2025-10-20,Natal,Sousa,Van,Motorista 20,325.5,986.3,1500,65.8,584.06,44.38,117.75,746.19,945.73,199.54,6.5,6.5,0.0,Entregue no prazo,5.0
+V00989,2025-10-21,Natal,Mossoró,Caminhão Toco,Motorista 01,734.7,789.1,6000,13.2,2464.9,76.28,339.62,2880.8,3562.33,681.53,12.0,12.0,0.0,Entregue no prazo,4.9
+V00206,2025-10-21,João Pessoa,Parnamirim,Carreta,Motorista 13,156.0,15545.9,27000,57.6,937.46,22.17,65.0,1024.63,1421.3,396.67,3.0,3.0,0.0,Entregue no prazo,4.1
+V00203,2025-10-21,Fortaleza,Assú,Carreta,Motorista 12,435.2,23276.0,27000,86.2,2739.5,62.67,174.43,2976.6,4553.25,1576.65,7.1,7.1,0.0,Entregue no prazo,3.3
+V00196,2025-10-21,Mossoró,Parnamirim,Caminhão Toco,Motorista 02,378.4,5465.5,6000,91.1,1320.99,26.03,119.35,1466.37,2094.65,628.28,7.2,12.6,5.4,Entregue com atraso,2.2
+V00877,2025-10-21,Fortaleza,Natal,Caminhão Truck,Motorista 18,244.8,13716.4,14000,98.0,1211.0,19.63,114.94,1345.57,1955.88,610.31,4.8,4.8,0.0,Entregue no prazo,4.6
+V00283,2025-10-21,Natal,Currais Novos,Van,Motorista 07,483.8,941.4,1500,62.8,829.5,60.1,147.58,1037.18,1339.97,302.79,8.0,8.0,0.0,Entregue no prazo,5.0
+V00201,2025-10-21,João Pessoa,Assú,Van,Motorista 06,44.1,1391.6,1500,92.8,85.46,3.57,14.4,103.43,140.11,36.68,1.0,1.0,0.0,Cancelada,
+V00535,2025-10-22,Mossoró,Fortaleza,Van,Motorista 06,492.4,871.4,1500,58.1,958.77,53.17,163.72,1175.66,1669.06,493.4,10.3,18.2,7.9,Entregue com atraso,3.4
+V00362,2025-10-22,Natal,Fortaleza,Caminhão 3/4,Motorista 16,496.8,206.9,3500,5.9,1246.7,50.59,220.8,1518.09,1851.56,333.47,8.9,8.9,0.0,Entregue no prazo,5.0
+V01115,2025-10-23,Natal,Sousa,Caminhão Truck,Motorista 04,425.6,11312.1,14000,80.8,2109.11,60.71,134.91,2304.73,2900.48,595.75,7.1,7.1,0.0,Entregue no prazo,3.9
+V00531,2025-10-23,Recife,Currais Novos,Caminhão 3/4,Motorista 11,285.6,1210.6,3500,34.6,823.84,16.35,136.01,976.2,1222.85,246.65,5.0,5.0,0.0,Cancelada,
+V00281,2025-10-24,João Pessoa,Mossoró,Caminhão Truck,Motorista 17,814.9,12483.9,14000,89.2,3898.33,78.2,354.61,4331.14,6052.53,1721.39,14.5,14.5,0.0,Entregue no prazo,5.0
+V00346,2025-10-24,Natal,João Pessoa,Caminhão 3/4,Motorista 10,404.5,1286.5,3500,36.8,960.33,38.44,141.96,1140.73,1472.4,331.67,6.8,6.8,0.0,Entregue no prazo,5.0
+V00178,2025-10-24,Mossoró,Recife,Caminhão 3/4,Motorista 09,389.5,3487.7,3500,99.6,969.45,40.78,169.1,1179.33,1686.85,507.52,7.9,7.9,0.0,Entregue no prazo,4.0
+V00440,2025-10-25,Natal,Parnamirim,Van,Motorista 12,569.9,572.8,1500,38.2,1066.75,44.41,210.73,1321.89,2008.3,686.41,11.6,12.3,0.7,Entregue com atraso,3.6
+V01173,2025-10-25,João Pessoa,Recife,Van,Motorista 07,116.8,1004.9,1500,67.0,221.78,6.28,41.83,269.89,355.03,85.14,2.1,2.1,0.0,Entregue no prazo,4.5
+V00654,2025-10-25,Fortaleza,Assú,Carreta,Motorista 14,210.1,18356.1,27000,68.0,1419.34,15.23,66.25,1500.82,2212.52,711.7,3.3,3.3,0.0,Entregue no prazo,4.6
+V00972,2025-10-26,João Pessoa,Recife,Caminhão Toco,Motorista 09,564.3,5027.1,6000,83.8,1947.07,66.56,242.86,2256.49,2629.86,373.37,11.6,19.1,7.5,Entregue com atraso,2.7
+V00983,2025-10-26,João Pessoa,Sousa,Caminhão 3/4,Motorista 14,411.8,3498.9,3500,100.0,1067.67,36.53,165.01,1269.21,1556.21,287.0,6.6,6.6,0.0,Entregue no prazo,5.0
+V00770,2025-10-26,Mossoró,Assú,Caminhão Toco,Motorista 11,684.8,5168.1,6000,86.1,2376.1,87.88,225.31,2689.29,3622.02,932.73,13.0,13.0,0.0,Entregue no prazo,4.3
+V00452,2025-10-26,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 10,628.1,2047.1,3500,58.5,1616.32,82.18,237.18,1935.68,2842.33,906.65,12.3,12.3,0.0,Entregue no prazo,3.7
+V01096,2025-10-26,Fortaleza,Caicó,Caminhão Toco,Motorista 14,346.5,5574.2,6000,92.9,1252.31,48.95,161.71,1462.97,2084.78,621.81,6.6,6.6,0.0,Entregue no prazo,4.1
+V00906,2025-10-27,Natal,Currais Novos,Caminhão Truck,Motorista 16,42.9,6518.1,14000,46.6,174.97,4.59,17.22,196.78,292.42,95.64,0.8,0.8,0.0,Entregue no prazo,4.2
+V00722,2025-10-27,João Pessoa,Currais Novos,Van,Motorista 09,390.9,360.3,1500,24.0,718.83,43.98,181.95,944.76,1342.94,398.18,8.4,8.4,0.0,Entregue no prazo,4.9
+V00433,2025-10-28,Mossoró,Sousa,Caminhão 3/4,Motorista 16,346.2,3220.9,3500,92.0,981.57,34.8,172.29,1188.66,1588.18,399.52,7.5,7.5,0.0,Entregue no prazo,4.4
+V00279,2025-10-28,Recife,Sousa,Van,Motorista 18,684.0,1080.8,1500,72.1,1276.42,66.7,331.39,1674.51,1974.4,299.89,13.5,13.5,0.0,Entregue no prazo,4.9
+V00863,2025-10-29,Mossoró,Recife,Van,Motorista 13,744.1,205.4,1500,13.7,1212.48,71.87,258.76,1543.11,2200.38,657.27,13.2,13.2,0.0,Entregue no prazo,4.4
+V00177,2025-10-29,João Pessoa,Sousa,Caminhão Truck,Motorista 10,636.3,3162.4,14000,22.6,3053.04,63.51,285.42,3401.97,4357.3,955.33,10.1,10.1,0.0,Entregue no prazo,4.0
+V00689,2025-10-30,João Pessoa,Natal,Caminhão Truck,Motorista 14,184.2,12063.4,14000,86.2,799.42,13.38,72.97,885.77,1195.38,309.61,3.7,3.7,0.0,Entregue no prazo,5.0
+V00009,2025-10-30,Natal,Currais Novos,Van,Motorista 06,630.4,525.9,1500,35.1,1200.85,62.68,261.4,1524.93,2264.89,739.96,11.9,15.6,3.7,Entregue com atraso,3.5
+V00446,2025-10-30,Mossoró,Fortaleza,Caminhão Truck,Motorista 10,578.7,5862.2,14000,41.9,2650.18,31.78,195.72,2877.68,4219.27,1341.59,10.7,10.7,0.0,Entregue no prazo,4.7
+V00840,2025-10-30,Recife,Currais Novos,Caminhão 3/4,Motorista 01,311.2,1580.6,3500,45.2,916.12,43.9,137.9,1097.92,1651.13,553.21,6.1,6.1,0.0,Entregue no prazo,5.0
+V00612,2025-10-30,Fortaleza,Parnamirim,Caminhão Toco,Motorista 12,267.4,4051.9,6000,67.5,915.2,37.15,125.42,1077.77,1465.95,388.18,4.5,8.7,4.2,Entregue com atraso,3.4
+V00592,2025-10-30,Mossoró,João Pessoa,Caminhão 3/4,Motorista 09,777.7,2638.5,3500,75.4,1919.82,104.47,265.01,2289.3,3312.98,1023.68,13.2,17.7,4.5,Entregue com atraso,3.6
+V00225,2025-10-31,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 13,396.3,1855.0,3500,53.0,990.88,38.48,171.35,1200.71,1741.59,540.88,6.6,6.6,0.0,Entregue no prazo,4.0
+V01093,2025-10-31,Recife,Parnamirim,Van,Motorista 01,764.5,444.6,1500,29.6,1352.43,68.51,318.98,1739.92,2640.68,900.76,14.5,14.5,0.0,Entregue no prazo,3.9
+V00236,2025-11-01,Fortaleza,Caicó,Caminhão 3/4,Motorista 15,629.8,3361.8,3500,96.1,1563.98,87.3,306.62,1957.9,2969.29,1011.39,10.9,10.9,0.0,Entregue no prazo,4.7
+V00428,2025-11-01,Recife,Parnamirim,Caminhão Toco,Motorista 07,454.9,417.7,6000,7.0,1612.1,64.63,224.58,1901.31,2597.61,696.3,8.4,8.4,0.0,Em rota,
+V00400,2025-11-02,Fortaleza,Assú,Van,Motorista 17,339.1,1454.4,1500,97.0,591.08,30.51,168.39,789.98,1078.0,288.02,6.2,6.2,0.0,Entregue no prazo,4.7
+V01061,2025-11-02,Fortaleza,Sousa,Van,Motorista 01,116.3,511.3,1500,34.1,198.18,9.95,40.37,248.5,310.07,61.57,2.0,2.0,0.0,Entregue no prazo,4.5
+V00819,2025-11-03,Fortaleza,Natal,Van,Motorista 12,148.8,430.5,1500,28.7,298.82,13.28,44.77,356.87,449.5,92.63,2.6,4.1,1.5,Entregue com atraso,3.7
+V00639,2025-11-03,Fortaleza,Currais Novos,Carreta,Motorista 16,443.6,12644.1,27000,46.8,2649.52,44.58,135.79,2829.89,3403.58,573.69,7.1,10.8,3.7,Entregue com atraso,3.5
+V00214,2025-11-03,João Pessoa,Sousa,Caminhão Toco,Motorista 08,191.1,5718.4,6000,95.3,613.27,20.4,79.47,713.14,959.78,246.64,3.3,3.3,0.0,Entregue no prazo,5.0
+V00451,2025-11-03,Fortaleza,Parnamirim,Caminhão 3/4,Motorista 15,245.7,2590.5,3500,74.0,605.21,34.21,94.89,734.31,902.61,168.3,4.6,4.6,0.0,Entregue no prazo,5.0
+V00913,2025-11-03,Mossoró,Parnamirim,Van,Motorista 19,443.1,410.3,1500,27.4,791.46,26.53,183.61,1001.6,1190.21,188.61,9.2,9.2,0.0,Entregue no prazo,5.0
+V00644,2025-11-03,Recife,Parnamirim,Carreta,Motorista 17,230.6,20196.3,27000,74.8,1472.9,17.72,105.0,1595.62,2187.42,591.8,4.0,4.0,0.0,Entregue no prazo,5.0
+V01148,2025-11-04,João Pessoa,Fortaleza,Caminhão Toco,Motorista 15,571.5,862.9,6000,14.4,1890.19,35.98,267.8,2193.97,3178.54,984.57,11.7,11.7,0.0,Entregue no prazo,4.7
+V00883,2025-11-04,João Pessoa,Recife,Caminhão 3/4,Motorista 01,116.7,1117.1,3500,31.9,340.61,12.25,44.66,397.52,468.71,71.19,2.0,2.0,0.0,Entregue no prazo,4.7
+V00443,2025-11-04,Recife,Currais Novos,Carreta,Motorista 01,488.5,13674.6,27000,50.6,2835.19,46.02,179.19,3060.4,4158.26,1097.86,8.6,8.6,0.0,Entregue no prazo,5.0
+V00366,2025-11-04,Recife,Currais Novos,Caminhão 3/4,Motorista 07,709.1,2266.0,3500,64.7,1693.99,43.43,219.72,1957.14,2452.28,495.14,14.9,14.9,0.0,Entregue no prazo,5.0
+V01185,2025-11-05,Natal,João Pessoa,Van,Motorista 17,338.4,1292.0,1500,86.1,695.23,31.66,139.38,866.27,1214.04,347.77,5.3,5.3,0.0,Entregue no prazo,3.7
+V00171,2025-11-05,João Pessoa,Assú,Van,Motorista 01,264.3,762.6,1500,50.8,509.69,22.0,82.28,613.97,797.9,183.93,4.1,4.1,0.0,Entregue no prazo,5.0
+V00352,2025-11-05,Recife,Mossoró,Carreta,Motorista 05,77.3,22846.3,27000,84.6,438.41,5.96,24.79,469.16,594.97,125.81,1.7,1.7,0.0,Entregue no prazo,4.4
+V00305,2025-11-05,Natal,Fortaleza,Caminhão Truck,Motorista 19,56.0,7582.5,14000,54.2,229.17,7.33,20.39,256.89,353.22,96.33,1.1,8.2,7.1,Entregue com atraso,3.9
+V00249,2025-11-05,Fortaleza,Assú,Caminhão Truck,Motorista 20,396.1,8739.1,14000,62.4,1900.7,39.64,169.92,2110.26,2446.66,336.4,7.4,7.4,0.0,Entregue no prazo,4.9
+V00100,2025-11-06,Recife,Assú,Caminhão 3/4,Motorista 06,823.6,3027.7,3500,86.5,1990.2,102.1,299.74,2392.04,3696.58,1304.54,15.1,15.1,0.0,Entregue no prazo,4.4
+V00444,2025-11-06,Fortaleza,Natal,Van,Motorista 04,813.2,512.2,1500,34.1,1435.77,55.61,337.79,1829.17,2216.84,387.67,15.6,15.6,0.0,Entregue no prazo,5.0
+V00253,2025-11-06,Mossoró,Fortaleza,Caminhão 3/4,Motorista 09,411.6,245.2,3500,7.0,984.97,31.22,125.77,1141.96,1601.66,459.7,7.7,7.7,0.0,Entregue no prazo,4.3
+V01010,2025-11-07,João Pessoa,Sousa,Caminhão Toco,Motorista 16,355.7,3674.1,6000,61.2,1161.47,35.23,111.98,1308.68,1523.17,214.49,6.5,6.5,0.0,Entregue no prazo,4.5
+V00215,2025-11-07,Mossoró,Caicó,Van,Motorista 03,209.3,437.7,1500,29.2,416.84,16.44,101.6,534.88,822.63,287.75,3.7,3.7,0.0,Entregue no prazo,5.0
+V00208,2025-11-07,Mossoró,João Pessoa,Van,Motorista 05,765.8,1009.4,1500,67.3,1576.03,73.9,359.53,2009.46,2361.03,351.57,14.8,14.8,0.0,Entregue no prazo,5.0
+V01113,2025-11-07,João Pessoa,Natal,Carreta,Motorista 16,603.1,26985.5,27000,99.9,4029.14,76.09,294.12,4399.35,5259.25,859.9,10.2,17.9,7.7,Entregue com atraso,3.3
+V00016,2025-11-08,Mossoró,Fortaleza,Van,Motorista 10,842.1,200.3,1500,13.4,1434.49,74.44,409.7,1918.63,2260.17,341.54,18.6,18.6,0.0,Entregue no prazo,5.0
+V00127,2025-11-08,Recife,Currais Novos,Caminhão Toco,Motorista 01,506.0,1007.3,6000,16.8,1739.34,56.99,201.28,1997.61,2618.29,620.68,7.8,13.0,5.2,Entregue com atraso,3.4
+V00042,2025-11-08,João Pessoa,Parnamirim,Caminhão Toco,Motorista 20,516.2,1148.4,6000,19.1,1751.17,75.85,181.51,2008.53,2837.44,828.91,10.0,11.5,1.5,Entregue com atraso,4.0
+V00276,2025-11-08,Mossoró,Assú,Caminhão 3/4,Motorista 10,805.7,2979.1,3500,85.1,2040.68,46.5,269.09,2356.27,2829.36,473.09,17.0,17.0,0.0,Entregue no prazo,4.9
+V01049,2025-11-09,Natal,João Pessoa,Van,Motorista 01,281.5,1450.1,1500,96.7,529.31,41.88,105.42,676.61,901.96,225.35,5.5,5.5,0.0,Entregue no prazo,4.5
+V00626,2025-11-09,Natal,Parnamirim,Caminhão 3/4,Motorista 07,520.8,1859.4,3500,53.1,1236.24,75.11,211.16,1522.51,1948.85,426.34,10.8,10.8,0.0,Entregue no prazo,4.6
+V01145,2025-11-10,Mossoró,Natal,Caminhão Truck,Motorista 11,783.4,12575.2,14000,89.8,3983.59,110.28,317.63,4411.5,5460.41,1048.91,12.9,12.9,0.0,Entregue no prazo,4.3
+V00745,2025-11-10,Natal,Currais Novos,Caminhão 3/4,Motorista 06,183.7,1679.1,3500,48.0,501.62,15.2,83.8,600.62,892.63,292.01,3.6,4.9,1.3,Entregue com atraso,3.1
+V00850,2025-11-10,Mossoró,Natal,Caminhão 3/4,Motorista 01,741.5,1297.7,3500,37.1,1775.9,107.09,299.16,2182.15,2574.41,392.26,12.1,17.4,5.3,Entregue com atraso,3.7
+V00593,2025-11-10,Recife,Currais Novos,Caminhão 3/4,Motorista 15,271.8,250.4,3500,7.2,674.9,21.25,105.65,801.8,976.95,175.15,4.4,4.4,0.0,Entregue no prazo,4.7
+V00807,2025-11-10,João Pessoa,Caicó,Caminhão Toco,Motorista 11,672.6,1950.7,6000,32.5,2351.12,75.4,312.02,2738.54,3983.36,1244.82,10.4,10.4,0.0,Entregue no prazo,4.2
+V00981,2025-11-10,Fortaleza,Sousa,Caminhão Truck,Motorista 08,758.4,5548.6,14000,39.6,3563.16,100.98,256.1,3920.24,5738.46,1818.22,13.3,15.1,1.8,Entregue com atraso,2.9
+V00971,2025-11-11,Recife,Mossoró,Van,Motorista 19,192.1,823.5,1500,54.9,387.93,20.49,83.81,492.23,632.82,140.59,3.4,3.4,0.0,Entregue no prazo,3.5
+V01074,2025-11-11,Recife,Currais Novos,Caminhão Toco,Motorista 16,369.5,1933.2,6000,32.2,1429.26,22.74,136.45,1588.45,2397.98,809.53,6.2,6.2,0.0,Entregue no prazo,4.6
+V00163,2025-11-11,Natal,João Pessoa,Caminhão Truck,Motorista 05,614.3,11471.6,14000,81.9,2613.43,53.5,295.1,2962.03,4362.11,1400.08,9.5,12.9,3.4,Entregue com atraso,3.0
+V01128,2025-11-11,Natal,Caicó,Caminhão Truck,Motorista 16,250.1,6681.1,14000,47.7,1034.46,30.16,94.72,1159.34,1459.69,300.35,5.5,5.5,0.0,Entregue no prazo,5.0
+V00655,2025-11-11,Recife,Sousa,Carreta,Motorista 09,630.5,16573.4,27000,61.4,4319.84,57.0,217.08,4593.92,6223.89,1629.97,11.3,11.3,0.0,Entregue no prazo,5.0
+V00111,2025-11-12,Mossoró,Parnamirim,Caminhão Toco,Motorista 15,97.4,5481.9,6000,91.4,336.49,6.21,35.86,378.56,460.3,81.74,2.0,2.0,0.0,Em rota,
+V00044,2025-11-12,Fortaleza,Assú,Caminhão 3/4,Motorista 12,419.2,2985.8,3500,85.3,1200.46,45.5,198.56,1444.52,1780.13,335.61,8.9,8.9,0.0,Entregue no prazo,3.7
+V00303,2025-11-12,Natal,Currais Novos,Caminhão Truck,Motorista 14,748.5,10174.4,14000,72.7,3226.65,90.24,270.61,3587.5,4473.15,885.65,16.1,21.9,5.8,Entregue com atraso,3.8
+V00693,2025-11-13,Fortaleza,Currais Novos,Caminhão Truck,Motorista 09,630.5,5104.6,14000,36.5,3135.51,34.34,284.41,3454.26,4341.41,887.15,11.6,14.1,2.5,Entregue com atraso,3.4
+V00618,2025-11-13,Recife,João Pessoa,Caminhão 3/4,Motorista 10,630.4,489.7,3500,14.0,1748.93,87.99,196.41,2033.33,2452.73,419.4,10.6,10.6,0.0,Entregue no prazo,5.0
+V01106,2025-11-13,Fortaleza,Recife,Caminhão 3/4,Motorista 18,56.1,1688.9,3500,48.3,162.84,3.65,16.97,183.46,219.05,35.59,1.1,1.1,0.0,Entregue no prazo,5.0
+V00101,2025-11-13,Recife,Fortaleza,Van,Motorista 06,833.4,1053.0,1500,70.2,1398.8,98.91,265.53,1763.24,2048.44,285.2,13.6,13.6,0.0,Entregue no prazo,4.8
+V01026,2025-11-14,Natal,Caicó,Caminhão 3/4,Motorista 19,207.7,2132.2,3500,60.9,533.01,24.04,62.96,620.01,728.98,108.97,4.4,4.4,0.0,Entregue no prazo,3.6
+V00183,2025-11-14,Recife,Assú,Caminhão Truck,Motorista 18,753.0,11434.9,14000,81.7,3630.04,45.97,269.45,3945.46,5026.21,1080.75,15.1,15.1,0.0,Entregue no prazo,3.3
+V00957,2025-11-14,Natal,Parnamirim,Caminhão Toco,Motorista 02,245.8,4319.6,6000,72.0,893.78,20.98,113.49,1028.25,1279.49,251.24,4.5,4.5,0.0,Entregue no prazo,4.0
+V01170,2025-11-14,Natal,Parnamirim,Caminhão 3/4,Motorista 20,37.9,441.9,3500,12.6,94.19,2.02,15.18,111.39,142.09,30.7,0.8,2.8,2.0,Entregue com atraso,2.7
+V01006,2025-11-15,Recife,Currais Novos,Caminhão 3/4,Motorista 17,697.7,2735.2,3500,78.1,1996.78,96.24,340.15,2433.17,3192.83,759.66,12.4,18.1,5.7,Entregue com atraso,4.0
+V00809,2025-11-15,Fortaleza,Natal,Caminhão 3/4,Motorista 06,601.2,1094.8,3500,31.3,1522.76,80.68,181.61,1785.05,2507.26,722.21,11.4,11.4,0.0,Entregue no prazo,4.5
+V00998,2025-11-16,Natal,Currais Novos,Van,Motorista 05,736.5,413.3,1500,27.6,1201.73,43.45,263.16,1508.34,2321.19,812.85,13.1,13.1,0.0,Entregue no prazo,5.0
+V00103,2025-11-16,Natal,Assú,Van,Motorista 01,226.7,384.6,1500,25.6,402.75,21.54,101.96,526.25,742.25,216.0,3.9,3.9,0.0,Entregue no prazo,4.5
+V00990,2025-11-17,João Pessoa,Recife,Van,Motorista 10,82.4,663.3,1500,44.2,155.78,8.7,31.39,195.87,258.87,63.0,1.7,1.7,0.0,Entregue no prazo,4.6
+V00267,2025-11-17,Natal,Sousa,Caminhão Toco,Motorista 18,359.2,2160.9,6000,36.0,1137.87,32.03,119.45,1289.35,1861.49,572.14,7.3,7.3,0.0,Entregue no prazo,5.0
+V01136,2025-11-18,Fortaleza,Recife,Caminhão Truck,Motorista 14,737.1,2375.4,14000,17.0,3411.71,80.87,288.58,3781.16,4863.73,1082.57,13.6,13.6,0.0,Entregue no prazo,5.0
+V00608,2025-11-18,Mossoró,Recife,Caminhão Toco,Motorista 16,811.7,3013.8,6000,50.2,3155.66,41.25,389.42,3586.33,5460.0,1873.67,12.6,12.6,0.0,Entregue no prazo,4.6
+V00641,2025-11-18,Recife,João Pessoa,Caminhão Toco,Motorista 18,113.7,3688.2,6000,61.5,432.37,7.05,44.37,483.79,732.63,248.84,1.9,1.9,0.0,Entregue no prazo,5.0
+V00387,2025-11-19,Recife,Currais Novos,Carreta,Motorista 09,45.2,4049.1,27000,15.0,298.31,5.55,20.67,324.53,404.85,80.32,0.9,0.9,0.0,Entregue no prazo,4.7
+V00994,2025-11-19,Fortaleza,João Pessoa,Van,Motorista 12,707.8,1487.3,1500,99.2,1265.97,53.26,228.51,1547.74,1867.13,319.39,11.4,11.4,0.0,Entregue no prazo,4.7
+V01065,2025-11-20,Mossoró,Natal,Caminhão Toco,Motorista 01,531.5,1588.9,6000,26.5,2018.26,43.96,194.43,2256.65,3135.11,878.46,10.9,10.9,0.0,Entregue no prazo,5.0
+V00388,2025-11-20,Fortaleza,Sousa,Caminhão Truck,Motorista 07,134.8,8234.9,14000,58.8,591.42,7.2,57.56,656.18,980.05,323.87,2.6,2.6,0.0,Entregue no prazo,4.2
+V00148,2025-11-20,Recife,Fortaleza,Caminhão Toco,Motorista 13,642.9,2948.1,6000,49.1,1998.88,93.72,314.09,2406.69,3523.58,1116.89,9.9,9.9,0.0,Entregue no prazo,4.9
+V00677,2025-11-20,Natal,Assú,Caminhão Truck,Motorista 20,89.3,9731.7,14000,69.5,415.31,7.85,32.87,456.03,637.68,181.65,1.4,1.4,0.0,Entregue no prazo,3.5
+V00584,2025-11-21,João Pessoa,Caicó,Caminhão 3/4,Motorista 09,465.3,370.6,3500,10.6,1136.75,61.08,151.93,1349.76,1678.24,328.48,8.6,8.6,0.0,Entregue no prazo,4.4
+V00233,2025-11-21,Recife,Mossoró,Van,Motorista 18,826.3,930.8,1500,62.1,1604.38,46.97,316.91,1968.26,2355.11,386.85,14.4,14.4,0.0,Cancelada,
+V00465,2025-11-21,Natal,Fortaleza,Caminhão 3/4,Motorista 16,729.4,1479.2,3500,42.3,1860.03,104.68,271.82,2236.53,2921.17,684.64,15.5,15.5,0.0,Entregue no prazo,5.0
+V00426,2025-11-21,Recife,Assú,Van,Motorista 19,447.8,909.5,1500,60.6,797.86,26.04,151.66,975.56,1492.9,517.34,8.4,8.4,0.0,Entregue no prazo,4.8
+V00578,2025-11-21,Natal,Parnamirim,Carreta,Motorista 16,622.8,21917.8,27000,81.2,4244.45,39.08,299.36,4582.89,6502.72,1919.83,9.9,9.9,0.0,Entregue no prazo,4.0
+V00681,2025-11-21,Fortaleza,Mossoró,Van,Motorista 08,603.8,520.2,1500,34.7,1223.62,36.49,299.81,1559.92,2330.68,770.76,10.3,10.3,0.0,Cancelada,
+V00260,2025-11-21,João Pessoa,Recife,Caminhão Toco,Motorista 12,598.6,4263.5,6000,71.1,2215.09,82.18,239.44,2536.71,3658.19,1121.48,10.4,10.4,0.0,Entregue no prazo,5.0
+V00703,2025-11-22,Natal,Caicó,Caminhão 3/4,Motorista 05,208.1,2556.6,3500,73.0,536.99,16.21,69.94,623.14,854.33,231.19,4.2,4.2,0.0,Entregue no prazo,5.0
+V00432,2025-11-22,João Pessoa,Natal,Caminhão Toco,Motorista 18,746.2,546.6,6000,9.1,2846.98,61.87,270.81,3179.66,4307.92,1128.26,11.7,11.7,0.0,Entregue no prazo,5.0
+V00753,2025-11-22,Recife,Parnamirim,Caminhão Toco,Motorista 06,636.6,4294.4,6000,71.6,2237.05,75.05,302.2,2614.3,3458.48,844.18,12.0,16.9,4.9,Entregue com atraso,3.4
+V01067,2025-11-22,Mossoró,Parnamirim,Caminhão Truck,Motorista 10,652.1,8499.7,14000,60.7,2895.77,44.8,240.99,3181.56,4523.93,1342.37,13.0,13.0,0.0,Entregue no prazo,3.4
+V00916,2025-11-22,Fortaleza,Natal,Caminhão Toco,Motorista 20,740.3,5364.4,6000,89.4,2435.22,39.6,260.74,2735.56,3450.86,715.3,11.7,11.7,0.0,Entregue no prazo,4.8
+V00622,2025-11-22,Mossoró,Sousa,Caminhão Toco,Motorista 02,489.1,248.5,6000,4.1,1531.01,30.63,164.87,1726.51,2339.09,612.58,7.5,7.5,0.0,Entregue no prazo,4.6
+V00725,2025-11-23,Mossoró,Fortaleza,Van,Motorista 09,450.8,515.1,1500,34.3,767.69,25.46,204.0,997.15,1317.21,320.06,7.8,13.4,5.6,Entregue com atraso,2.0
+V00924,2025-11-23,Fortaleza,Caicó,Caminhão 3/4,Motorista 07,572.8,2016.4,3500,57.6,1385.81,35.1,180.12,1601.03,2317.5,716.47,9.7,9.7,0.0,Entregue no prazo,4.7
+V00599,2025-11-23,Recife,Mossoró,Caminhão Truck,Motorista 01,510.4,9503.9,14000,67.9,2528.93,59.16,193.75,2781.84,3770.65,988.81,8.4,8.4,0.0,Entregue no prazo,4.1
+V00671,2025-11-24,Recife,João Pessoa,Van,Motorista 15,34.6,442.2,1500,29.5,57.6,2.99,13.85,74.44,86.9,12.46,0.7,0.7,0.0,Entregue no prazo,3.7
+V00325,2025-11-24,Fortaleza,Assú,Van,Motorista 16,322.0,1084.5,1500,72.3,561.36,42.75,144.25,748.36,1096.8,348.44,6.8,6.8,0.0,Entregue no prazo,4.7
+V00244,2025-11-24,Recife,Natal,Van,Motorista 17,215.4,1262.5,1500,84.2,439.13,12.82,84.01,535.96,688.7,152.74,3.5,3.5,0.0,Entregue no prazo,5.0
+V00493,2025-11-24,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 05,658.2,3277.1,3500,93.6,1945.47,57.2,215.3,2217.97,3010.58,792.61,13.9,13.9,0.0,Cancelada,
+V00431,2025-11-24,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 18,380.0,2340.8,3500,66.9,1068.84,43.08,124.68,1236.6,1641.19,404.59,6.8,10.6,3.8,Entregue com atraso,4.1
+V00273,2025-11-24,Natal,Caicó,Caminhão 3/4,Motorista 16,740.4,743.3,3500,21.2,1932.32,38.08,292.95,2263.35,2621.88,358.53,12.1,18.5,6.4,Entregue com atraso,3.8
+V01122,2025-11-25,Fortaleza,João Pessoa,Caminhão Truck,Motorista 03,135.3,7085.9,14000,50.6,647.46,18.11,65.93,731.5,934.1,202.6,2.8,2.8,0.0,Entregue no prazo,5.0
+V00245,2025-11-25,Recife,Mossoró,Caminhão 3/4,Motorista 05,626.6,1798.5,3500,51.4,1748.82,65.97,215.08,2029.87,2503.71,473.84,12.3,12.3,0.0,Cancelada,
+V00646,2025-11-25,Mossoró,Recife,Van,Motorista 11,568.0,473.6,1500,31.6,1001.51,42.04,233.67,1277.22,1524.09,246.87,8.9,8.9,0.0,Entregue no prazo,4.6
+V00241,2025-11-25,Mossoró,Sousa,Caminhão Toco,Motorista 09,73.0,1125.8,6000,18.8,244.21,4.21,25.33,273.75,405.71,131.96,1.1,1.1,0.0,Entregue no prazo,4.4
+V00663,2025-11-26,Natal,Currais Novos,Caminhão Truck,Motorista 08,696.5,9374.2,14000,67.0,3086.56,39.74,289.75,3416.05,4911.86,1495.81,14.9,14.9,0.0,Entregue no prazo,5.0
+V01168,2025-11-26,Mossoró,Fortaleza,Caminhão 3/4,Motorista 09,771.4,961.1,3500,27.5,1951.19,104.21,302.15,2357.55,2733.81,376.26,14.1,14.1,0.0,Entregue no prazo,4.6
+V00017,2025-11-27,Mossoró,Assú,Caminhão 3/4,Motorista 16,746.4,3447.5,3500,98.5,2119.31,68.5,286.82,2474.63,3575.92,1101.29,15.0,15.0,0.0,Entregue no prazo,3.8
+V00944,2025-11-27,Recife,Fortaleza,Caminhão Toco,Motorista 02,224.5,2671.4,6000,44.5,826.38,25.24,78.02,929.64,1256.23,326.59,3.5,6.4,2.9,Entregue com atraso,3.6
+V01199,2025-11-27,João Pessoa,Caicó,Caminhão 3/4,Motorista 04,400.9,2623.7,3500,75.0,1068.66,44.27,144.55,1257.48,1546.88,289.4,7.2,7.2,0.0,Entregue no prazo,5.0
+V00401,2025-11-27,Natal,Assú,Carreta,Motorista 20,439.2,2135.3,27000,7.9,2916.67,44.06,198.97,3159.7,4247.0,1087.3,9.2,9.2,0.0,Entregue no prazo,4.3
+V00365,2025-11-28,Recife,Assú,Caminhão 3/4,Motorista 10,247.4,1625.6,3500,46.4,739.57,17.82,79.33,836.72,1158.03,321.31,4.5,4.5,0.0,Entregue no prazo,3.9
+V00825,2025-11-28,Mossoró,Recife,Caminhão Toco,Motorista 05,398.2,2113.8,6000,35.2,1492.03,25.11,196.15,1713.29,2405.35,692.06,6.3,6.3,0.0,Entregue no prazo,4.7
+V00255,2025-11-28,João Pessoa,Mossoró,Caminhão Truck,Motorista 16,845.4,8555.6,14000,61.1,3716.69,113.07,357.52,4187.28,5788.82,1601.54,16.9,18.0,1.1,Entregue com atraso,3.2
+V00583,2025-11-28,Natal,Currais Novos,Van,Motorista 01,647.4,1254.5,1500,83.6,1058.35,62.66,277.94,1398.95,2073.26,674.31,14.1,18.7,4.6,Entregue com atraso,2.3
+V00549,2025-11-28,Mossoró,Currais Novos,Caminhão 3/4,Motorista 15,690.7,2408.3,3500,68.8,1945.07,64.39,301.11,2310.57,3220.04,909.47,11.4,11.4,0.0,Entregue no prazo,5.0
+V00277,2025-11-29,Mossoró,Recife,Caminhão 3/4,Motorista 11,596.4,2605.0,3500,74.4,1413.79,85.17,189.79,1688.75,2135.19,446.44,10.2,10.2,0.0,Entregue no prazo,4.5
+V00015,2025-11-29,Natal,Currais Novos,Van,Motorista 03,489.8,825.4,1500,55.0,988.54,50.46,190.14,1229.14,1612.38,383.24,8.7,13.2,4.5,Entregue com atraso,4.0
+V00505,2025-11-29,Fortaleza,Sousa,Caminhão Toco,Motorista 11,667.4,3428.8,6000,57.1,2408.58,34.27,221.87,2664.72,4114.24,1449.52,14.3,14.3,0.0,Entregue no prazo,4.5
+V00190,2025-11-29,Recife,Assú,Van,Motorista 16,38.2,1140.5,1500,76.0,71.09,5.1,17.74,93.93,139.7,45.77,0.7,0.7,0.0,Entregue no prazo,4.1
+V01190,2025-11-29,Fortaleza,Mossoró,Caminhão Toco,Motorista 04,483.5,3313.5,6000,55.2,1774.56,34.19,160.43,1969.18,2778.05,808.87,9.5,9.5,0.0,Em rota,
+V00955,2025-11-29,Fortaleza,Recife,Carreta,Motorista 13,56.3,1421.6,27000,5.3,344.22,3.31,22.29,369.82,533.09,163.27,1.0,1.0,0.0,Entregue no prazo,5.0
+V00548,2025-11-29,Recife,Caicó,Caminhão 3/4,Motorista 15,370.7,1546.3,3500,44.2,945.64,47.51,167.48,1160.63,1556.94,396.31,8.1,8.1,0.0,Entregue no prazo,4.6
+V01066,2025-11-30,Natal,Recife,Caminhão Toco,Motorista 14,648.7,1208.6,6000,20.1,2296.64,91.61,320.24,2708.49,3825.63,1117.14,10.0,10.0,0.0,Entregue no prazo,5.0
+V00396,2025-11-30,Fortaleza,Sousa,Caminhão Truck,Motorista 05,827.7,267.2,14000,1.9,3736.46,49.7,332.6,4118.76,4777.22,658.46,15.6,15.6,0.0,Entregue no prazo,4.0
+V00290,2025-11-30,Mossoró,Assú,Van,Motorista 05,143.3,1316.8,1500,87.8,264.39,16.84,49.84,331.07,481.12,150.05,2.4,2.4,0.0,Entregue no prazo,3.8
+V00891,2025-12-01,Fortaleza,Mossoró,Caminhão Toco,Motorista 07,205.4,3667.7,6000,61.1,764.73,17.23,77.22,859.18,1293.2,434.02,3.9,3.9,0.0,Entregue no prazo,4.5
+V01174,2025-12-01,Recife,Sousa,Caminhão Truck,Motorista 13,62.1,4710.9,14000,33.6,313.57,3.26,23.68,340.51,395.86,55.35,1.2,1.2,0.0,Entregue no prazo,4.9
+V00767,2025-12-01,Natal,Currais Novos,Caminhão Truck,Motorista 12,56.6,10474.9,14000,74.8,237.72,3.58,17.23,258.53,302.46,43.93,1.1,1.1,0.0,Entregue no prazo,5.0
+V01200,2025-12-01,Recife,Caicó,Caminhão 3/4,Motorista 17,223.4,370.4,3500,10.6,667.42,27.62,70.93,765.97,887.07,121.1,3.8,3.8,0.0,Entregue no prazo,4.0
+V00464,2025-12-01,Recife,Fortaleza,Caminhão Truck,Motorista 17,576.6,11344.0,14000,81.0,2665.2,31.98,234.73,2931.91,4469.11,1537.2,10.1,16.6,6.5,Entregue com atraso,2.8
+V00836,2025-12-02,Recife,Currais Novos,Caminhão Truck,Motorista 19,265.1,10984.6,14000,78.5,1118.86,30.41,128.17,1277.44,1816.44,539.0,4.3,4.3,0.0,Entregue no prazo,4.9
+V00367,2025-12-02,Recife,Currais Novos,Caminhão Truck,Motorista 15,402.2,7196.6,14000,51.4,1887.8,57.61,189.69,2135.1,2601.07,465.97,7.5,7.5,0.0,Entregue no prazo,4.9
+V00687,2025-12-03,Recife,Natal,Van,Motorista 14,702.3,920.1,1500,61.3,1280.13,55.17,252.55,1587.85,2069.35,481.5,11.4,11.4,0.0,Em rota,
+V01108,2025-12-04,Natal,Parnamirim,Carreta,Motorista 09,352.2,18154.0,27000,67.2,2221.79,31.12,114.05,2366.96,2953.91,586.95,7.5,9.0,1.5,Entregue com atraso,2.7
+V01105,2025-12-04,Natal,Currais Novos,Van,Motorista 17,37.3,445.2,1500,29.7,72.0,2.11,14.69,88.8,125.65,36.85,0.6,0.6,0.0,Entregue no prazo,5.0
+V01083,2025-12-04,Mossoró,Sousa,Van,Motorista 20,356.7,1471.2,1500,98.1,659.33,37.53,157.83,854.69,1148.55,293.86,7.2,7.2,0.0,Entregue no prazo,4.5
+V01080,2025-12-04,Recife,Mossoró,Caminhão Toco,Motorista 10,118.6,3302.3,6000,55.0,418.92,7.19,58.45,484.56,668.36,183.8,2.5,2.5,0.0,Entregue no prazo,4.7
+V00092,2025-12-04,Mossoró,Caicó,Van,Motorista 13,729.5,260.5,1500,17.4,1385.22,77.47,269.32,1732.01,2210.18,478.17,12.1,12.1,0.0,Entregue no prazo,5.0
+V00333,2025-12-05,João Pessoa,Natal,Carreta,Motorista 04,453.6,7827.3,27000,29.0,2894.73,61.15,198.24,3154.12,3993.17,839.05,9.3,9.3,0.0,Entregue no prazo,4.0
+V00430,2025-12-05,Recife,Sousa,Van,Motorista 16,585.5,883.5,1500,58.9,1137.71,63.32,286.63,1487.66,1742.76,255.1,12.4,12.4,0.0,Entregue no prazo,5.0
+V00310,2025-12-05,Mossoró,Recife,Carreta,Motorista 11,41.8,21719.9,27000,80.4,296.79,4.62,16.75,318.16,477.67,159.51,0.7,4.5,3.8,Entregue com atraso,4.3
+V01098,2025-12-06,Recife,João Pessoa,Caminhão Truck,Motorista 12,348.5,7144.2,14000,51.0,1712.82,48.01,111.78,1872.61,2441.78,569.17,5.8,5.8,0.0,Entregue no prazo,5.0
+V00219,2025-12-07,Fortaleza,Assú,Caminhão Truck,Motorista 16,309.1,7246.0,14000,51.8,1465.76,43.6,124.25,1633.61,2206.21,572.6,6.7,6.7,0.0,Entregue no prazo,3.3
+V00192,2025-12-07,João Pessoa,Mossoró,Caminhão Toco,Motorista 13,399.4,3177.5,6000,53.0,1557.99,29.22,195.11,1782.32,2080.21,297.89,7.4,7.4,0.0,Entregue no prazo,4.5
+V00153,2025-12-07,Fortaleza,Assú,Caminhão 3/4,Motorista 19,174.4,906.1,3500,25.9,409.57,8.97,81.25,499.79,721.12,221.33,3.3,3.3,0.0,Entregue no prazo,4.8
+V00659,2025-12-07,Recife,Sousa,Caminhão 3/4,Motorista 06,284.7,1721.2,3500,49.2,790.93,29.65,133.43,954.01,1387.8,433.79,6.2,6.2,0.0,Em rota,
+V00269,2025-12-07,Fortaleza,Mossoró,Caminhão Toco,Motorista 07,800.4,4579.8,6000,76.3,2848.33,106.33,252.96,3207.62,4300.57,1092.95,13.9,20.3,6.4,Entregue com atraso,3.4
+V00838,2025-12-07,Fortaleza,João Pessoa,Van,Motorista 15,241.3,1399.5,1500,93.3,404.94,19.75,75.03,499.72,715.26,215.54,3.8,3.8,0.0,Entregue no prazo,4.7
+V00503,2025-12-07,Natal,Fortaleza,Caminhão 3/4,Motorista 09,231.7,1955.9,3500,55.9,614.82,27.87,72.66,715.35,878.1,162.75,4.7,6.6,1.9,Entregue com atraso,3.4
+V01195,2025-12-08,João Pessoa,Assú,Caminhão 3/4,Motorista 02,775.8,2414.3,3500,69.0,2140.97,82.19,239.84,2463.0,3750.58,1287.58,13.5,13.5,0.0,Em rota,
+V00280,2025-12-08,Recife,Parnamirim,Caminhão 3/4,Motorista 19,636.5,2220.5,3500,63.4,1496.31,44.22,294.12,1834.65,2309.93,475.28,10.7,10.7,0.0,Entregue no prazo,4.4
+V00298,2025-12-08,Fortaleza,Mossoró,Carreta,Motorista 03,717.9,18183.1,27000,67.3,4781.49,61.95,341.62,5185.06,7467.26,2282.2,15.2,15.2,0.0,Entregue no prazo,4.6
+V01002,2025-12-08,Mossoró,Caicó,Caminhão 3/4,Motorista 20,287.7,479.4,3500,13.7,760.09,35.91,99.06,895.06,1108.06,213.0,4.5,4.5,0.0,Em rota,
+V00349,2025-12-08,Recife,Parnamirim,Caminhão 3/4,Motorista 15,261.7,1120.7,3500,32.0,681.27,39.22,81.39,801.88,1107.73,305.85,5.6,5.6,0.0,Entregue no prazo,4.7
+V00024,2025-12-08,Recife,Mossoró,Caminhão Toco,Motorista 06,185.2,5313.5,6000,88.6,718.04,17.88,88.12,824.04,949.34,125.3,3.0,3.0,0.0,Entregue no prazo,4.2
+V00769,2025-12-09,João Pessoa,Fortaleza,Caminhão Toco,Motorista 01,107.8,5981.7,6000,99.7,354.41,14.57,35.91,404.89,584.07,179.18,1.9,1.9,0.0,Em rota,
+V00072,2025-12-09,Natal,João Pessoa,Caminhão Toco,Motorista 18,83.0,447.3,6000,7.5,280.18,6.36,35.63,322.17,434.84,112.67,1.6,1.6,0.0,Entregue no prazo,5.0
+V00594,2025-12-10,Natal,Caicó,Caminhão Toco,Motorista 07,814.1,217.5,6000,3.6,2662.71,116.24,396.0,3174.95,4566.32,1391.37,13.5,13.5,0.0,Entregue no prazo,3.7
+V00295,2025-12-10,Natal,Recife,Caminhão 3/4,Motorista 03,175.2,217.0,3500,6.2,460.69,10.24,76.48,547.41,681.11,133.7,2.7,5.4,2.7,Entregue com atraso,3.3
+V00507,2025-12-10,Fortaleza,Sousa,Caminhão 3/4,Motorista 03,327.5,1028.3,3500,29.4,911.84,38.77,131.12,1081.73,1580.6,498.87,5.3,5.3,0.0,Entregue no prazo,5.0
+V00105,2025-12-10,Fortaleza,Mossoró,Caminhão Truck,Motorista 15,280.4,3134.5,14000,22.4,1146.09,22.54,120.75,1289.38,1966.72,677.34,4.5,10.9,6.4,Entregue com atraso,2.6
+V00540,2025-12-11,João Pessoa,Sousa,Van,Motorista 06,731.8,1085.2,1500,72.3,1246.96,56.3,336.73,1639.99,2183.72,543.73,12.5,12.5,0.0,Entregue no prazo,4.1
+V00669,2025-12-11,Mossoró,Natal,Caminhão 3/4,Motorista 10,572.7,1679.2,3500,48.0,1506.37,54.84,201.44,1762.65,2531.56,768.91,9.6,9.6,0.0,Entregue no prazo,4.4
+V00691,2025-12-11,Fortaleza,Recife,Caminhão Truck,Motorista 05,641.9,8543.7,14000,61.0,3095.35,33.27,232.6,3361.22,4722.95,1361.73,14.2,14.2,0.0,Entregue no prazo,4.0
+V00750,2025-12-12,Mossoró,João Pessoa,Caminhão Truck,Motorista 07,661.0,3578.1,14000,25.6,2713.82,89.15,199.62,3002.59,4578.48,1575.89,11.5,11.5,0.0,Entregue no prazo,4.0
+V00616,2025-12-12,Mossoró,Caicó,Caminhão 3/4,Motorista 15,123.1,2859.8,3500,81.7,308.31,9.22,51.47,369.0,434.7,65.7,2.7,2.7,0.0,Entregue no prazo,3.8
+V00185,2025-12-12,Mossoró,Caicó,Caminhão Toco,Motorista 03,316.1,3225.3,6000,53.8,1180.73,43.76,116.63,1341.12,1790.04,448.92,5.9,5.9,0.0,Entregue no prazo,4.4
+V01044,2025-12-12,Fortaleza,Mossoró,Caminhão Truck,Motorista 19,201.7,13294.6,14000,95.0,830.68,28.2,72.79,931.67,1257.81,326.14,3.8,3.8,0.0,Entregue no prazo,4.1
+V00800,2025-12-13,Fortaleza,Natal,Van,Motorista 05,377.2,424.2,1500,28.3,749.52,34.07,183.74,967.33,1479.98,512.65,8.0,8.0,0.0,Em rota,
+V00047,2025-12-14,Natal,Currais Novos,Van,Motorista 01,629.3,403.0,1500,26.9,1085.89,92.09,220.92,1398.9,1978.96,580.06,9.7,9.7,0.0,Entregue no prazo,4.7
+V00633,2025-12-14,Natal,Recife,Carreta,Motorista 18,450.3,12492.0,27000,46.3,2960.99,53.13,185.41,3199.53,4479.27,1279.74,9.6,9.6,0.0,Em rota,
+V00609,2025-12-15,Recife,Currais Novos,Caminhão 3/4,Motorista 14,82.2,929.6,3500,26.6,219.73,8.6,25.22,253.55,308.86,55.31,1.5,1.5,0.0,Entregue no prazo,4.4
+V01009,2025-12-15,Mossoró,Assú,Caminhão 3/4,Motorista 06,131.1,2859.0,3500,81.7,307.56,10.65,43.9,362.11,501.75,139.64,2.6,2.6,0.0,Entregue no prazo,5.0
+V00514,2025-12-15,Recife,Caicó,Caminhão Truck,Motorista 19,533.6,4811.2,14000,34.4,2652.07,28.73,253.01,2933.81,3975.61,1041.8,10.1,10.1,0.0,Entregue no prazo,4.5
+V00297,2025-12-16,João Pessoa,Currais Novos,Van,Motorista 11,584.8,1026.9,1500,68.5,1053.11,63.03,211.45,1327.59,1780.14,452.55,9.6,9.6,0.0,Em rota,
+V00032,2025-12-17,Natal,Recife,Van,Motorista 15,424.8,352.5,1500,23.5,712.11,50.36,164.0,926.47,1139.75,213.28,7.7,7.7,0.0,Entregue no prazo,3.6
+V00845,2025-12-17,João Pessoa,Sousa,Van,Motorista 12,631.9,425.2,1500,28.3,1104.91,86.24,301.43,1492.58,1743.29,250.71,13.1,13.1,0.0,Entregue no prazo,3.7
+V00374,2025-12-17,Recife,Natal,Caminhão Toco,Motorista 13,51.8,4464.3,6000,74.4,186.06,5.6,23.22,214.88,305.15,90.27,1.1,1.1,0.0,Entregue no prazo,4.2
+V00610,2025-12-17,João Pessoa,Natal,Caminhão 3/4,Motorista 19,288.8,486.9,3500,13.9,717.64,19.87,111.36,848.87,1199.72,350.85,5.7,5.7,0.0,Entregue no prazo,4.0
+V00407,2025-12-17,Natal,Mossoró,Caminhão Toco,Motorista 10,225.9,5705.8,6000,95.1,749.84,15.11,88.58,853.53,1086.4,232.87,4.9,4.9,0.0,Entregue no prazo,5.0
+V00160,2025-12-17,Fortaleza,Currais Novos,Van,Motorista 14,88.3,289.7,1500,19.3,180.43,8.89,33.72,223.04,328.84,105.8,1.4,1.4,0.0,Entregue no prazo,5.0
+V01142,2025-12-18,Mossoró,Caicó,Caminhão Toco,Motorista 10,336.9,2890.2,6000,48.2,1205.34,17.06,167.76,1390.16,1801.06,410.9,5.4,5.4,0.0,Entregue no prazo,4.8
+V00149,2025-12-18,João Pessoa,Caicó,Caminhão 3/4,Motorista 12,538.2,3157.0,3500,90.2,1555.76,43.87,191.19,1790.82,2762.63,971.81,9.7,9.7,0.0,Cancelada,
+V01007,2025-12-19,Fortaleza,Caicó,Van,Motorista 18,260.4,541.0,1500,36.1,447.92,31.49,82.53,561.94,812.93,250.99,4.4,4.4,0.0,Entregue no prazo,5.0
+V00121,2025-12-19,João Pessoa,Recife,Van,Motorista 09,281.2,1225.7,1500,81.7,512.03,36.51,130.61,679.15,1013.99,334.84,4.4,4.4,0.0,Entregue no prazo,4.4
+V00217,2025-12-19,Natal,João Pessoa,Van,Motorista 20,645.2,397.7,1500,26.5,1178.29,54.92,205.66,1438.87,1934.49,495.62,10.2,10.2,0.0,Entregue no prazo,4.0
+V00189,2025-12-19,Recife,Natal,Caminhão 3/4,Motorista 07,147.1,2483.8,3500,71.0,363.93,13.12,70.48,447.53,551.23,103.7,2.7,2.7,0.0,Entregue no prazo,4.6
+V00331,2025-12-19,Natal,Parnamirim,Caminhão Truck,Motorista 20,716.7,3509.5,14000,25.1,3059.83,72.02,325.2,3457.05,4061.27,604.22,12.7,12.7,0.0,Entregue no prazo,4.6
+V00979,2025-12-20,Natal,Sousa,Van,Motorista 05,750.8,1181.1,1500,78.7,1531.68,54.07,350.83,1936.58,2761.56,824.98,12.0,15.1,3.1,Entregue com atraso,2.0
+V00383,2025-12-20,João Pessoa,Recife,Caminhão Toco,Motorista 10,398.4,5654.9,6000,94.2,1541.77,29.45,169.25,1740.47,2331.59,591.12,6.4,6.4,0.0,Entregue no prazo,3.8
+V00758,2025-12-20,Mossoró,Fortaleza,Caminhão Toco,Motorista 13,421.3,1134.1,6000,18.9,1404.14,30.54,200.36,1635.04,2195.45,560.41,7.5,7.5,0.0,Entregue no prazo,4.6
+V01112,2025-12-20,Mossoró,Parnamirim,Caminhão Truck,Motorista 02,53.8,10836.1,14000,77.4,224.57,2.84,19.08,246.49,310.02,63.53,0.9,0.9,0.0,Entregue no prazo,5.0
+V00640,2025-12-20,Fortaleza,Parnamirim,Caminhão Truck,Motorista 16,459.1,822.6,14000,5.9,2341.47,55.34,206.22,2603.03,3820.92,1217.89,7.7,7.7,0.0,Entregue no prazo,5.0
+V00658,2025-12-20,Fortaleza,Mossoró,Van,Motorista 16,535.3,757.3,1500,50.5,911.11,77.21,241.43,1229.75,1516.54,286.79,10.3,16.0,5.7,Entregue com atraso,3.1
+V00660,2025-12-20,João Pessoa,Natal,Caminhão 3/4,Motorista 16,363.4,2050.7,3500,58.6,904.31,48.05,130.5,1082.86,1550.81,467.95,6.6,6.6,0.0,Entregue no prazo,5.0
+V00360,2025-12-21,Recife,Parnamirim,Caminhão Truck,Motorista 03,686.1,3534.9,14000,25.2,2831.22,56.05,242.44,3129.71,4232.53,1102.82,11.3,18.1,6.8,Entregue com atraso,3.2
+V00607,2025-12-21,Fortaleza,Parnamirim,Caminhão 3/4,Motorista 05,478.2,2026.5,3500,57.9,1273.28,38.54,232.14,1543.96,2139.06,595.1,9.0,9.0,0.0,Entregue no prazo,4.0
+V00036,2025-12-22,Recife,João Pessoa,Caminhão Truck,Motorista 09,797.7,917.2,14000,6.6,3716.45,96.45,378.26,4191.16,6016.98,1825.82,13.1,13.1,0.0,Entregue no prazo,4.7
+V00307,2025-12-23,Mossoró,Natal,Van,Motorista 15,181.6,756.6,1500,50.4,299.21,13.15,67.67,380.03,503.71,123.68,2.8,8.8,6.0,Entregue com atraso,4.0
+V00372,2025-12-23,Natal,Caicó,Caminhão Truck,Motorista 11,318.6,6356.9,14000,45.4,1531.07,26.57,111.78,1669.42,2341.23,671.81,7.0,11.4,4.4,Entregue com atraso,3.6
+V00728,2025-12-24,Recife,Assú,Caminhão Toco,Motorista 17,301.6,888.2,6000,14.8,1069.12,42.42,137.77,1249.31,1747.79,498.48,5.9,5.9,0.0,Entregue no prazo,4.8
+V00737,2025-12-24,João Pessoa,Assú,Caminhão Truck,Motorista 13,483.3,3694.8,14000,26.4,2476.95,25.55,164.3,2666.8,3325.3,658.5,9.1,9.1,0.0,Entregue no prazo,5.0
+V00568,2025-12-24,Mossoró,Assú,Van,Motorista 15,236.8,894.5,1500,59.6,471.4,14.28,115.7,601.38,882.84,281.46,4.9,4.9,0.0,Entregue no prazo,4.5
+V01196,2025-12-24,Fortaleza,Natal,Caminhão Truck,Motorista 12,151.9,5011.3,14000,35.8,714.95,20.82,53.73,789.5,946.21,156.71,2.7,2.7,0.0,Entregue no prazo,4.7
+V00544,2025-12-24,Fortaleza,Caicó,Caminhão 3/4,Motorista 07,778.5,590.6,3500,16.9,2148.46,58.39,363.8,2570.65,3483.03,912.38,16.3,16.3,0.0,Entregue no prazo,4.5
+V00696,2025-12-25,João Pessoa,Sousa,Caminhão 3/4,Motorista 03,792.9,2790.1,3500,79.7,1958.47,50.02,345.04,2353.53,3233.64,880.11,13.0,18.2,5.2,Entregue com atraso,3.5
+V00506,2025-12-25,Mossoró,Caicó,Caminhão Truck,Motorista 01,566.9,5583.2,14000,39.9,2420.02,69.82,187.55,2677.39,3995.36,1317.97,10.3,10.3,0.0,Entregue no prazo,4.7
+V01003,2025-12-25,Recife,Sousa,Caminhão 3/4,Motorista 14,814.4,2803.9,3500,80.1,2288.96,55.86,392.46,2737.28,4054.32,1317.04,16.9,19.4,2.5,Entregue com atraso,3.4
+V01076,2025-12-26,Natal,Mossoró,Caminhão Toco,Motorista 15,170.0,412.9,6000,6.9,547.02,21.51,64.77,633.3,949.32,316.02,3.1,3.1,0.0,Entregue no prazo,4.2
+V00138,2025-12-26,Natal,João Pessoa,Caminhão Truck,Motorista 11,252.7,5753.8,14000,41.1,1052.65,17.41,115.38,1185.44,1702.31,516.87,4.4,9.3,4.9,Entregue com atraso,2.1
+V01060,2025-12-26,Natal,Caicó,Caminhão Toco,Motorista 03,459.7,5505.9,6000,91.8,1787.03,35.04,157.48,1979.55,2340.24,360.69,8.2,8.2,0.0,Entregue no prazo,4.2
+V01188,2025-12-26,Mossoró,Recife,Caminhão Toco,Motorista 07,559.3,459.7,6000,7.7,1969.21,28.93,254.88,2253.02,2886.85,633.83,10.3,11.1,0.8,Entregue com atraso,2.7
+V00509,2025-12-26,Natal,Fortaleza,Caminhão Toco,Motorista 05,509.8,3176.4,6000,52.9,1774.79,42.45,160.2,1977.44,2344.86,367.42,9.5,9.5,0.0,Entregue no prazo,5.0
+V01192,2025-12-27,Fortaleza,Caicó,Carreta,Motorista 18,487.4,15361.5,27000,56.9,2944.45,52.86,189.08,3186.39,4049.51,863.12,10.5,10.5,0.0,Entregue no prazo,4.7
+V00936,2025-12-27,Mossoró,Currais Novos,Caminhão Truck,Motorista 19,144.6,11972.9,14000,85.5,650.69,17.78,58.74,727.21,1077.32,350.11,2.7,2.7,0.0,Entregue no prazo,3.8
+V00490,2025-12-27,Fortaleza,Caicó,Caminhão 3/4,Motorista 05,634.4,431.3,3500,12.3,1841.0,63.41,245.96,2150.37,2998.5,848.13,11.0,11.0,0.0,Entregue no prazo,5.0
+V00880,2025-12-27,Mossoró,Assú,Caminhão Toco,Motorista 12,579.6,1216.0,6000,20.3,2006.99,66.57,177.16,2250.72,2601.75,351.03,12.2,12.2,0.0,Entregue no prazo,5.0
+V00195,2025-12-27,Recife,Natal,Caminhão 3/4,Motorista 03,385.2,2755.2,3500,78.7,1114.84,40.12,173.98,1328.94,1691.42,362.48,7.2,7.2,0.0,Entregue no prazo,5.0
+V00406,2025-12-27,Recife,Mossoró,Caminhão Toco,Motorista 07,309.6,4871.7,6000,81.2,1036.48,17.2,127.2,1180.88,1635.71,454.83,4.9,12.3,7.4,Entregue com atraso,3.4
+V00588,2025-12-28,Natal,Currais Novos,Caminhão Toco,Motorista 14,402.7,1413.9,6000,23.6,1233.54,29.86,161.86,1425.26,1855.67,430.41,7.5,7.5,0.0,Em rota,
+V00342,2025-12-28,Natal,Fortaleza,Caminhão 3/4,Motorista 04,604.9,1555.4,3500,44.4,1613.88,30.69,265.15,1909.72,2701.37,791.65,13.2,13.2,0.0,Entregue no prazo,5.0
+V01189,2025-12-29,Fortaleza,Mossoró,Caminhão Toco,Motorista 03,307.1,5989.4,6000,99.8,1155.19,42.5,149.68,1347.37,1733.22,385.85,6.0,6.0,0.0,Entregue no prazo,4.9
+V01163,2025-12-29,Fortaleza,Natal,Caminhão Truck,Motorista 02,406.0,2957.5,14000,21.1,2014.73,26.68,138.89,2180.3,2826.55,646.25,6.5,6.5,0.0,Entregue no prazo,5.0
+V00632,2025-12-29,Fortaleza,Currais Novos,Van,Motorista 15,255.5,303.5,1500,20.2,463.3,26.94,93.45,583.69,839.45,255.76,4.4,4.4,0.0,Entregue no prazo,5.0
+V00826,2025-12-30,João Pessoa,Caicó,Caminhão Truck,Motorista 19,275.5,13444.9,14000,96.0,1311.99,29.04,121.52,1462.55,1926.16,463.61,4.6,4.6,0.0,Entregue no prazo,4.3
+V00554,2025-12-30,Fortaleza,Assú,Carreta,Motorista 19,242.6,707.3,27000,2.6,1367.2,34.32,89.86,1491.38,1960.16,468.78,5.3,5.3,0.0,Entregue no prazo,4.9
+V00224,2025-12-31,Fortaleza,Natal,Van,Motorista 16,714.3,1416.1,1500,94.4,1216.87,62.32,346.95,1626.14,1910.26,284.12,15.2,15.2,0.0,Entregue no prazo,3.8
+V00810,2025-12-31,Mossoró,Currais Novos,Caminhão Truck,Motorista 13,183.1,7241.0,14000,51.7,850.54,25.2,71.87,947.61,1195.67,248.06,3.7,5.5,1.8,Entregue com atraso,2.5
+V01103,2025-12-31,Fortaleza,Natal,Van,Motorista 09,602.3,682.2,1500,45.5,1024.85,85.81,193.17,1303.83,1782.59,478.76,11.7,11.7,0.0,Entregue no prazo,3.9
+V00831,2025-12-31,Natal,Caicó,Van,Motorista 09,442.3,1007.6,1500,67.2,717.23,63.3,164.66,945.19,1237.04,291.85,9.1,9.1,0.0,Entregue no prazo,4.6
+V00467,2026-01-01,Mossoró,Parnamirim,Caminhão Toco,Motorista 07,89.0,5472.2,6000,91.2,344.8,5.14,36.18,386.12,490.89,104.77,1.7,1.7,0.0,Entregue no prazo,3.7
+V00397,2026-01-02,João Pessoa,Currais Novos,Caminhão Truck,Motorista 03,550.9,773.5,14000,5.5,2359.31,78.51,205.61,2643.43,3149.53,506.1,9.3,9.3,0.0,Entregue no prazo,4.4
+V00590,2026-01-02,Fortaleza,Mossoró,Caminhão 3/4,Motorista 05,31.3,3076.0,3500,87.9,73.86,3.8,9.68,87.34,109.74,22.4,0.6,0.6,0.0,Entregue no prazo,4.3
+V00694,2026-01-02,Recife,Parnamirim,Caminhão Truck,Motorista 18,470.8,13933.2,14000,99.5,2118.13,52.51,175.63,2346.27,3066.84,720.57,8.0,8.0,0.0,Cancelada,
+V00237,2026-01-03,Fortaleza,Caicó,Caminhão Toco,Motorista 05,670.4,2509.7,6000,41.8,2304.38,93.43,289.35,2687.16,3098.9,411.74,10.5,10.5,0.0,Entregue no prazo,4.8
+V00205,2026-01-03,Natal,Fortaleza,Caminhão Truck,Motorista 14,79.7,9658.5,14000,69.0,325.02,5.35,31.14,361.51,481.51,120.0,1.4,1.4,0.0,Cancelada,
+V00893,2026-01-03,João Pessoa,Sousa,Caminhão 3/4,Motorista 05,620.1,2227.8,3500,63.7,1724.99,52.78,224.96,2002.73,2851.25,848.52,12.6,12.6,0.0,Entregue no prazo,4.6
+V00155,2026-01-03,João Pessoa,Sousa,Caminhão Truck,Motorista 04,322.8,12981.5,14000,92.7,1390.38,36.62,111.18,1538.18,1966.82,428.64,5.2,6.4,1.2,Entregue com atraso,3.5
+V00566,2026-01-03,Natal,Currais Novos,Caminhão Toco,Motorista 11,837.7,367.3,6000,6.1,2804.13,50.92,295.26,3150.31,4679.96,1529.65,18.4,18.4,0.0,Entregue no prazo,3.8
+V00345,2026-01-04,Natal,Assú,Caminhão Truck,Motorista 13,188.0,1981.2,14000,14.2,824.4,24.06,74.13,922.59,1144.93,222.34,3.9,3.9,0.0,Entregue no prazo,4.7
+V00033,2026-01-04,Fortaleza,Natal,Van,Motorista 18,588.0,714.2,1500,47.6,1210.47,71.85,253.66,1535.98,2231.51,695.53,9.2,9.2,0.0,Cancelada,
+V00090,2026-01-04,Recife,Mossoró,Van,Motorista 04,70.9,1375.1,1500,91.7,143.87,9.08,21.37,174.32,204.46,30.14,1.4,1.4,0.0,Entregue no prazo,5.0
+V00457,2026-01-05,Mossoró,João Pessoa,Van,Motorista 19,641.5,245.7,1500,16.4,1205.24,82.53,194.67,1482.44,2030.76,548.32,10.3,10.3,0.0,Entregue no prazo,3.6
+V00006,2026-01-05,Recife,Mossoró,Caminhão 3/4,Motorista 02,327.7,313.0,3500,8.9,943.75,27.7,149.03,1120.48,1451.14,330.66,5.3,5.3,0.0,Entregue no prazo,4.5
+V00399,2026-01-06,João Pessoa,Mossoró,Van,Motorista 17,774.4,313.6,1500,20.9,1580.88,102.65,354.88,2038.41,2507.99,469.58,12.7,15.4,2.7,Entregue com atraso,3.9
+V00080,2026-01-06,Mossoró,Fortaleza,Caminhão Toco,Motorista 08,643.5,3435.3,6000,57.3,2067.89,35.64,234.24,2337.77,3392.75,1054.98,12.8,12.8,0.0,Entregue no prazo,4.3
+V00651,2026-01-06,João Pessoa,Sousa,Van,Motorista 03,130.5,1406.3,1500,93.8,238.08,16.11,48.73,302.92,350.65,47.73,2.8,2.8,0.0,Entregue no prazo,4.7
+V00174,2026-01-06,Fortaleza,Currais Novos,Van,Motorista 15,810.2,586.5,1500,39.1,1346.09,89.04,344.12,1779.25,2507.68,728.43,16.1,16.1,0.0,Entregue no prazo,4.6
+V00035,2026-01-06,João Pessoa,Natal,Caminhão Toco,Motorista 01,753.7,678.5,6000,11.3,2834.54,64.65,274.66,3173.85,4890.86,1717.01,15.4,15.4,0.0,Entregue no prazo,4.8
+V00550,2026-01-06,Mossoró,Currais Novos,Caminhão Truck,Motorista 20,289.1,4534.7,14000,32.4,1376.88,17.51,123.07,1517.46,1802.77,285.31,6.2,9.1,2.9,Entregue com atraso,3.1
+V00652,2026-01-07,Recife,Fortaleza,Caminhão Toco,Motorista 03,451.1,1007.1,6000,16.8,1471.23,42.76,152.37,1666.36,2095.35,428.99,8.1,11.6,3.5,Entregue com atraso,3.7
+V00347,2026-01-07,Mossoró,Sousa,Van,Motorista 20,526.8,756.9,1500,50.5,859.84,67.61,159.15,1086.6,1580.74,494.14,8.4,8.4,0.0,Entregue no prazo,5.0
+V00069,2026-01-07,Mossoró,Currais Novos,Van,Motorista 03,91.2,1217.5,1500,81.2,158.64,6.18,39.98,204.8,286.15,81.35,1.6,1.6,0.0,Entregue no prazo,4.5
+V00702,2026-01-08,Natal,João Pessoa,Caminhão Truck,Motorista 06,202.1,8467.6,14000,60.5,838.72,11.28,75.68,925.68,1331.37,405.69,3.6,3.6,0.0,Entregue no prazo,4.1
+V00788,2026-01-08,Recife,Fortaleza,Caminhão Truck,Motorista 18,353.7,10469.6,14000,74.8,1789.43,50.44,132.91,1972.78,2405.66,432.88,5.6,5.6,0.0,Entregue no prazo,4.2
+V00905,2026-01-08,Fortaleza,Caicó,Caminhão 3/4,Motorista 01,142.1,2019.4,3500,57.7,388.43,17.13,61.96,467.52,592.32,124.8,2.8,2.8,0.0,Entregue no prazo,3.9
+V00458,2026-01-08,João Pessoa,Fortaleza,Van,Motorista 10,312.6,409.3,1500,27.3,585.63,45.13,94.02,724.78,902.53,177.75,4.9,4.9,0.0,Entregue no prazo,4.7
+V00022,2026-01-08,João Pessoa,Caicó,Caminhão 3/4,Motorista 05,70.0,1957.6,3500,55.9,207.58,4.27,33.52,245.37,379.49,134.12,1.5,5.9,4.4,Entregue com atraso,3.4
+V00328,2026-01-08,Recife,João Pessoa,Caminhão 3/4,Motorista 12,431.6,1944.6,3500,55.6,1103.77,43.99,146.53,1294.29,1905.29,611.0,8.9,8.9,0.0,Entregue no prazo,4.2
+V00542,2026-01-08,Natal,Fortaleza,Caminhão Toco,Motorista 07,626.6,2819.5,6000,47.0,2373.7,90.49,230.08,2694.27,3702.68,1008.41,13.4,13.4,0.0,Entregue no prazo,5.0
+V00613,2026-01-10,Mossoró,Parnamirim,Caminhão Truck,Motorista 12,348.6,12147.0,14000,86.8,1695.93,31.51,119.55,1846.99,2387.03,540.04,6.9,6.9,0.0,Entregue no prazo,4.1
+V00293,2026-01-10,Fortaleza,Currais Novos,Van,Motorista 19,814.2,689.7,1500,46.0,1443.3,45.79,323.43,1812.52,2163.43,350.91,16.3,16.3,0.0,Entregue no prazo,4.2
+V00975,2026-01-10,Natal,Mossoró,Caminhão 3/4,Motorista 13,564.7,2633.9,3500,75.3,1322.36,63.71,235.87,1621.94,2213.76,591.82,9.3,9.3,0.0,Entregue no prazo,4.4
+V00304,2026-01-11,João Pessoa,Caicó,Van,Motorista 02,74.1,446.8,1500,29.8,121.34,6.61,34.12,162.07,208.5,46.43,1.4,1.4,0.0,Entregue no prazo,4.1
+V00835,2026-01-11,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 09,238.0,3070.2,3500,87.7,623.75,31.14,83.94,738.83,850.82,111.99,4.3,4.3,0.0,Entregue no prazo,3.9
+V00833,2026-01-11,Fortaleza,Caicó,Caminhão 3/4,Motorista 12,445.2,2160.5,3500,61.7,1246.69,59.33,144.38,1450.4,2137.93,687.53,8.2,8.2,0.0,Entregue no prazo,5.0
+V00533,2026-01-12,Fortaleza,Sousa,Van,Motorista 14,388.5,563.3,1500,37.6,731.09,21.58,127.78,880.45,1257.37,376.92,8.1,8.1,0.0,Entregue no prazo,4.8
+V01088,2026-01-12,Natal,Parnamirim,Caminhão 3/4,Motorista 09,689.1,1691.6,3500,48.3,1845.0,90.3,265.68,2200.98,3148.81,947.83,12.8,12.8,0.0,Entregue no prazo,4.9
+V00418,2026-01-12,Recife,Natal,Caminhão Truck,Motorista 08,330.6,5352.3,14000,38.2,1395.24,42.93,145.94,1584.11,1942.36,358.25,6.3,6.3,0.0,Entregue no prazo,4.1
+V00713,2026-01-13,Recife,Assú,Carreta,Motorista 10,175.2,964.3,27000,3.6,1224.55,8.9,78.35,1311.8,1588.41,276.61,2.8,8.2,5.4,Entregue com atraso,4.4
+V00743,2026-01-13,João Pessoa,Fortaleza,Caminhão Truck,Motorista 09,358.0,6041.9,14000,43.2,1702.09,28.17,176.8,1907.06,2657.44,750.38,6.8,6.8,0.0,Entregue no prazo,5.0
+V00946,2026-01-14,Fortaleza,Natal,Caminhão 3/4,Motorista 02,157.4,311.8,3500,8.9,469.59,15.46,65.23,550.28,768.39,218.11,2.6,4.6,2.0,Entregue com atraso,3.6
+V00231,2026-01-14,Recife,Natal,Caminhão 3/4,Motorista 10,324.6,2917.7,3500,83.4,932.72,31.72,120.16,1084.6,1404.58,319.98,5.3,5.3,0.0,Entregue no prazo,3.7
+V00182,2026-01-14,Fortaleza,Sousa,Van,Motorista 07,76.1,838.4,1500,55.9,155.03,4.61,34.46,194.1,255.02,60.92,1.3,1.3,0.0,Entregue no prazo,5.0
+V01193,2026-01-14,João Pessoa,Currais Novos,Caminhão Toco,Motorista 15,40.8,4963.6,6000,82.7,146.93,2.98,15.65,165.56,243.47,77.91,0.7,0.7,0.0,Entregue no prazo,3.8
+V01073,2026-01-14,Recife,Currais Novos,Caminhão Truck,Motorista 14,603.4,9014.4,14000,64.4,2805.06,76.54,272.49,3154.09,4406.72,1252.63,9.9,9.9,0.0,Entregue no prazo,3.4
+V00220,2026-01-14,Mossoró,João Pessoa,Caminhão Truck,Motorista 16,224.7,884.7,14000,6.3,1093.2,13.74,94.75,1201.69,1517.04,315.35,4.6,4.6,0.0,Entregue no prazo,5.0
+V00247,2026-01-15,Recife,Mossoró,Caminhão Truck,Motorista 20,285.8,1885.1,14000,13.5,1193.22,32.81,135.76,1361.79,1996.67,634.88,6.0,6.0,0.0,Entregue no prazo,4.9
+V01129,2026-01-16,Natal,Recife,Caminhão Toco,Motorista 15,40.0,3034.1,6000,50.6,144.3,5.67,15.05,165.02,240.28,75.26,0.7,0.7,0.0,Cancelada,
+V00235,2026-01-17,Fortaleza,Mossoró,Caminhão 3/4,Motorista 14,258.0,916.0,3500,26.2,652.02,27.25,78.9,758.17,1147.04,388.87,5.4,5.4,0.0,Entregue no prazo,5.0
+V00704,2026-01-17,Recife,Sousa,Van,Motorista 09,64.1,230.0,1500,15.3,114.6,4.16,26.39,145.15,220.18,75.03,1.2,1.7,0.5,Entregue com atraso,3.7
+V00112,2026-01-17,João Pessoa,Sousa,Caminhão Truck,Motorista 04,584.7,2017.4,14000,14.4,2522.08,75.24,288.93,2886.25,3622.45,736.2,11.6,11.6,0.0,Entregue no prazo,4.9
+V01171,2026-01-18,Mossoró,Assú,Van,Motorista 14,516.0,832.1,1500,55.5,1007.46,63.84,198.93,1270.23,1523.99,253.76,9.3,9.3,0.0,Entregue no prazo,5.0
+V00908,2026-01-18,Fortaleza,Caicó,Van,Motorista 19,360.6,686.3,1500,45.8,628.06,28.74,134.17,790.97,1222.47,431.5,5.9,5.9,0.0,Entregue no prazo,5.0
+V00073,2026-01-18,Fortaleza,Sousa,Caminhão Toco,Motorista 06,351.8,5746.1,6000,95.8,1116.32,21.18,151.89,1289.39,1969.07,679.68,5.8,5.8,0.0,Entregue no prazo,3.9
+V00635,2026-01-18,João Pessoa,Sousa,Caminhão 3/4,Motorista 01,265.1,1411.0,3500,40.3,634.79,14.64,92.97,742.4,875.81,133.41,5.6,6.4,0.8,Entregue com atraso,2.5
+V00751,2026-01-18,Natal,Recife,Van,Motorista 20,522.1,1124.2,1500,74.9,917.18,52.71,234.65,1204.54,1608.09,403.55,9.2,11.3,2.1,Entregue com atraso,3.3
+V00666,2026-01-19,Recife,Parnamirim,Caminhão Toco,Motorista 17,837.0,376.0,6000,6.3,3271.67,94.05,344.63,3710.35,4355.23,644.88,16.6,16.6,0.0,Cancelada,
+V00223,2026-01-19,João Pessoa,Fortaleza,Caminhão Toco,Motorista 05,755.6,4486.6,6000,74.8,2490.34,59.06,372.26,2921.66,3371.93,450.27,12.7,12.7,0.0,Entregue no prazo,3.9
+V00977,2026-01-19,João Pessoa,Assú,Caminhão Truck,Motorista 07,219.5,12468.1,14000,89.1,902.55,14.85,89.94,1007.34,1352.28,344.94,4.8,4.8,0.0,Entregue no prazo,4.3
+V00474,2026-01-20,João Pessoa,Recife,Caminhão 3/4,Motorista 20,325.1,1984.5,3500,56.7,903.86,39.1,159.69,1102.65,1502.4,399.75,6.1,6.1,0.0,Em rota,
+V00759,2026-01-21,Recife,Caicó,Caminhão Toco,Motorista 20,587.7,528.9,6000,8.8,2080.01,41.76,287.84,2409.61,3094.46,684.85,11.4,11.4,0.0,Cancelada,
+V00818,2026-01-21,Recife,Mossoró,Caminhão Truck,Motorista 17,442.4,6591.0,14000,47.1,1870.16,48.24,198.46,2116.86,3210.75,1093.89,7.1,7.1,0.0,Entregue no prazo,5.0
+V00574,2026-01-22,Fortaleza,Sousa,Caminhão 3/4,Motorista 15,513.3,1933.0,3500,55.2,1268.85,48.86,235.8,1553.51,2153.43,599.92,10.9,10.9,0.0,Entregue no prazo,5.0
+V00060,2026-01-22,Mossoró,Caicó,Caminhão 3/4,Motorista 04,392.8,2945.1,3500,84.1,1090.11,22.39,168.13,1280.63,1611.62,330.99,6.9,6.9,0.0,Entregue no prazo,4.5
+V00881,2026-01-23,Mossoró,Parnamirim,Caminhão 3/4,Motorista 07,89.8,2850.8,3500,81.5,222.7,7.4,36.27,266.37,389.72,123.35,1.5,1.5,0.0,Entregue no prazo,5.0
+V00782,2026-01-23,João Pessoa,Parnamirim,Caminhão Toco,Motorista 19,75.5,1850.3,6000,30.8,283.6,4.38,35.57,323.55,383.98,60.43,1.2,1.2,0.0,Entregue no prazo,3.4
+V00134,2026-01-23,João Pessoa,Caicó,Caminhão 3/4,Motorista 08,121.0,2867.2,3500,81.9,357.68,6.93,59.41,424.02,576.26,152.24,2.4,2.4,0.0,Entregue no prazo,5.0
+V00296,2026-01-24,Fortaleza,Currais Novos,Van,Motorista 01,520.2,306.6,1500,20.4,994.14,58.52,222.47,1275.13,1623.06,347.93,8.4,8.4,0.0,Em rota,
+V00083,2026-01-24,Natal,Assú,Caminhão Truck,Motorista 07,534.3,9692.8,14000,69.2,2389.48,55.5,216.3,2661.28,3963.23,1301.95,8.6,9.2,0.6,Entregue com atraso,3.7
+V00275,2026-01-24,Fortaleza,Recife,Caminhão 3/4,Motorista 20,419.0,224.2,3500,6.4,987.49,44.13,169.31,1200.93,1858.84,657.91,8.5,8.5,0.0,Entregue no prazo,5.0
+V01138,2026-01-26,João Pessoa,Parnamirim,Caminhão Truck,Motorista 12,270.9,11628.1,14000,83.1,1291.74,37.88,115.4,1445.02,2089.97,644.95,4.4,4.4,0.0,Entregue no prazo,4.9
+V01182,2026-01-26,Fortaleza,João Pessoa,Caminhão Toco,Motorista 06,164.0,1683.2,6000,28.1,536.32,23.95,51.41,611.68,808.34,196.66,2.6,9.3,6.7,Entregue com atraso,3.3
+V00986,2026-01-28,Fortaleza,Mossoró,Caminhão Toco,Motorista 14,792.6,3400.2,6000,56.7,2961.86,66.0,331.73,3359.59,4528.66,1169.07,12.4,18.4,6.0,Entregue com atraso,3.3
+V00918,2026-01-28,Natal,Mossoró,Caminhão Toco,Motorista 12,165.2,1208.9,6000,20.1,623.84,12.96,73.17,709.97,977.72,267.75,2.6,2.6,0.0,Entregue no prazo,5.0
+V00705,2026-01-28,João Pessoa,Parnamirim,Van,Motorista 16,109.5,988.3,1500,65.9,199.64,15.75,35.53,250.92,309.84,58.92,2.4,2.4,0.0,Entregue no prazo,5.0
+V00082,2026-01-29,Recife,Currais Novos,Caminhão Toco,Motorista 05,161.3,2877.0,6000,47.9,494.86,12.04,71.83,578.73,895.14,316.41,3.4,3.4,0.0,Entregue no prazo,4.3
+V01043,2026-01-29,João Pessoa,Recife,Van,Motorista 10,846.4,326.4,1500,21.8,1697.06,82.95,393.94,2173.95,3210.6,1036.65,13.4,13.4,0.0,Entregue no prazo,4.5
+V00665,2026-01-29,João Pessoa,Assú,Caminhão Toco,Motorista 12,159.1,4091.7,6000,68.2,588.8,9.71,62.62,661.13,779.04,117.91,2.8,2.8,0.0,Entregue no prazo,5.0
+V00885,2026-01-30,Mossoró,Assú,Caminhão Truck,Motorista 08,745.2,12093.0,14000,86.4,3800.93,103.88,339.26,4244.07,6100.04,1855.97,14.8,14.8,0.0,Entregue no prazo,5.0
+V00123,2026-01-30,Fortaleza,Natal,Van,Motorista 05,465.5,1294.2,1500,86.3,875.65,49.33,149.45,1074.43,1307.52,233.09,7.2,7.2,0.0,Entregue no prazo,4.8
+V00864,2026-01-30,Recife,Mossoró,Caminhão Toco,Motorista 13,106.6,3009.2,6000,50.2,334.43,6.7,37.09,378.22,564.99,186.77,1.7,4.7,3.0,Entregue com atraso,2.6
+V01156,2026-01-30,Natal,Parnamirim,Van,Motorista 09,441.0,1106.8,1500,73.8,728.87,63.45,172.76,965.08,1472.1,507.02,9.4,9.4,0.0,Em rota,
+V00393,2026-01-31,Mossoró,Natal,Caminhão Toco,Motorista 17,742.5,5445.8,6000,90.8,2272.52,81.24,329.57,2683.33,3749.95,1066.62,15.9,15.9,0.0,Entregue no prazo,5.0
+V00078,2026-01-31,João Pessoa,Parnamirim,Van,Motorista 13,507.6,1172.5,1500,78.2,1007.74,58.7,165.28,1231.72,1583.14,351.42,8.0,8.0,0.0,Entregue no prazo,4.0
+V00595,2026-01-31,João Pessoa,Mossoró,Caminhão Truck,Motorista 08,766.9,13187.7,14000,94.2,3854.37,60.4,281.16,4195.93,5541.22,1345.29,16.0,16.0,0.0,Entregue no prazo,4.6
+V00010,2026-01-31,Mossoró,João Pessoa,Van,Motorista 19,231.2,706.1,1500,47.1,404.58,19.78,102.61,526.97,668.65,141.68,4.1,4.1,0.0,Entregue no prazo,4.5
+V00525,2026-01-31,Natal,Sousa,Caminhão Truck,Motorista 16,752.3,11319.3,14000,80.9,3556.74,59.87,359.33,3975.94,5909.21,1933.27,13.8,13.8,0.0,Entregue no prazo,4.3
+V00889,2026-02-01,Mossoró,Assú,Van,Motorista 03,111.8,1209.9,1500,80.7,199.8,6.03,41.66,247.49,345.06,97.57,2.4,2.4,0.0,Cancelada,
+V01102,2026-02-01,Fortaleza,Recife,Caminhão Toco,Motorista 01,196.6,591.8,6000,9.9,630.24,29.18,77.4,736.82,1102.97,366.15,3.2,3.2,0.0,Entregue no prazo,5.0
+V00118,2026-02-01,Mossoró,Recife,Caminhão 3/4,Motorista 19,519.0,2013.6,3500,57.5,1518.18,46.93,189.03,1754.14,2543.4,789.26,9.7,9.7,0.0,Entregue no prazo,5.0
+V00088,2026-02-02,Mossoró,Caicó,Caminhão Toco,Motorista 16,176.2,4178.3,6000,69.6,687.61,21.98,78.94,788.53,1206.55,418.02,3.6,3.6,0.0,Entregue no prazo,5.0
+V00733,2026-02-02,Fortaleza,Recife,Carreta,Motorista 05,437.4,1304.6,27000,4.8,2836.81,23.99,184.03,3044.83,4476.4,1431.57,7.7,7.7,0.0,Em rota,
+V00564,2026-02-02,Fortaleza,Mossoró,Caminhão 3/4,Motorista 01,233.0,2864.2,3500,81.8,660.78,20.65,114.37,795.8,1205.05,409.25,3.6,3.6,0.0,Entregue no prazo,4.1
+V00624,2026-02-02,João Pessoa,Assú,Caminhão 3/4,Motorista 03,400.7,2483.1,3500,70.9,1103.65,48.74,138.18,1290.57,1534.97,244.4,6.3,6.3,0.0,Entregue no prazo,4.8
+V00557,2026-02-02,Mossoró,Currais Novos,Caminhão 3/4,Motorista 16,703.3,504.7,3500,14.4,1953.84,39.14,305.63,2298.61,3418.53,1119.92,13.3,13.3,0.0,Entregue no prazo,3.6
+V00537,2026-02-02,Recife,Fortaleza,Caminhão Truck,Motorista 20,41.9,1317.1,14000,9.4,196.9,6.02,19.83,222.75,343.71,120.96,0.8,7.6,6.8,Entregue com atraso,3.8
+V00475,2026-02-03,Natal,Currais Novos,Caminhão Truck,Motorista 01,727.4,5917.7,14000,42.3,3037.94,41.87,302.17,3381.98,4758.62,1376.64,11.7,11.7,0.0,Entregue no prazo,4.4
+V00857,2026-02-03,Mossoró,Parnamirim,Caminhão Toco,Motorista 15,697.5,2022.6,6000,33.7,2711.53,54.96,333.31,3099.8,4656.83,1557.03,11.6,11.6,0.0,Entregue no prazo,4.7
+V01135,2026-02-03,Recife,Currais Novos,Carreta,Motorista 02,164.2,2252.5,27000,8.3,1085.23,23.19,64.39,1172.81,1367.96,195.15,2.6,2.6,0.0,Entregue no prazo,4.4
+V00130,2026-02-03,Natal,Mossoró,Caminhão 3/4,Motorista 01,491.4,1656.0,3500,47.3,1343.36,69.72,183.02,1596.1,2298.84,702.74,7.8,7.8,0.0,Entregue no prazo,5.0
+V00218,2026-02-03,Natal,Currais Novos,Van,Motorista 16,534.5,1188.6,1500,79.2,989.26,64.36,260.32,1313.94,1708.55,394.61,9.0,9.0,0.0,Entregue no prazo,4.2
+V00070,2026-02-03,Recife,Currais Novos,Van,Motorista 20,567.7,1302.4,1500,86.8,1104.71,73.35,216.27,1394.33,1968.28,573.95,10.9,10.9,0.0,Entregue no prazo,3.8
+V00332,2026-02-05,Recife,Fortaleza,Caminhão 3/4,Motorista 01,352.5,2235.2,3500,63.9,1022.08,29.83,151.84,1203.75,1552.93,349.18,6.1,8.3,2.2,Entregue com atraso,3.0
+V00469,2026-02-05,Natal,Caicó,Van,Motorista 17,152.5,863.0,1500,57.5,278.66,21.36,74.12,374.14,487.66,113.52,2.8,9.4,6.6,Entregue com atraso,2.1
+V00967,2026-02-05,Mossoró,Parnamirim,Caminhão 3/4,Motorista 19,578.0,2565.7,3500,73.3,1570.87,84.31,175.88,1831.06,2646.73,815.67,9.0,10.8,1.8,Entregue com atraso,2.7
+V00643,2026-02-05,Fortaleza,Natal,Caminhão Toco,Motorista 12,838.5,5639.0,6000,94.0,3180.29,116.48,330.01,3626.78,5124.56,1497.78,13.3,13.3,0.0,Entregue no prazo,5.0
+V00698,2026-02-05,Recife,Assú,Caminhão Toco,Motorista 16,845.4,5883.9,6000,98.1,3220.84,90.87,320.91,3632.62,4706.98,1074.36,18.7,18.7,0.0,Entregue no prazo,3.8
+V00209,2026-02-05,João Pessoa,Natal,Caminhão Toco,Motorista 10,799.1,693.6,6000,11.6,2707.16,45.63,273.42,3026.21,3757.79,731.58,14.7,14.7,0.0,Entregue no prazo,3.6
+V00706,2026-02-05,Mossoró,Sousa,Caminhão Toco,Motorista 03,504.7,3953.6,6000,65.9,1839.05,64.42,182.84,2086.31,2873.08,786.77,7.8,15.4,7.6,Entregue com atraso,3.1
+V00596,2026-02-06,Fortaleza,Recife,Caminhão 3/4,Motorista 16,827.2,706.1,3500,20.2,2329.94,41.39,346.79,2718.12,4121.7,1403.58,16.3,16.3,0.0,Entregue no prazo,5.0
+V00776,2026-02-07,João Pessoa,Caicó,Caminhão Toco,Motorista 20,558.4,4593.6,6000,76.6,1764.7,74.45,246.32,2085.47,2879.9,794.43,8.9,8.9,0.0,Entregue no prazo,4.3
+V00481,2026-02-07,Recife,Mossoró,Caminhão 3/4,Motorista 11,559.8,697.0,3500,19.9,1649.29,49.43,249.62,1948.34,2256.44,308.1,11.4,11.4,0.0,Entregue no prazo,4.6
+V00145,2026-02-07,Fortaleza,Sousa,Caminhão Truck,Motorista 06,465.4,8412.8,14000,60.1,1890.07,44.87,229.3,2164.24,2938.2,773.96,7.9,7.9,0.0,Entregue no prazo,5.0
+V00575,2026-02-08,Fortaleza,Assú,Van,Motorista 18,34.4,626.5,1500,41.8,65.95,4.23,13.44,83.62,119.05,35.43,0.7,0.7,0.0,Entregue no prazo,4.5
+V00491,2026-02-08,João Pessoa,Parnamirim,Carreta,Motorista 11,757.2,10339.7,27000,38.3,5105.1,45.19,299.25,5449.54,8428.66,2979.12,12.5,12.5,0.0,Entregue no prazo,3.6
+V00591,2026-02-08,Fortaleza,Mossoró,Caminhão 3/4,Motorista 13,566.3,1573.5,3500,45.0,1391.27,67.34,233.89,1692.5,2527.7,835.2,12.0,17.6,5.6,Entregue com atraso,2.7
+V00964,2026-02-08,Fortaleza,Natal,Caminhão 3/4,Motorista 03,235.4,1227.0,3500,35.1,680.9,25.97,77.48,784.35,1129.93,345.58,4.8,4.8,0.0,Entregue no prazo,5.0
+V00355,2026-02-08,Fortaleza,Currais Novos,Caminhão Truck,Motorista 18,741.7,8246.9,14000,58.9,3603.01,64.68,236.22,3903.91,5204.54,1300.63,14.0,16.3,2.3,Entregue com atraso,2.8
+V00212,2026-02-09,Natal,Sousa,Caminhão Truck,Motorista 02,405.9,10205.1,14000,72.9,1906.14,47.38,184.85,2138.37,3196.61,1058.24,7.9,7.9,0.0,Entregue no prazo,4.1
+V00684,2026-02-09,João Pessoa,Currais Novos,Caminhão 3/4,Motorista 03,465.2,2146.5,3500,61.3,1149.23,36.63,154.62,1340.48,1675.22,334.74,9.4,9.4,0.0,Entregue no prazo,4.6
+V00726,2026-02-09,Natal,Fortaleza,Caminhão 3/4,Motorista 08,303.1,686.8,3500,19.6,728.28,15.56,116.56,860.4,1054.03,193.63,6.7,6.7,0.0,Entregue no prazo,4.2
+V00551,2026-02-09,João Pessoa,Parnamirim,Van,Motorista 01,129.9,862.7,1500,57.5,244.65,11.16,51.32,307.13,397.86,90.73,2.2,2.2,0.0,Cancelada,
+V00186,2026-02-10,Recife,Mossoró,Van,Motorista 13,165.5,202.6,1500,13.5,321.64,20.4,66.69,408.73,496.42,87.69,3.5,3.5,0.0,Entregue no prazo,3.5
+V00987,2026-02-10,Natal,Parnamirim,Carreta,Motorista 04,367.3,6722.3,27000,24.9,2123.08,49.86,151.2,2324.14,3473.53,1149.39,6.0,6.0,0.0,Entregue no prazo,4.2
+V00175,2026-02-10,Fortaleza,Caicó,Caminhão 3/4,Motorista 10,399.6,2417.8,3500,69.1,1086.64,40.99,139.82,1267.45,1458.59,191.14,8.2,8.2,0.0,Entregue no prazo,5.0
+V01068,2026-02-10,Mossoró,Recife,Caminhão Toco,Motorista 15,310.5,2144.7,6000,35.7,1210.24,31.73,101.89,1343.86,1663.52,319.66,5.7,5.7,0.0,Entregue no prazo,3.2
+V00213,2026-02-10,Recife,Natal,Caminhão Truck,Motorista 08,334.6,2893.3,14000,20.7,1539.35,41.55,133.34,1714.24,2302.69,588.45,5.4,5.4,0.0,Entregue no prazo,4.4
+V00790,2026-02-11,Mossoró,Assú,Caminhão Truck,Motorista 08,773.0,2004.0,14000,14.3,3627.52,58.26,355.79,4041.57,4761.35,719.78,13.2,13.2,0.0,Entregue no prazo,5.0
+V00318,2026-02-11,Mossoró,Recife,Carreta,Motorista 20,508.2,15716.3,27000,58.2,2878.7,41.37,203.2,3123.27,3862.33,739.06,8.1,8.1,0.0,Entregue no prazo,4.9
+V00939,2026-02-11,Natal,Parnamirim,Carreta,Motorista 07,518.9,15594.8,27000,57.8,3549.45,66.75,248.05,3864.25,5298.27,1434.02,8.1,8.1,0.0,Em rota,
+V00125,2026-02-12,Recife,Assú,Caminhão 3/4,Motorista 06,524.4,2928.1,3500,83.7,1562.51,41.34,258.12,1861.97,2431.35,569.38,9.9,9.9,0.0,Entregue no prazo,4.6
+V00287,2026-02-12,Natal,Recife,Van,Motorista 16,192.9,520.9,1500,34.7,339.1,20.35,80.55,440.0,581.06,141.06,3.4,3.4,0.0,Entregue no prazo,4.1
+V00903,2026-02-12,João Pessoa,Parnamirim,Carreta,Motorista 06,247.5,3667.4,27000,13.6,1577.09,16.18,104.76,1698.03,2058.12,360.09,4.4,5.2,0.8,Entregue com atraso,2.6
+V00670,2026-02-12,Recife,Currais Novos,Caminhão 3/4,Motorista 05,595.7,3117.2,3500,89.1,1474.08,84.48,275.83,1834.39,2827.79,993.4,9.5,9.5,0.0,Entregue no prazo,5.0
+V00543,2026-02-12,Natal,Mossoró,Van,Motorista 15,403.6,987.4,1500,65.8,779.49,35.64,191.23,1006.36,1386.09,379.73,7.5,7.5,0.0,Entregue no prazo,5.0
+V00701,2026-02-13,Recife,Currais Novos,Van,Motorista 05,330.5,927.4,1500,61.8,634.39,48.86,147.3,830.55,1169.0,338.45,6.4,6.4,0.0,Entregue no prazo,5.0
+V01100,2026-02-13,Recife,Caicó,Carreta,Motorista 11,477.8,22757.7,27000,84.3,2792.1,38.99,228.26,3059.35,4204.11,1144.76,8.4,8.4,0.0,Entregue no prazo,5.0
+V00926,2026-02-13,Natal,Sousa,Caminhão 3/4,Motorista 19,221.1,2142.5,3500,61.2,650.05,27.6,95.8,773.45,1069.75,296.3,4.0,4.0,0.0,Entregue no prazo,3.7
+V00783,2026-02-14,João Pessoa,Natal,Caminhão 3/4,Motorista 10,207.1,621.9,3500,17.8,526.67,21.01,86.52,634.2,929.7,295.5,3.6,3.6,0.0,Entregue no prazo,4.2
+V00439,2026-02-14,Mossoró,Natal,Caminhão Toco,Motorista 10,608.9,1581.6,6000,26.4,2064.4,57.46,291.21,2413.07,3172.06,758.99,12.7,12.7,0.0,Entregue no prazo,4.7
+V01038,2026-02-14,João Pessoa,Sousa,Caminhão Toco,Motorista 07,241.5,746.5,6000,12.4,803.69,33.21,89.22,926.12,1273.19,347.07,4.5,4.5,0.0,Entregue no prazo,4.9
+V00668,2026-02-14,João Pessoa,Sousa,Caminhão Toco,Motorista 18,295.0,2048.4,6000,34.1,1015.17,33.22,97.14,1145.53,1403.93,258.4,4.7,4.7,0.0,Entregue no prazo,5.0
+V00942,2026-02-14,Fortaleza,Assú,Van,Motorista 10,464.8,1371.9,1500,91.5,900.52,60.29,202.81,1163.62,1434.32,270.7,9.8,15.5,5.7,Entregue com atraso,2.5
+V00962,2026-02-14,Fortaleza,Recife,Van,Motorista 17,111.6,598.3,1500,39.9,205.95,8.17,45.57,259.69,321.47,61.78,1.9,1.9,0.0,Cancelada,
+V00605,2026-02-15,Recife,Natal,Caminhão Toco,Motorista 19,221.1,5712.2,6000,95.2,856.67,13.22,66.99,936.88,1137.78,200.9,3.4,3.4,0.0,Entregue no prazo,5.0
+V00312,2026-02-15,Natal,Currais Novos,Caminhão 3/4,Motorista 01,65.3,791.0,3500,22.6,169.45,9.45,21.43,200.33,291.56,91.23,1.4,1.4,0.0,Em rota,
+V01082,2026-02-16,Fortaleza,Sousa,Van,Motorista 17,745.5,591.8,1500,39.5,1261.14,47.77,346.95,1655.86,2408.6,752.74,13.6,13.6,0.0,Entregue no prazo,5.0
+V00141,2026-02-16,Mossoró,Sousa,Van,Motorista 19,550.2,1499.3,1500,100.0,917.27,54.94,207.44,1179.65,1765.14,585.49,10.1,10.1,0.0,Entregue no prazo,4.1
+V00911,2026-02-16,João Pessoa,Caicó,Caminhão 3/4,Motorista 05,685.4,1211.1,3500,34.6,1813.23,35.62,306.18,2155.03,2838.35,683.32,12.3,12.3,0.0,Entregue no prazo,5.0
+V00108,2026-02-16,Mossoró,Currais Novos,Caminhão Toco,Motorista 19,745.7,853.0,6000,14.2,2727.87,77.6,238.11,3043.58,3794.61,751.03,16.5,16.5,0.0,Entregue no prazo,5.0
+V00146,2026-02-16,João Pessoa,Caicó,Van,Motorista 15,691.9,356.3,1500,23.8,1203.57,35.81,248.16,1487.54,2170.7,683.16,12.5,12.5,0.0,Entregue no prazo,5.0
+V00173,2026-02-16,Recife,Sousa,Caminhão Truck,Motorista 20,376.6,4982.0,14000,35.6,1693.69,28.78,128.45,1850.92,2486.19,635.27,7.5,7.5,0.0,Entregue no prazo,4.7
+V00922,2026-02-18,Recife,Caicó,Caminhão Toco,Motorista 04,723.8,3783.3,6000,63.1,2677.24,51.68,320.86,3049.78,3784.91,735.13,11.2,11.2,0.0,Entregue no prazo,4.0
+V00674,2026-02-18,Natal,Fortaleza,Van,Motorista 20,294.3,993.5,1500,66.2,601.14,34.48,92.69,728.31,971.77,243.46,4.7,4.7,0.0,Entregue no prazo,5.0
+V00570,2026-02-18,Fortaleza,Currais Novos,Caminhão Toco,Motorista 06,835.6,1348.6,6000,22.5,2652.2,46.49,395.79,3094.48,3923.45,828.97,18.6,18.6,0.0,Entregue no prazo,4.9
+V00179,2026-02-18,Natal,Fortaleza,Caminhão Toco,Motorista 18,335.2,2131.6,6000,35.5,1277.86,29.61,133.64,1441.11,1820.59,379.48,5.5,5.5,0.0,Entregue no prazo,3.5
+V00337,2026-02-18,Fortaleza,Assú,Carreta,Motorista 16,237.1,12067.8,27000,44.7,1634.39,16.74,116.28,1767.41,2274.21,506.8,3.7,10.3,6.6,Entregue com atraso,2.4
+V00851,2026-02-18,Mossoró,João Pessoa,Caminhão 3/4,Motorista 15,813.8,1897.3,3500,54.2,2326.67,119.18,268.76,2714.61,3141.64,427.03,13.0,13.0,0.0,Entregue no prazo,3.8
+V00194,2026-02-18,Mossoró,Assú,Caminhão Toco,Motorista 07,585.5,4599.3,6000,76.7,1798.91,41.41,259.17,2099.49,2739.1,639.61,10.1,10.1,0.0,Entregue no prazo,4.3
+V00271,2026-02-18,Recife,Caicó,Caminhão Toco,Motorista 07,835.7,699.6,6000,11.7,3135.74,65.21,272.8,3473.75,4605.99,1132.24,14.4,14.4,0.0,Entregue no prazo,4.7
+V00188,2026-02-19,Fortaleza,Sousa,Caminhão 3/4,Motorista 01,473.5,2498.2,3500,71.4,1324.09,31.8,189.41,1545.3,2031.73,486.43,7.6,7.6,0.0,Entregue no prazo,4.1
+V00597,2026-02-20,Natal,Currais Novos,Caminhão 3/4,Motorista 16,369.5,1795.2,3500,51.3,927.92,31.65,122.88,1082.45,1456.6,374.15,6.1,6.1,0.0,Entregue no prazo,5.0
+V00820,2026-02-20,Fortaleza,Currais Novos,Caminhão Truck,Motorista 10,381.7,10666.7,14000,76.2,1705.54,28.4,170.16,1904.1,2509.35,605.25,5.9,5.9,0.0,Entregue no prazo,5.0
+V00931,2026-02-21,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 01,77.6,2497.7,3500,71.4,184.25,10.22,36.08,230.55,287.0,56.45,1.5,1.5,0.0,Entregue no prazo,3.6
+V01024,2026-02-21,João Pessoa,Assú,Caminhão Truck,Motorista 04,780.9,7071.5,14000,50.5,3513.03,97.64,245.7,3856.37,4572.85,716.48,13.5,13.5,0.0,Entregue no prazo,5.0
+V00028,2026-02-21,Mossoró,Caicó,Caminhão 3/4,Motorista 19,237.1,203.4,3500,5.8,579.31,22.96,115.91,718.18,855.26,137.08,3.8,3.8,0.0,Entregue no prazo,4.5
+V00775,2026-02-21,Mossoró,Assú,Caminhão Truck,Motorista 01,172.2,4904.1,14000,35.0,776.54,14.61,77.96,869.11,1033.18,164.07,3.3,4.3,1.0,Entregue com atraso,3.1
+V01051,2026-02-22,Mossoró,Natal,Caminhão Toco,Motorista 04,804.4,1204.1,6000,20.1,2637.85,101.09,366.04,3104.98,4073.61,968.63,12.6,12.6,0.0,Cancelada,
+V00147,2026-02-22,João Pessoa,Assú,Caminhão Toco,Motorista 07,751.0,4118.4,6000,68.6,2647.21,99.87,316.34,3063.42,3879.69,816.27,15.3,15.3,0.0,Entregue no prazo,4.8
+V00455,2026-02-22,Natal,Recife,Caminhão 3/4,Motorista 10,271.7,2085.0,3500,59.6,767.42,23.88,97.96,889.26,1186.04,296.78,4.4,4.4,0.0,Cancelada,
+V00084,2026-02-22,Mossoró,Fortaleza,Caminhão Truck,Motorista 20,298.1,2254.7,14000,16.1,1309.79,41.04,148.83,1499.66,1945.54,445.88,5.5,12.6,7.1,Entregue com atraso,2.3
+V00309,2026-02-23,Recife,Natal,Caminhão Truck,Motorista 06,93.8,13385.2,14000,95.6,405.95,12.75,31.31,450.01,671.22,221.21,2.1,2.1,0.0,Entregue no prazo,4.7
+V00898,2026-02-23,Mossoró,Sousa,Caminhão Truck,Motorista 20,616.0,7476.7,14000,53.4,3119.1,50.08,255.54,3424.72,4624.41,1199.69,11.2,11.2,0.0,Entregue no prazo,3.8
+V00473,2026-02-23,Recife,Sousa,Caminhão Truck,Motorista 16,68.5,8015.3,14000,57.3,336.25,4.36,23.68,364.29,547.53,183.24,1.5,5.6,4.1,Entregue com atraso,4.0
+V00865,2026-02-24,Recife,Parnamirim,Caminhão Truck,Motorista 18,590.8,472.3,14000,3.4,2470.87,79.43,277.08,2827.38,3623.85,796.47,12.6,12.6,0.0,Entregue no prazo,4.3
+V00900,2026-02-24,Natal,Fortaleza,Caminhão Toco,Motorista 01,279.2,3335.1,6000,55.6,899.39,19.18,115.96,1034.53,1473.37,438.84,5.9,5.9,0.0,Entregue no prazo,4.8
+V00600,2026-02-24,João Pessoa,Natal,Caminhão 3/4,Motorista 14,844.1,2057.9,3500,58.8,2170.86,66.53,296.62,2534.01,3587.3,1053.29,15.8,15.8,0.0,Em rota,
+V00727,2026-02-24,Recife,Mossoró,Caminhão Truck,Motorista 19,230.8,10088.4,14000,72.1,1089.99,16.43,108.53,1214.95,1604.9,389.95,3.6,8.9,5.3,Entregue com atraso,3.5
+V00448,2026-02-24,Natal,Caicó,Caminhão Truck,Motorista 12,282.8,12199.7,14000,87.1,1388.44,21.15,86.9,1496.49,1781.93,285.44,4.7,4.7,0.0,Entregue no prazo,5.0
+V00822,2026-02-25,Recife,Mossoró,Caminhão Toco,Motorista 02,39.0,1184.8,6000,19.7,140.97,4.34,17.85,163.16,204.2,41.04,0.6,0.6,0.0,Entregue no prazo,4.9
+V00232,2026-02-25,Fortaleza,Parnamirim,Caminhão Truck,Motorista 13,406.5,4385.3,14000,31.3,2072.79,25.15,197.86,2295.8,3268.18,972.38,7.3,7.3,0.0,Entregue no prazo,2.9
+V00707,2026-02-25,Natal,Sousa,Caminhão Toco,Motorista 07,705.7,4127.2,6000,68.8,2278.76,40.91,329.85,2649.52,3130.57,481.05,15.1,15.1,0.0,Entregue no prazo,5.0
+V00142,2026-02-26,Fortaleza,Sousa,Van,Motorista 09,182.5,917.7,1500,61.2,329.8,22.26,68.3,420.36,629.66,209.3,3.1,3.1,0.0,Entregue no prazo,5.0
+V00052,2026-02-27,João Pessoa,Assú,Caminhão Truck,Motorista 12,152.2,7467.4,14000,53.3,658.54,14.87,57.66,731.07,1001.39,270.32,2.5,2.5,0.0,Entregue no prazo,5.0
+V00523,2026-02-27,Fortaleza,Mossoró,Caminhão Truck,Motorista 19,353.4,217.7,14000,1.6,1479.04,36.56,153.74,1669.34,2198.49,529.15,5.9,5.9,0.0,Entregue no prazo,4.9
+V00718,2026-02-27,Natal,Sousa,Caminhão 3/4,Motorista 15,658.9,1573.2,3500,44.9,1549.07,73.67,205.98,1828.72,2181.92,353.2,11.4,11.4,0.0,Entregue no prazo,4.9
+V00642,2026-02-27,Natal,Parnamirim,Caminhão Toco,Motorista 03,132.3,1292.5,6000,21.5,444.3,18.93,60.85,524.08,693.42,169.34,2.4,2.4,0.0,Entregue no prazo,5.0
+V01116,2026-02-28,João Pessoa,Recife,Caminhão Toco,Motorista 09,202.4,709.0,6000,11.8,646.14,25.68,89.82,761.64,889.85,128.21,4.1,4.1,0.0,Entregue no prazo,4.7
+V00959,2026-02-28,Fortaleza,Natal,Caminhão 3/4,Motorista 13,470.3,3196.3,3500,91.3,1118.39,51.18,193.93,1363.5,1928.18,564.68,7.6,14.0,6.4,Entregue com atraso,2.6
+V00156,2026-02-28,Recife,Sousa,Caminhão 3/4,Motorista 12,573.2,591.1,3500,16.9,1448.92,51.46,277.38,1777.76,2750.73,972.97,12.5,15.8,3.3,Entregue com atraso,4.2
+V00040,2026-03-01,João Pessoa,Parnamirim,Caminhão Toco,Motorista 19,504.5,2744.0,6000,45.7,1854.78,49.78,239.48,2144.04,3238.1,1094.06,9.4,9.4,0.0,Entregue no prazo,3.7
+V01177,2026-03-01,Recife,Currais Novos,Caminhão 3/4,Motorista 02,342.6,2572.3,3500,73.5,998.51,17.31,166.75,1182.57,1601.92,419.35,5.8,9.8,4.0,Entregue com atraso,2.6
+V00371,2026-03-03,Natal,Parnamirim,Caminhão 3/4,Motorista 15,567.5,331.3,3500,9.5,1548.42,77.73,271.36,1897.51,2522.96,625.45,10.5,10.5,0.0,Entregue no prazo,5.0
+V00486,2026-03-03,Natal,Sousa,Van,Motorista 16,824.9,1141.2,1500,76.1,1415.05,49.91,361.04,1826.0,2215.63,389.63,13.6,13.6,0.0,Entregue no prazo,5.0
+V00462,2026-03-04,Mossoró,Recife,Caminhão 3/4,Motorista 20,747.3,3297.8,3500,94.2,2139.75,100.93,306.47,2547.15,3770.69,1223.54,14.6,14.6,0.0,Entregue no prazo,4.4
+V00221,2026-03-04,Natal,Recife,Caminhão Truck,Motorista 11,564.2,3108.8,14000,22.2,2638.21,76.53,263.49,2978.23,4529.72,1551.49,10.8,10.8,0.0,Entregue no prazo,4.3
+V00803,2026-03-04,Mossoró,Fortaleza,Van,Motorista 19,737.2,1310.5,1500,87.4,1201.66,81.79,275.39,1558.84,2051.85,493.01,12.0,12.0,0.0,Entregue no prazo,4.2
+V00501,2026-03-04,Mossoró,Natal,Van,Motorista 10,764.6,1049.1,1500,69.9,1358.75,112.11,351.96,1822.82,2555.9,733.08,15.0,15.0,0.0,Entregue no prazo,4.3
+V00958,2026-03-04,Fortaleza,Mossoró,Caminhão Truck,Motorista 16,654.8,3826.8,14000,27.3,2685.26,32.86,242.36,2960.48,3690.49,730.01,14.2,14.2,0.0,Entregue no prazo,4.7
+V00375,2026-03-04,Fortaleza,João Pessoa,Caminhão Toco,Motorista 01,93.5,3174.4,6000,52.9,313.39,7.75,39.31,360.45,460.99,100.54,1.5,1.5,0.0,Entregue no prazo,5.0
+V00539,2026-03-06,João Pessoa,Sousa,Caminhão Toco,Motorista 15,804.7,3037.5,6000,50.6,2696.26,114.61,245.34,3056.21,4225.42,1169.21,14.4,14.4,0.0,Entregue no prazo,5.0
+V00861,2026-03-06,Recife,João Pessoa,Caminhão 3/4,Motorista 11,597.3,601.3,3500,17.2,1422.94,88.09,260.56,1771.59,2333.15,561.56,10.1,16.4,6.3,Entregue com atraso,1.7
+V00799,2026-03-06,João Pessoa,Parnamirim,Van,Motorista 19,841.3,554.3,1500,37.0,1694.16,106.56,313.33,2114.05,3051.95,937.9,17.9,22.4,4.5,Entregue com atraso,3.9
+V00824,2026-03-06,Natal,Mossoró,Van,Motorista 14,111.0,740.7,1500,49.4,195.07,15.82,41.64,252.53,366.96,114.43,2.0,2.0,0.0,Entregue no prazo,5.0
+V00492,2026-03-07,João Pessoa,Mossoró,Van,Motorista 03,515.9,693.9,1500,46.3,952.28,57.01,212.54,1221.83,1642.83,421.0,9.4,9.4,0.0,Entregue no prazo,4.6
+V00768,2026-03-07,Natal,Recife,Caminhão Toco,Motorista 08,570.7,2037.1,6000,34.0,2110.04,36.31,273.69,2420.04,3017.86,597.82,11.0,11.0,0.0,Em rota,
+V00484,2026-03-07,Mossoró,Natal,Caminhão Toco,Motorista 07,305.2,4637.6,6000,77.3,1046.18,30.04,131.12,1207.34,1397.31,189.97,5.3,5.3,0.0,Entregue no prazo,4.6
+V01187,2026-03-08,Recife,Natal,Carreta,Motorista 05,147.8,13123.3,27000,48.6,987.27,16.44,72.45,1076.16,1589.61,513.45,2.4,2.4,0.0,Entregue no prazo,5.0
+V00777,2026-03-08,João Pessoa,Fortaleza,Van,Motorista 19,812.8,367.2,1500,24.5,1571.84,81.79,248.01,1901.64,2890.3,988.66,13.1,13.1,0.0,Entregue no prazo,4.3
+V00719,2026-03-08,João Pessoa,Sousa,Carreta,Motorista 20,343.9,15988.4,27000,59.2,2303.19,25.49,114.73,2443.41,3760.01,1316.6,6.0,6.0,0.0,Em rota,
+V00667,2026-03-09,Fortaleza,Sousa,Caminhão Toco,Motorista 17,245.7,3541.3,6000,59.0,897.29,16.33,81.02,994.64,1325.38,330.74,4.7,4.7,0.0,Entregue no prazo,5.0
+V00079,2026-03-09,João Pessoa,Sousa,Van,Motorista 20,227.4,358.0,1500,23.9,388.6,31.54,97.59,517.73,654.6,136.87,3.7,10.5,6.8,Entregue com atraso,2.1
+V00789,2026-03-09,Mossoró,Caicó,Caminhão 3/4,Motorista 17,578.1,2642.5,3500,75.5,1521.15,83.1,258.6,1862.85,2483.5,620.65,10.3,10.3,0.0,Entregue no prazo,4.9
+V00089,2026-03-09,Recife,Caicó,Caminhão Toco,Motorista 13,671.7,525.6,6000,8.8,2542.26,48.73,252.14,2843.13,3794.71,951.58,12.3,12.3,0.0,Entregue no prazo,5.0
+V00629,2026-03-09,Natal,Caicó,Caminhão Toco,Motorista 18,557.7,710.4,6000,11.8,2130.14,49.59,202.26,2381.99,3179.82,797.83,10.6,18.1,7.5,Entregue com atraso,3.0
+V00242,2026-03-09,Mossoró,Fortaleza,Carreta,Motorista 10,790.1,5927.1,27000,22.0,4923.12,40.27,372.6,5335.99,7696.97,2360.98,12.4,15.3,2.9,Entregue com atraso,3.8
+V00259,2026-03-09,Recife,Caicó,Caminhão Truck,Motorista 03,760.9,6600.6,14000,47.1,3355.59,74.3,276.71,3706.6,4987.65,1281.05,12.2,12.2,0.0,Entregue no prazo,4.0
+V00879,2026-03-10,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 03,215.7,2111.6,3500,60.3,585.87,15.25,99.03,700.15,982.07,281.92,4.2,4.2,0.0,Entregue no prazo,4.9
+V00710,2026-03-10,Fortaleza,Mossoró,Caminhão Toco,Motorista 07,285.8,5477.0,6000,91.3,1085.99,30.24,104.31,1220.54,1546.86,326.32,6.3,10.2,3.9,Entregue com atraso,2.9
+V00027,2026-03-10,Mossoró,Caicó,Caminhão Truck,Motorista 01,77.5,1230.8,14000,8.8,388.19,11.55,33.73,433.47,575.81,142.34,1.3,1.3,0.0,Entregue no prazo,4.2
+V00348,2026-03-10,Mossoró,Recife,Caminhão 3/4,Motorista 10,447.9,3199.3,3500,91.4,1276.68,44.23,219.06,1539.97,1806.22,266.25,7.0,7.0,0.0,Entregue no prazo,5.0
+V00522,2026-03-10,Mossoró,Caicó,Caminhão Truck,Motorista 02,331.1,7683.7,14000,54.9,1396.12,41.27,99.88,1537.27,1871.53,334.26,5.8,5.8,0.0,Entregue no prazo,4.3
+V00604,2026-03-10,Fortaleza,Assú,Caminhão Truck,Motorista 10,751.1,6930.5,14000,49.5,3574.83,43.53,298.64,3917.0,4747.12,830.12,14.3,14.3,0.0,Entregue no prazo,3.3
+V00480,2026-03-11,João Pessoa,Natal,Van,Motorista 19,576.7,569.6,1500,38.0,1086.27,62.67,224.42,1373.36,2038.68,665.32,11.5,11.5,0.0,Entregue no prazo,4.6
+V01124,2026-03-11,Natal,Fortaleza,Caminhão Toco,Motorista 01,359.4,2986.3,6000,49.8,1397.4,30.35,154.41,1582.16,2067.89,485.73,5.7,8.0,2.3,Entregue com atraso,3.1
+V00266,2026-03-11,Mossoró,João Pessoa,Van,Motorista 15,535.5,794.7,1500,53.0,963.16,51.16,205.09,1219.41,1758.63,539.22,11.2,11.2,0.0,Entregue no prazo,3.6
+V01087,2026-03-11,Fortaleza,Recife,Van,Motorista 08,347.4,1377.5,1500,91.8,608.68,43.54,119.44,771.66,1041.22,269.56,5.6,12.1,6.5,Entregue com atraso,3.0
+V00286,2026-03-11,Recife,João Pessoa,Caminhão Truck,Motorista 04,255.9,7024.4,14000,50.2,1071.43,27.84,92.95,1192.22,1670.05,477.83,4.2,4.2,0.0,Entregue no prazo,4.0
+V00131,2026-03-12,João Pessoa,Currais Novos,Carreta,Motorista 16,846.8,1793.8,27000,6.6,4729.3,96.55,304.58,5130.43,6393.3,1262.87,16.5,16.5,0.0,Entregue no prazo,3.9
+V00780,2026-03-12,João Pessoa,Recife,Caminhão Toco,Motorista 02,407.5,872.9,6000,14.5,1480.03,38.0,188.82,1706.85,2096.89,390.04,8.3,8.3,0.0,Entregue no prazo,4.4
+V00226,2026-03-12,Natal,Currais Novos,Caminhão Truck,Motorista 20,651.1,4272.0,14000,30.5,2855.86,39.53,252.63,3148.02,4539.08,1391.06,10.2,10.2,0.0,Entregue no prazo,5.0
+V00350,2026-03-13,Recife,Caicó,Van,Motorista 20,289.5,313.1,1500,20.9,508.49,42.46,141.55,692.5,889.14,196.64,5.1,5.1,0.0,Cancelada,
+V00712,2026-03-13,Fortaleza,Recife,Caminhão Truck,Motorista 09,800.3,5285.5,14000,37.8,3289.81,101.08,352.69,3743.58,5200.45,1456.87,14.6,14.6,0.0,Entregue no prazo,3.9
+V00875,2026-03-14,Fortaleza,Currais Novos,Carreta,Motorista 03,784.8,19602.8,27000,72.6,5184.41,73.87,340.78,5599.06,6511.43,912.37,13.8,13.8,0.0,Entregue no prazo,3.9
+V00495,2026-03-14,João Pessoa,Currais Novos,Carreta,Motorista 15,230.7,3726.0,27000,13.8,1395.4,32.18,114.06,1541.64,2302.79,761.15,4.9,4.9,0.0,Em rota,
+V00128,2026-03-14,Mossoró,Parnamirim,Caminhão Toco,Motorista 05,629.3,1058.3,6000,17.6,2381.7,76.2,302.94,2760.84,3321.15,560.31,11.1,11.1,0.0,Entregue no prazo,4.2
+V01158,2026-03-14,Fortaleza,Recife,Caminhão Truck,Motorista 14,786.1,903.4,14000,6.5,3607.6,96.14,297.66,4001.4,4949.31,947.91,13.1,20.5,7.4,Entregue com atraso,3.4
+V00502,2026-03-15,Natal,Recife,Caminhão Truck,Motorista 18,677.2,630.7,14000,4.5,3479.27,69.52,244.24,3793.03,4912.1,1119.07,14.6,14.6,0.0,Em rota,
+V00019,2026-03-15,Fortaleza,João Pessoa,Van,Motorista 20,83.3,722.1,1500,48.1,166.35,6.09,38.83,211.27,253.13,41.86,1.8,1.8,0.0,Entregue no prazo,4.9
+V00240,2026-03-16,João Pessoa,Currais Novos,Caminhão 3/4,Motorista 18,128.7,3297.1,3500,94.2,316.31,14.45,44.34,375.1,477.46,102.36,2.3,2.3,0.0,Entregue no prazo,4.4
+V00771,2026-03-16,Mossoró,Parnamirim,Van,Motorista 08,505.3,1340.3,1500,89.4,1015.9,48.06,153.14,1217.1,1607.27,390.17,8.8,8.8,0.0,Entregue no prazo,4.0
+V00747,2026-03-16,Natal,Parnamirim,Caminhão 3/4,Motorista 07,353.3,2434.4,3500,69.6,936.03,52.78,157.49,1146.3,1754.98,608.68,5.7,5.7,0.0,Cancelada,
+V01001,2026-03-16,Mossoró,Caicó,Caminhão 3/4,Motorista 02,489.1,1014.8,3500,29.0,1455.14,63.42,187.13,1705.69,2064.8,359.11,8.1,8.1,0.0,Entregue no prazo,4.7
+V00180,2026-03-16,Mossoró,Currais Novos,Caminhão Truck,Motorista 14,269.0,10836.2,14000,77.4,1218.82,19.0,123.72,1361.54,1747.46,385.92,4.3,4.3,0.0,Cancelada,
+V00680,2026-03-16,Recife,Currais Novos,Caminhão 3/4,Motorista 10,228.4,1515.1,3500,43.3,537.3,29.06,76.33,642.69,750.38,107.69,3.9,10.5,6.6,Entregue com atraso,4.2
+V00067,2026-03-17,Fortaleza,Sousa,Caminhão Truck,Motorista 13,331.4,1140.8,14000,8.1,1351.79,21.05,163.26,1536.1,2104.17,568.07,5.2,5.2,0.0,Entregue no prazo,5.0
+V00760,2026-03-17,Fortaleza,Caicó,Caminhão Truck,Motorista 16,576.3,12493.8,14000,89.2,2500.25,82.44,241.37,2824.06,4152.51,1328.45,10.9,10.9,0.0,Entregue no prazo,5.0
+V01107,2026-03-18,João Pessoa,Fortaleza,Caminhão Truck,Motorista 13,600.6,6927.1,14000,49.5,2679.2,52.59,240.61,2972.4,3510.18,537.78,10.2,10.2,0.0,Entregue no prazo,4.2
+V01005,2026-03-18,Natal,João Pessoa,Caminhão 3/4,Motorista 01,108.6,1833.3,3500,52.4,311.96,13.84,52.95,378.75,457.02,78.27,2.1,2.1,0.0,Entregue no prazo,4.6
+V00107,2026-03-18,Mossoró,Parnamirim,Caminhão Truck,Motorista 06,259.6,12045.1,14000,86.0,1136.72,36.62,117.03,1290.37,1899.38,609.01,5.7,5.7,0.0,Em rota,
+V00419,2026-03-19,João Pessoa,Fortaleza,Caminhão 3/4,Motorista 07,434.5,213.1,3500,6.1,1158.27,38.4,214.82,1411.49,1713.07,301.58,8.3,8.3,0.0,Entregue no prazo,4.8
+V00816,2026-03-19,Recife,Currais Novos,Van,Motorista 05,411.2,1437.1,1500,95.8,840.98,52.62,172.88,1066.48,1420.53,354.05,7.9,7.9,0.0,Em rota,
+V00258,2026-03-20,Mossoró,Caicó,Caminhão Toco,Motorista 05,348.8,1593.7,6000,26.6,1095.48,28.42,111.38,1235.28,1507.98,272.7,5.4,5.4,0.0,Entregue no prazo,5.0
+V00315,2026-03-21,Fortaleza,Natal,Van,Motorista 18,417.5,691.7,1500,46.1,773.54,38.12,141.9,953.56,1253.88,300.32,9.0,9.0,0.0,Entregue no prazo,4.9
+V00412,2026-03-21,Fortaleza,Assú,Van,Motorista 18,189.9,607.5,1500,40.5,360.67,21.62,83.53,465.82,556.56,90.74,3.1,3.1,0.0,Entregue no prazo,4.8
+V00386,2026-03-21,Mossoró,Natal,Caminhão 3/4,Motorista 18,252.8,2892.7,3500,82.6,653.72,14.87,93.14,761.73,1175.01,413.28,4.4,4.4,0.0,Entregue no prazo,3.9
+V00528,2026-03-21,Recife,Caicó,Caminhão Toco,Motorista 04,426.5,4175.6,6000,69.6,1587.5,22.18,203.91,1813.59,2498.61,685.02,7.0,8.9,1.9,Entregue com atraso,3.0
+V00930,2026-03-21,Mossoró,João Pessoa,Caminhão Toco,Motorista 19,596.7,3222.4,6000,53.7,2321.4,39.53,250.69,2611.62,3516.53,904.91,12.2,14.8,2.6,Entregue com atraso,3.2
+V00058,2026-03-21,Recife,João Pessoa,Caminhão Toco,Motorista 11,220.2,2467.3,6000,41.1,785.08,21.95,109.56,916.59,1104.1,187.51,3.7,3.7,0.0,Entregue no prazo,5.0
+V00053,2026-03-22,Fortaleza,Currais Novos,Caminhão Truck,Motorista 15,229.7,12993.1,14000,92.8,945.86,32.95,85.06,1063.87,1266.61,202.74,4.2,4.2,0.0,Entregue no prazo,4.7
+V00572,2026-03-22,Recife,Parnamirim,Caminhão Toco,Motorista 06,32.3,5599.2,6000,93.3,101.88,2.93,14.67,119.48,158.2,38.72,0.5,0.5,0.0,Entregue no prazo,4.2
+V01017,2026-03-22,Fortaleza,João Pessoa,Caminhão Toco,Motorista 19,732.0,1538.7,6000,25.6,2768.0,46.79,304.54,3119.33,4695.35,1576.02,13.4,19.9,6.5,Entregue com atraso,3.5
+V01036,2026-03-24,Natal,Parnamirim,Van,Motorista 19,745.8,732.3,1500,48.8,1265.09,93.72,347.91,1706.72,2563.89,857.17,13.1,13.7,0.6,Entregue com atraso,3.4
+V01157,2026-03-24,Fortaleza,Parnamirim,Van,Motorista 09,58.5,1231.0,1500,82.1,110.46,5.93,17.95,134.34,189.59,55.25,1.2,1.2,0.0,Cancelada,
+V00254,2026-03-24,Mossoró,Fortaleza,Van,Motorista 12,515.5,415.7,1500,27.7,840.84,44.47,211.01,1096.32,1629.05,532.73,10.8,17.8,7.0,Entregue com atraso,2.8
+V00729,2026-03-24,Fortaleza,Assú,Carreta,Motorista 13,741.7,17110.0,27000,63.4,4682.44,86.94,312.59,5081.97,6689.37,1607.4,14.1,14.1,0.0,Entregue no prazo,4.2
+V00511,2026-03-25,João Pessoa,Natal,Caminhão Truck,Motorista 10,574.3,9387.8,14000,67.1,2510.84,55.14,194.51,2760.49,3406.86,646.37,12.6,14.7,2.1,Entregue com atraso,1.8
+V00553,2026-03-25,Natal,Currais Novos,Van,Motorista 07,510.9,539.6,1500,36.0,1053.4,71.42,166.4,1291.22,1498.41,207.19,8.7,8.7,0.0,Entregue no prazo,4.9
+V00773,2026-03-25,Mossoró,Assú,Caminhão 3/4,Motorista 02,519.8,1759.1,3500,50.3,1452.27,48.53,176.97,1677.77,2073.01,395.24,11.5,11.5,0.0,Entregue no prazo,5.0
+V00114,2026-03-25,Recife,Natal,Caminhão Toco,Motorista 14,530.8,1828.0,6000,30.5,1717.64,53.96,159.82,1931.42,2227.05,295.63,10.7,10.7,0.0,Entregue no prazo,4.4
+V00199,2026-03-25,João Pessoa,Parnamirim,Caminhão Truck,Motorista 16,294.9,12591.3,14000,89.9,1488.99,24.34,141.61,1654.94,2562.61,907.67,4.8,7.2,2.4,Entregue com atraso,2.9
+V00427,2026-03-26,Recife,Currais Novos,Van,Motorista 01,185.7,798.9,1500,53.3,324.76,13.88,79.67,418.31,589.98,171.67,3.0,3.0,0.0,Entregue no prazo,5.0
+V00074,2026-03-27,Mossoró,Fortaleza,Van,Motorista 08,408.4,1028.4,1500,68.6,782.78,56.98,174.52,1014.28,1415.5,401.22,8.8,8.8,0.0,Entregue no prazo,4.9
+V01039,2026-03-27,João Pessoa,Mossoró,Caminhão Toco,Motorista 07,80.1,3038.1,6000,50.6,300.48,4.8,25.14,330.42,400.29,69.87,1.3,6.0,4.7,Entregue com atraso,3.9
+V00034,2026-03-28,Fortaleza,Caicó,Caminhão Truck,Motorista 09,228.5,13815.9,14000,98.7,962.06,22.82,96.8,1081.68,1547.87,466.19,4.1,4.1,0.0,Entregue no prazo,4.9
+V00409,2026-03-28,Mossoró,Currais Novos,Caminhão Toco,Motorista 06,782.0,3583.9,6000,59.7,2700.42,103.09,341.47,3144.98,3847.65,702.67,12.7,12.7,0.0,Entregue no prazo,4.3
+V00077,2026-03-28,Mossoró,Sousa,Caminhão 3/4,Motorista 18,38.6,1042.9,3500,29.8,96.87,2.2,18.99,118.06,158.35,40.29,0.6,0.6,0.0,Entregue no prazo,4.6
+V00003,2026-03-28,João Pessoa,Natal,Caminhão 3/4,Motorista 07,647.7,1098.6,3500,31.4,1893.44,66.49,298.04,2257.97,3480.82,1222.85,10.5,14.1,3.6,Entregue com atraso,2.3
+V00685,2026-03-29,Natal,Assú,Van,Motorista 03,700.2,928.3,1500,61.9,1214.67,53.39,215.56,1483.62,1887.43,403.81,11.7,11.7,0.0,Entregue no prazo,5.0
+V00456,2026-03-29,Recife,João Pessoa,Caminhão Toco,Motorista 08,308.2,3089.6,6000,51.5,1058.01,22.14,100.5,1180.65,1363.69,183.04,6.4,6.4,0.0,Entregue no prazo,4.5
+V00812,2026-03-30,Fortaleza,Sousa,Caminhão 3/4,Motorista 19,703.3,2001.3,3500,57.2,1800.3,52.81,294.51,2147.62,2648.49,500.87,13.7,13.7,0.0,Entregue no prazo,4.7
+V01016,2026-03-30,Mossoró,João Pessoa,Caminhão Toco,Motorista 16,253.9,2439.6,6000,40.7,811.48,15.18,102.63,929.29,1336.46,407.17,4.3,4.3,0.0,Entregue no prazo,5.0
+V00910,2026-03-30,João Pessoa,Assú,Caminhão Toco,Motorista 10,493.5,2541.3,6000,42.4,1676.31,34.22,201.06,1911.59,2847.81,936.22,10.7,16.2,5.5,Entregue com atraso,3.6
+V00561,2026-03-30,João Pessoa,Currais Novos,Caminhão Toco,Motorista 20,385.4,2501.0,6000,41.7,1486.62,25.17,116.38,1628.17,2027.45,399.28,6.3,6.3,0.0,Entregue no prazo,4.3
+V00368,2026-03-30,Fortaleza,Natal,Carreta,Motorista 11,624.8,22614.9,27000,83.8,4430.07,92.2,195.6,4717.87,6976.48,2258.61,10.8,10.8,0.0,Entregue no prazo,5.0
+V00901,2026-03-31,Fortaleza,Mossoró,Caminhão 3/4,Motorista 12,147.1,533.7,3500,15.2,354.94,15.79,67.11,437.84,567.73,129.89,2.3,2.3,0.0,Entregue no prazo,4.5
+V00048,2026-03-31,Mossoró,Parnamirim,Caminhão Truck,Motorista 04,584.7,3176.3,14000,22.7,2801.44,52.26,251.57,3105.27,3703.46,598.19,10.1,10.1,0.0,Em rota,
+V00985,2026-04-01,Natal,Sousa,Caminhão 3/4,Motorista 09,57.7,1534.3,3500,43.8,164.45,7.59,28.01,200.05,286.3,86.25,1.2,1.2,0.0,Entregue no prazo,5.0
+V00630,2026-04-01,Recife,Currais Novos,Van,Motorista 05,793.3,519.5,1500,34.6,1491.11,61.44,368.74,1921.29,2213.58,292.29,14.1,14.1,0.0,Entregue no prazo,5.0
+V00435,2026-04-01,Natal,Caicó,Caminhão 3/4,Motorista 08,622.7,307.2,3500,8.8,1698.06,64.71,307.47,2070.24,2781.75,711.51,13.5,13.5,0.0,Entregue no prazo,5.0
+V00319,2026-04-03,Natal,Sousa,Caminhão Toco,Motorista 14,818.5,2780.1,6000,46.3,2844.85,69.71,394.44,3309.0,4558.42,1249.42,13.6,16.7,3.1,Entregue com atraso,4.0
+V00301,2026-04-03,Recife,Mossoró,Caminhão 3/4,Motorista 03,763.9,3015.7,3500,86.2,2121.97,48.69,271.47,2442.13,2853.45,411.32,12.0,12.0,0.0,Entregue no prazo,5.0
+V00023,2026-04-03,Fortaleza,Recife,Caminhão 3/4,Motorista 02,475.9,3052.8,3500,87.2,1340.63,48.6,225.4,1614.63,2015.24,400.61,9.9,9.9,0.0,Entregue no prazo,3.9
+V00842,2026-04-03,Fortaleza,Sousa,Caminhão 3/4,Motorista 14,440.8,3338.8,3500,95.4,1249.83,40.96,137.03,1427.82,1738.24,310.42,8.1,11.5,3.4,Entregue com atraso,3.9
+V00945,2026-04-03,Natal,Recife,Caminhão Toco,Motorista 08,727.5,644.7,6000,10.7,2446.0,101.83,235.44,2783.27,3546.63,763.36,12.0,12.0,0.0,Entregue no prazo,4.1
+V00538,2026-04-03,Recife,Currais Novos,Caminhão Toco,Motorista 01,274.8,5557.7,6000,92.6,894.57,34.34,117.1,1046.01,1516.55,470.54,5.1,5.1,0.0,Cancelada,
+V00460,2026-04-04,João Pessoa,Sousa,Van,Motorista 06,499.3,1499.0,1500,99.9,873.32,38.97,165.74,1078.03,1310.48,232.45,9.8,17.1,7.3,Entregue com atraso,3.1
+V00556,2026-04-05,Natal,Sousa,Carreta,Motorista 03,201.8,12402.8,27000,45.9,1410.19,12.2,89.61,1512.0,2154.47,642.47,4.3,4.3,0.0,Cancelada,
+V00442,2026-04-05,Mossoró,Parnamirim,Caminhão 3/4,Motorista 07,788.7,3064.3,3500,87.6,2101.72,44.27,349.33,2495.32,3491.86,996.54,12.2,12.2,0.0,Entregue no prazo,4.4
+V00499,2026-04-06,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 15,764.4,616.3,3500,17.6,1849.95,49.49,233.87,2133.31,2514.52,381.21,13.1,13.1,0.0,Entregue no prazo,4.4
+V00228,2026-04-06,João Pessoa,Currais Novos,Caminhão Toco,Motorista 18,116.8,5263.5,6000,87.7,409.35,14.01,44.64,468.0,643.14,175.14,1.8,1.8,0.0,Entregue no prazo,4.5
+V00087,2026-04-06,Fortaleza,Mossoró,Van,Motorista 17,385.9,315.2,1500,21.0,663.47,42.38,172.55,878.4,1360.94,482.54,6.1,6.1,0.0,Entregue no prazo,4.3
+V00361,2026-04-06,Fortaleza,Caicó,Caminhão Toco,Motorista 08,220.6,3886.7,6000,64.8,861.22,28.19,76.14,965.55,1178.37,212.82,3.5,3.5,0.0,Entregue no prazo,5.0
+V00339,2026-04-06,Natal,Caicó,Caminhão 3/4,Motorista 01,206.4,2270.6,3500,64.9,606.89,30.91,63.26,701.06,872.28,171.22,4.0,4.0,0.0,Entregue no prazo,4.2
+V00354,2026-04-07,Mossoró,Assú,Van,Motorista 01,223.5,386.6,1500,25.8,380.72,15.24,89.97,485.93,723.02,237.09,4.8,4.8,0.0,Entregue no prazo,4.3
+V00832,2026-04-07,João Pessoa,Currais Novos,Carreta,Motorista 04,611.2,13794.0,27000,51.1,4172.2,74.11,228.33,4474.64,5748.43,1273.79,12.2,12.2,0.0,Entregue no prazo,4.2
+V00937,2026-04-08,João Pessoa,Assú,Caminhão Toco,Motorista 12,542.2,1955.8,6000,32.6,1795.59,54.31,256.63,2106.53,3092.16,985.63,8.4,8.4,0.0,Entregue no prazo,4.7
+V00731,2026-04-08,Mossoró,Recife,Caminhão Truck,Motorista 13,718.0,13053.6,14000,93.2,3168.36,102.4,329.28,3600.04,5468.37,1868.33,12.3,12.3,0.0,Entregue no prazo,5.0
+V01118,2026-04-08,Mossoró,Currais Novos,Caminhão Truck,Motorista 03,478.1,1852.2,14000,13.2,2438.8,37.85,227.42,2704.07,3415.86,711.79,7.8,7.8,0.0,Entregue no prazo,4.4
+V00860,2026-04-08,Fortaleza,Sousa,Van,Motorista 01,816.2,774.6,1500,51.6,1558.97,89.76,302.0,1950.73,2589.84,639.11,17.6,19.9,2.3,Entregue com atraso,3.0
+V01120,2026-04-09,Recife,Mossoró,Caminhão 3/4,Motorista 20,830.7,3373.8,3500,96.4,2472.5,107.41,413.45,2993.36,4510.83,1517.47,15.6,22.9,7.3,Entregue com atraso,2.6
+V00736,2026-04-09,Mossoró,Fortaleza,Van,Motorista 13,283.8,1469.3,1500,98.0,495.68,41.25,88.18,625.11,896.23,271.12,5.1,5.1,0.0,Entregue no prazo,4.3
+V00611,2026-04-09,Natal,Caicó,Caminhão Toco,Motorista 03,81.8,5498.4,6000,91.6,279.21,7.85,30.26,317.32,444.57,127.25,1.3,1.3,0.0,Entregue no prazo,4.8
+V00133,2026-04-09,Recife,Natal,Van,Motorista 13,647.8,1199.6,1500,80.0,1241.41,82.02,303.94,1627.37,2270.9,643.53,13.9,13.9,0.0,Entregue no prazo,4.4
+V00176,2026-04-09,Fortaleza,Caicó,Carreta,Motorista 04,604.9,18427.0,27000,68.2,3758.02,31.18,251.99,4041.19,5056.5,1015.31,11.2,11.2,0.0,Em rota,
+V00316,2026-04-09,Fortaleza,Assú,Caminhão 3/4,Motorista 13,477.3,883.3,3500,25.2,1285.65,34.92,224.23,1544.8,2022.0,477.2,9.6,12.7,3.1,Entregue com atraso,3.7
+V00164,2026-04-10,Recife,Parnamirim,Caminhão Toco,Motorista 10,611.6,1170.5,6000,19.5,2277.32,66.28,299.96,2643.56,3084.95,441.39,12.2,12.2,0.0,Entregue no prazo,5.0
+V00573,2026-04-10,Natal,Mossoró,Carreta,Motorista 16,43.0,15149.3,27000,56.1,265.23,4.33,17.74,287.3,366.41,79.11,0.8,7.8,7.0,Entregue com atraso,3.1
+V00322,2026-04-10,Natal,João Pessoa,Caminhão 3/4,Motorista 17,766.3,1932.7,3500,55.2,2145.43,57.64,298.36,2501.43,3000.16,498.73,15.6,15.6,0.0,Entregue no prazo,4.0
+V00158,2026-04-10,Natal,Sousa,Van,Motorista 01,173.7,1326.8,1500,88.5,303.47,25.19,72.32,400.98,531.16,130.18,3.1,3.1,0.0,Entregue no prazo,4.1
+V00808,2026-04-11,Fortaleza,Parnamirim,Van,Motorista 16,848.3,434.8,1500,29.0,1388.92,65.75,396.13,1850.8,2345.99,495.19,18.4,18.4,0.0,Entregue no prazo,5.0
+V00518,2026-04-11,João Pessoa,Natal,Caminhão Truck,Motorista 03,296.2,10152.0,14000,72.5,1418.8,43.22,144.02,1606.04,2354.06,748.02,5.0,5.0,0.0,Entregue no prazo,4.8
+V00468,2026-04-11,Mossoró,João Pessoa,Caminhão 3/4,Motorista 02,731.9,1634.4,3500,46.7,1804.39,50.58,332.1,2187.07,2747.47,560.4,12.1,12.1,0.0,Entregue no prazo,4.4
+V01197,2026-04-11,Recife,João Pessoa,Van,Motorista 14,307.3,1458.1,1500,97.2,511.86,30.66,118.5,661.02,846.38,185.36,5.3,5.3,0.0,Entregue no prazo,4.8
+V00717,2026-04-12,João Pessoa,Mossoró,Caminhão Toco,Motorista 15,701.1,5944.2,6000,99.1,2259.89,41.14,257.58,2558.61,3074.43,515.82,12.6,12.6,0.0,Entregue no prazo,3.7
+V00795,2026-04-12,Mossoró,Fortaleza,Caminhão Truck,Motorista 01,740.0,2023.6,14000,14.5,3492.74,70.25,284.5,3847.49,4813.3,965.81,14.1,14.1,0.0,Entregue no prazo,4.3
+V01041,2026-04-12,Fortaleza,Recife,Caminhão Toco,Motorista 11,430.6,4268.7,6000,71.1,1678.67,40.54,173.81,1893.02,2572.1,679.08,7.7,7.7,0.0,Entregue no prazo,4.0
+V00320,2026-04-12,Fortaleza,Parnamirim,Caminhão Truck,Motorista 07,308.2,7715.4,14000,55.1,1262.45,38.37,119.95,1420.77,1645.26,224.49,6.7,6.7,0.0,Entregue no prazo,4.5
+V00169,2026-04-12,Fortaleza,Recife,Caminhão 3/4,Motorista 11,739.5,719.0,3500,20.5,1879.34,58.42,350.73,2288.49,3247.55,959.06,12.1,12.1,0.0,Entregue no prazo,3.3
+V00560,2026-04-12,Fortaleza,Natal,Caminhão Truck,Motorista 19,174.1,13451.7,14000,96.1,840.87,22.66,66.08,929.61,1194.11,264.5,3.5,3.5,0.0,Entregue no prazo,5.0
+V01151,2026-04-13,Mossoró,Caicó,Carreta,Motorista 05,189.4,23276.3,27000,86.2,1131.26,21.47,63.09,1215.82,1595.11,379.29,3.0,3.0,0.0,Entregue no prazo,4.0
+V00363,2026-04-14,Fortaleza,Parnamirim,Van,Motorista 13,433.4,603.3,1500,40.2,737.56,43.52,158.0,939.08,1176.9,237.82,8.0,8.0,0.0,Entregue no prazo,4.2
+V00761,2026-04-14,João Pessoa,Fortaleza,Van,Motorista 04,35.3,342.7,1500,22.8,66.29,1.85,13.39,81.53,103.65,22.12,0.6,0.6,0.0,Entregue no prazo,5.0
+V00392,2026-04-14,Mossoró,Assú,Caminhão 3/4,Motorista 13,53.9,1986.1,3500,56.7,127.98,6.47,16.77,151.22,229.05,77.83,0.9,0.9,0.0,Entregue no prazo,4.5
+V01059,2026-04-14,Natal,Sousa,Van,Motorista 18,838.1,642.6,1500,42.8,1475.38,117.83,349.5,1942.71,2401.09,458.38,13.3,13.3,0.0,Em rota,
+V00300,2026-04-15,Natal,Sousa,Van,Motorista 18,391.3,1343.9,1500,89.6,722.92,39.43,128.22,890.57,1374.23,483.66,7.8,7.8,0.0,Entregue no prazo,5.0
+V01086,2026-04-15,Mossoró,Assú,Caminhão Truck,Motorista 01,669.1,8021.4,14000,57.3,2882.83,35.99,283.47,3202.29,3850.48,648.19,12.9,12.9,0.0,Entregue no prazo,3.9
+V01081,2026-04-15,Natal,Caicó,Caminhão 3/4,Motorista 17,306.7,2364.5,3500,67.6,902.13,22.93,144.47,1069.53,1623.74,554.21,4.9,4.9,0.0,Em rota,
+V00106,2026-04-15,Mossoró,Caicó,Caminhão Toco,Motorista 02,396.6,2870.1,6000,47.8,1505.05,41.51,149.15,1695.71,2612.61,916.9,8.4,8.4,0.0,Entregue no prazo,5.0
+V00943,2026-04-15,Recife,Mossoró,Van,Motorista 12,269.7,747.0,1500,49.8,522.68,39.73,129.09,691.5,889.94,198.44,4.2,4.2,0.0,Entregue no prazo,4.8
+V00479,2026-04-15,Fortaleza,Assú,Van,Motorista 13,94.4,663.3,1500,44.2,184.69,9.92,43.74,238.35,365.59,127.24,1.6,1.6,0.0,Entregue no prazo,4.3
+V00723,2026-04-15,Recife,Mossoró,Caminhão Truck,Motorista 18,455.8,12039.7,14000,86.0,2046.68,63.3,158.64,2268.62,2863.19,594.57,9.9,13.5,3.6,Entregue com atraso,3.2
+V00449,2026-04-16,Recife,Parnamirim,Caminhão Truck,Motorista 16,460.1,9195.8,14000,65.7,2266.88,58.3,227.54,2552.72,3227.5,674.78,9.9,9.9,0.0,Entregue no prazo,4.4
+V00489,2026-04-16,Recife,Mossoró,Van,Motorista 03,543.4,1358.6,1500,90.6,1003.96,31.36,196.3,1231.62,1739.36,507.74,10.9,10.9,0.0,Entregue no prazo,4.8
+V01175,2026-04-17,Fortaleza,Assú,Caminhão Toco,Motorista 10,261.0,1419.7,6000,23.7,828.89,13.69,127.14,969.72,1472.44,502.72,5.7,5.7,0.0,Entregue no prazo,4.4
+V01042,2026-04-17,Natal,Caicó,Carreta,Motorista 19,507.8,4198.9,27000,15.6,3492.82,70.23,199.68,3762.73,4641.56,878.83,7.9,10.2,2.3,Entregue com atraso,3.7
+V01117,2026-04-18,Fortaleza,Caicó,Caminhão Truck,Motorista 03,700.9,12797.4,14000,91.4,2998.09,73.1,299.55,3370.74,4579.93,1209.19,13.1,13.1,0.0,Entregue no prazo,3.1
+V00874,2026-04-18,Recife,João Pessoa,Caminhão Toco,Motorista 09,185.5,384.4,6000,6.4,673.94,16.72,76.48,767.14,1077.67,310.53,2.9,2.9,0.0,Entregue no prazo,4.4
+V00627,2026-04-18,Fortaleza,Parnamirim,Van,Motorista 06,838.9,1152.0,1500,76.8,1652.32,115.14,287.85,2055.31,2432.5,377.19,15.3,15.3,0.0,Entregue no prazo,4.5
+V01146,2026-04-19,João Pessoa,Mossoró,Van,Motorista 14,401.6,1336.1,1500,89.1,753.7,55.35,136.21,945.26,1150.18,204.92,7.1,7.1,0.0,Entregue no prazo,5.0
+V00997,2026-04-19,Recife,Natal,Caminhão Toco,Motorista 09,478.3,3430.3,6000,57.2,1757.68,42.17,174.02,1973.87,2943.3,969.43,9.7,9.7,0.0,Entregue no prazo,5.0
+V00119,2026-04-19,Recife,Fortaleza,Van,Motorista 09,532.3,1335.8,1500,89.1,1035.74,33.03,255.77,1324.54,1558.42,233.88,9.6,9.6,0.0,Entregue no prazo,4.8
+V00791,2026-04-20,Fortaleza,Assú,Caminhão 3/4,Motorista 06,512.2,3227.8,3500,92.2,1380.5,51.53,176.44,1608.47,2200.25,591.78,10.7,16.3,5.6,Entregue com atraso,3.5
+V00902,2026-04-20,Fortaleza,Caicó,Caminhão Truck,Motorista 05,486.3,7343.0,14000,52.4,2439.34,56.01,164.25,2659.6,3125.58,465.98,9.1,9.1,0.0,Entregue no prazo,3.9
+V00021,2026-04-20,Mossoró,Sousa,Caminhão Truck,Motorista 05,105.0,12309.0,14000,87.9,456.62,6.61,50.16,513.39,786.65,273.26,1.7,7.1,5.4,Entregue com atraso,2.8
+V01181,2026-04-20,Mossoró,Currais Novos,Carreta,Motorista 14,368.1,6516.5,27000,24.1,2528.99,41.3,113.19,2683.48,3966.09,1282.61,7.8,7.8,0.0,Entregue no prazo,4.5
+V00227,2026-04-20,João Pessoa,Natal,Caminhão Truck,Motorista 01,125.9,9613.7,14000,68.7,644.44,8.02,56.25,708.71,994.25,285.54,2.2,2.2,0.0,Entregue no prazo,4.4
+V01097,2026-04-20,Mossoró,Caicó,Caminhão Truck,Motorista 01,70.3,6287.8,14000,44.9,320.47,5.63,29.12,355.22,429.81,74.59,1.2,1.2,0.0,Entregue no prazo,5.0
+V00200,2026-04-21,Fortaleza,Mossoró,Carreta,Motorista 10,34.7,12684.1,27000,47.0,224.35,2.79,12.62,239.76,367.9,128.14,0.6,4.1,3.5,Entregue com atraso,3.4
+V01056,2026-04-21,Natal,Assú,Van,Motorista 12,609.7,252.2,1500,16.8,1137.68,35.87,304.34,1477.89,2230.02,752.13,13.4,20.8,7.4,Entregue com atraso,4.1
+V01030,2026-04-22,Recife,Fortaleza,Caminhão Toco,Motorista 18,690.5,2115.2,6000,35.3,2300.87,60.98,294.19,2656.04,3524.1,868.06,12.0,12.0,0.0,Entregue no prazo,4.4
+V01054,2026-04-22,João Pessoa,Parnamirim,Caminhão Toco,Motorista 20,664.2,501.9,6000,8.4,2053.99,61.76,207.64,2323.39,3405.29,1081.9,11.9,11.9,0.0,Entregue no prazo,4.7
+V01154,2026-04-22,Natal,Fortaleza,Caminhão Toco,Motorista 10,535.4,4173.2,6000,69.6,1728.33,70.64,258.18,2057.15,3034.78,977.63,10.5,10.5,0.0,Entregue no prazo,4.4
+V00081,2026-04-22,Recife,Mossoró,Caminhão Truck,Motorista 15,444.8,11801.7,14000,84.3,2168.13,46.36,185.96,2400.45,3248.64,848.19,8.7,8.7,0.0,Entregue no prazo,4.8
+V01155,2026-04-23,Fortaleza,Caicó,Carreta,Motorista 07,677.0,25124.7,27000,93.1,3901.38,49.56,325.46,4276.4,5221.03,944.63,11.5,11.5,0.0,Entregue no prazo,5.0
+V00256,2026-04-24,Fortaleza,Currais Novos,Van,Motorista 06,591.4,1373.5,1500,91.6,1180.89,37.1,192.36,1410.35,2080.79,670.44,9.3,9.3,0.0,Entregue no prazo,4.9
+V00370,2026-04-25,Natal,João Pessoa,Caminhão 3/4,Motorista 17,307.3,3215.8,3500,91.9,915.04,35.7,142.4,1093.14,1584.85,491.71,5.2,5.2,0.0,Entregue no prazo,4.5
+V01119,2026-04-25,Natal,Mossoró,Caminhão 3/4,Motorista 20,740.0,3298.3,3500,94.2,2209.1,107.98,222.88,2539.96,2969.42,429.46,15.4,15.4,0.0,Entregue no prazo,4.9
+V00914,2026-04-26,João Pessoa,Mossoró,Carreta,Motorista 19,246.1,5788.5,27000,21.4,1665.08,35.63,109.11,1809.82,2719.41,909.59,4.3,4.3,0.0,Entregue no prazo,4.1
+V00980,2026-04-26,Natal,Sousa,Caminhão Toco,Motorista 08,796.8,1887.8,6000,31.5,2790.82,71.02,392.01,3253.85,4178.01,924.16,13.2,17.0,3.8,Entregue com atraso,4.1
+V00858,2026-04-27,João Pessoa,Caicó,Caminhão 3/4,Motorista 01,42.2,2870.0,3500,82.0,124.49,5.44,13.76,143.69,169.92,26.23,0.9,0.9,0.0,Entregue no prazo,4.0
+V00094,2026-04-27,Natal,Assú,Caminhão Toco,Motorista 19,283.1,5692.8,6000,94.9,1099.07,19.34,86.18,1204.59,1732.2,527.61,5.3,5.3,0.0,Entregue no prazo,4.9
+V00625,2026-04-27,Recife,Natal,Carreta,Motorista 01,779.6,14844.1,27000,55.0,4780.61,39.55,243.38,5063.54,6691.65,1628.11,14.7,14.7,0.0,Entregue no prazo,4.3
+V01133,2026-04-28,Fortaleza,Sousa,Caminhão Toco,Motorista 03,155.4,5099.8,6000,85.0,501.38,22.26,54.41,578.05,834.45,256.4,3.1,3.1,0.0,Entregue no prazo,5.0
+V00341,2026-04-28,Natal,Sousa,Caminhão Toco,Motorista 09,139.3,1606.8,6000,26.8,460.8,19.84,48.21,528.85,669.36,140.51,2.7,2.7,0.0,Entregue no prazo,4.7
+V01159,2026-04-28,Recife,Caicó,Van,Motorista 02,381.1,724.8,1500,48.3,739.6,54.03,165.15,958.78,1283.45,324.67,6.3,6.3,0.0,Entregue no prazo,3.2
+V00521,2026-04-28,Recife,Sousa,Van,Motorista 13,221.1,945.7,1500,63.0,439.92,11.69,94.23,545.84,704.04,158.2,4.3,4.3,0.0,Entregue no prazo,5.0
+V00714,2026-04-29,Mossoró,Natal,Carreta,Motorista 02,764.0,17867.8,27000,66.2,4671.42,106.47,273.74,5051.63,6946.42,1894.79,16.3,16.3,0.0,Cancelada,
+V01099,2026-04-29,Recife,Natal,Caminhão 3/4,Motorista 20,849.8,1826.9,3500,52.2,2103.7,56.33,262.14,2422.17,3326.92,904.75,15.2,15.2,0.0,Entregue no prazo,5.0
+V00781,2026-04-29,Natal,João Pessoa,Caminhão Toco,Motorista 17,842.0,4517.2,6000,75.3,3105.84,62.95,392.97,3561.76,4673.17,1111.41,13.1,13.1,0.0,Entregue no prazo,5.0
+V01131,2026-04-29,Recife,Sousa,Caminhão 3/4,Motorista 19,620.7,2938.9,3500,84.0,1533.33,86.21,226.21,1845.75,2132.51,286.76,10.0,10.0,0.0,Em rota,
+V00882,2026-04-29,João Pessoa,Mossoró,Caminhão Toco,Motorista 16,31.1,2790.3,6000,46.5,102.48,1.88,9.8,114.16,147.15,32.99,0.5,2.4,1.9,Entregue com atraso,3.2
+V00662,2026-04-29,Recife,Parnamirim,Caminhão 3/4,Motorista 12,600.2,1551.2,3500,44.3,1746.34,47.89,181.49,1975.72,2509.68,533.96,10.6,10.6,0.0,Entregue no prazo,4.9
+V00302,2026-04-30,Mossoró,Currais Novos,Caminhão Truck,Motorista 05,785.0,4961.2,14000,35.4,3227.59,55.28,301.24,3584.11,4436.6,852.49,17.4,17.4,0.0,Cancelada,
+V00076,2026-04-30,João Pessoa,Mossoró,Caminhão Truck,Motorista 07,672.8,5096.8,14000,36.4,3036.78,70.62,313.6,3421.0,4028.18,607.18,12.6,12.6,0.0,Entregue no prazo,5.0
+V00265,2026-04-30,Mossoró,Currais Novos,Caminhão Truck,Motorista 18,509.3,13576.6,14000,97.0,2279.15,28.62,187.35,2495.12,3374.33,879.21,10.6,10.6,0.0,Entregue no prazo,3.9
+V00324,2026-04-30,Recife,Caicó,Caminhão 3/4,Motorista 04,127.9,1281.9,3500,36.6,367.1,14.03,48.44,429.57,575.36,145.79,2.1,2.1,0.0,Entregue no prazo,5.0
+V00274,2026-04-30,Fortaleza,Currais Novos,Caminhão 3/4,Motorista 07,392.3,739.1,3500,21.1,965.02,27.55,148.03,1140.6,1335.03,194.43,7.4,7.4,0.0,Entregue no prazo,4.3
+V01021,2026-05-01,Mossoró,Sousa,Caminhão Truck,Motorista 09,560.2,5039.9,14000,36.0,2441.1,60.36,272.65,2774.11,3229.04,454.93,9.3,17.0,7.7,Entregue com atraso,3.3
+V00405,2026-05-01,João Pessoa,Currais Novos,Caminhão 3/4,Motorista 18,401.7,3015.5,3500,86.2,1091.76,23.26,135.91,1250.93,1676.02,425.09,7.7,7.7,0.0,Entregue no prazo,5.0
+V00675,2026-05-01,Mossoró,João Pessoa,Caminhão Toco,Motorista 14,665.1,396.0,6000,6.6,2370.54,45.67,245.55,2661.76,3431.51,769.75,12.2,12.2,0.0,Entregue no prazo,4.4
+V00378,2026-05-02,Fortaleza,Mossoró,Caminhão 3/4,Motorista 03,165.6,207.7,3500,5.9,493.41,23.29,51.52,568.22,842.79,274.57,3.1,3.1,0.0,Entregue no prazo,4.9
+V00792,2026-05-02,Natal,Sousa,Van,Motorista 18,354.1,806.2,1500,53.7,710.78,36.18,119.93,866.89,1306.24,439.35,7.8,8.7,0.9,Entregue com atraso,3.0
+V00772,2026-05-02,Natal,Assú,Caminhão 3/4,Motorista 19,308.1,2542.7,3500,72.6,730.54,27.97,135.87,894.38,1109.7,215.32,5.1,5.1,0.0,Entregue no prazo,4.9
+V00043,2026-05-03,Recife,Currais Novos,Caminhão 3/4,Motorista 11,754.6,1658.7,3500,47.4,1928.06,71.59,327.4,2327.05,2811.78,484.73,14.0,14.0,0.0,Entregue no prazo,3.8
+V00187,2026-05-03,Fortaleza,Recife,Van,Motorista 10,550.4,956.8,1500,63.8,920.98,39.18,199.36,1159.52,1410.87,251.35,11.0,11.0,0.0,Entregue no prazo,5.0
+V00425,2026-05-04,Recife,Parnamirim,Caminhão 3/4,Motorista 15,693.2,1393.8,3500,39.8,1858.31,81.15,245.32,2184.78,2755.03,570.25,10.9,15.7,4.8,Entregue com atraso,3.2
+V00798,2026-05-04,João Pessoa,Assú,Carreta,Motorista 02,116.3,20807.9,27000,77.1,773.09,14.44,51.97,839.5,1123.45,283.95,2.4,2.4,0.0,Entregue no prazo,4.7
+V00248,2026-05-04,Natal,Mossoró,Caminhão 3/4,Motorista 02,54.6,1666.9,3500,47.6,145.67,3.37,18.23,167.27,215.9,48.63,0.9,0.9,0.0,Entregue no prazo,5.0
+V01069,2026-05-05,João Pessoa,Natal,Van,Motorista 14,178.2,968.3,1500,64.6,295.88,21.99,88.91,406.78,601.08,194.3,3.2,3.2,0.0,Entregue no prazo,3.9
+V00018,2026-05-05,João Pessoa,Fortaleza,Van,Motorista 16,44.7,1484.0,1500,98.9,81.02,3.95,19.49,104.46,129.25,24.79,0.7,1.9,1.2,Entregue com atraso,2.7
+V01169,2026-05-05,Mossoró,Recife,Van,Motorista 12,685.9,1402.9,1500,93.5,1381.06,57.74,250.46,1689.26,1966.36,277.1,11.8,11.8,0.0,Entregue no prazo,4.7
+V00294,2026-05-06,João Pessoa,Recife,Caminhão Truck,Motorista 13,734.1,12029.8,14000,85.9,3604.6,47.47,321.58,3973.65,6071.78,2098.13,12.5,12.5,0.0,Entregue no prazo,5.0
+V00068,2026-05-06,Recife,Mossoró,Caminhão 3/4,Motorista 06,30.3,258.4,3500,7.4,82.77,2.62,11.43,96.82,133.2,36.38,0.6,0.6,0.0,Entregue no prazo,5.0
+V00741,2026-05-07,João Pessoa,Caicó,Caminhão Truck,Motorista 01,485.0,2724.4,14000,19.5,2035.84,52.94,206.9,2295.68,2688.72,393.04,9.7,10.6,0.9,Entregue com atraso,3.5
+V00424,2026-05-07,Natal,João Pessoa,Caminhão 3/4,Motorista 03,820.8,2569.0,3500,73.4,2450.26,98.36,294.47,2843.09,4033.84,1190.75,13.9,13.9,0.0,Entregue no prazo,4.6
+V00956,2026-05-07,Natal,Parnamirim,Caminhão Toco,Motorista 07,65.6,585.2,6000,9.8,231.51,3.97,19.97,255.45,311.29,55.84,1.2,1.2,0.0,Entregue no prazo,5.0
+V00716,2026-05-08,João Pessoa,Fortaleza,Caminhão 3/4,Motorista 16,703.4,3218.7,3500,92.0,1891.44,86.36,228.11,2205.91,3073.75,867.84,11.9,11.9,0.0,Entregue no prazo,2.8
+V00894,2026-05-08,Recife,Fortaleza,Van,Motorista 08,677.9,1218.8,1500,81.3,1132.55,95.72,229.76,1458.03,2034.23,576.2,10.5,18.2,7.7,Entregue com atraso,3.6
+V00653,2026-05-08,Recife,João Pessoa,Caminhão Truck,Motorista 06,168.6,10893.0,14000,77.8,707.43,16.08,67.67,791.18,1127.4,336.22,2.9,3.7,0.8,Entregue com atraso,3.5
+V01164,2026-05-09,Recife,Mossoró,Caminhão 3/4,Motorista 10,703.1,787.8,3500,22.5,1965.0,37.08,308.83,2310.91,3545.34,1234.43,14.5,14.5,0.0,Entregue no prazo,5.0
+V01172,2026-05-09,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 18,431.9,671.3,3500,19.2,1026.24,48.62,150.91,1225.77,1529.1,303.33,6.7,6.7,0.0,Entregue no prazo,4.6
+V00381,2026-05-09,Mossoró,Fortaleza,Caminhão Toco,Motorista 04,589.8,3846.7,6000,64.1,1938.19,31.79,230.68,2200.66,3315.05,1114.39,10.5,18.4,7.9,Entregue com atraso,3.6
+V00778,2026-05-09,Fortaleza,Assú,Caminhão 3/4,Motorista 14,683.3,344.4,3500,9.8,1850.73,61.37,310.49,2222.59,2590.14,367.55,12.9,17.3,4.4,Entregue com atraso,3.1
+V00402,2026-05-10,Fortaleza,Assú,Caminhão Truck,Motorista 12,528.4,1356.3,14000,9.7,2522.29,66.71,220.34,2809.34,3529.91,720.57,11.6,11.6,0.0,Entregue no prazo,5.0
+V00534,2026-05-10,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 01,34.4,2669.2,3500,76.3,100.69,2.2,10.98,113.87,150.29,36.42,0.5,0.5,0.0,Entregue no prazo,3.9
+V00025,2026-05-10,Natal,Mossoró,Caminhão Toco,Motorista 13,446.1,237.0,6000,4.0,1473.91,49.83,221.37,1745.11,2447.91,702.8,8.9,8.9,0.0,Entregue no prazo,5.0
+V00940,2026-05-11,Natal,Sousa,Caminhão Truck,Motorista 03,717.9,5387.2,14000,38.5,3337.3,103.52,313.18,3754.0,5286.54,1532.54,12.1,12.1,0.0,Cancelada,
+V00735,2026-05-11,João Pessoa,Caicó,Caminhão 3/4,Motorista 03,671.7,1995.8,3500,57.0,1639.17,50.44,300.72,1990.33,2930.63,940.3,13.3,13.3,0.0,Entregue no prazo,4.7
+V00191,2026-05-11,Mossoró,Currais Novos,Caminhão 3/4,Motorista 19,702.9,1535.1,3500,43.9,1866.08,36.08,268.47,2170.63,3058.66,888.03,15.5,15.5,0.0,Entregue no prazo,3.8
+V00380,2026-05-12,Natal,Recife,Caminhão Truck,Motorista 19,136.9,9079.3,14000,64.9,584.81,8.18,45.64,638.63,970.39,331.76,2.2,2.2,0.0,Entregue no prazo,3.5
+V01141,2026-05-12,Natal,Fortaleza,Caminhão Truck,Motorista 18,219.8,7906.9,14000,56.5,1084.74,30.05,70.56,1185.35,1532.12,346.77,3.8,3.8,0.0,Entregue no prazo,5.0
+V00050,2026-05-12,Natal,João Pessoa,Caminhão Truck,Motorista 19,742.5,5384.3,14000,38.5,3255.1,85.32,271.51,3611.93,5064.23,1452.3,13.0,13.0,0.0,Entregue no prazo,5.0
+V01040,2026-05-12,Natal,João Pessoa,Caminhão 3/4,Motorista 14,361.4,2516.1,3500,71.9,854.79,52.66,111.77,1019.22,1531.38,512.16,5.7,5.7,0.0,Entregue no prazo,4.6
+V00695,2026-05-12,João Pessoa,Fortaleza,Caminhão Truck,Motorista 04,560.6,656.1,14000,4.7,2271.14,32.45,253.73,2557.32,3538.9,981.58,12.3,12.3,0.0,Entregue no prazo,5.0
+V00846,2026-05-13,Natal,Currais Novos,Van,Motorista 02,343.3,972.7,1500,64.8,566.93,25.95,116.5,709.38,820.3,110.92,6.2,6.2,0.0,Entregue no prazo,5.0
+V00661,2026-05-13,Natal,Fortaleza,Van,Motorista 07,710.8,745.0,1500,49.7,1213.55,55.79,285.05,1554.39,2117.91,563.52,11.6,16.5,4.9,Entregue com atraso,2.9
+V00323,2026-05-13,Natal,Sousa,Caminhão 3/4,Motorista 13,573.9,2969.0,3500,84.8,1548.34,37.48,255.74,1841.56,2559.95,718.39,9.6,17.4,7.8,Entregue com atraso,2.2
+V00647,2026-05-13,Natal,Fortaleza,Caminhão Toco,Motorista 08,252.2,1856.6,6000,30.9,829.81,34.18,77.27,941.26,1111.1,169.84,5.0,5.0,0.0,Entregue no prazo,3.7
+V00441,2026-05-14,Fortaleza,João Pessoa,Van,Motorista 11,634.5,1015.5,1500,67.7,1162.57,92.62,276.15,1531.34,2317.07,785.73,10.6,11.7,1.1,Entregue com atraso,3.9
+V00952,2026-05-14,Recife,Natal,Caminhão Toco,Motorista 17,178.5,3356.6,6000,55.9,690.43,20.09,82.72,793.24,1119.6,326.36,2.9,2.9,0.0,Em rota,
+V00197,2026-05-14,Mossoró,Caicó,Caminhão Toco,Motorista 03,800.0,3891.0,6000,64.8,2668.67,61.56,270.55,3000.78,4284.68,1283.9,16.2,16.2,0.0,Entregue no prazo,5.0
+V01023,2026-05-14,Recife,Parnamirim,Caminhão 3/4,Motorista 02,596.6,2452.5,3500,70.1,1722.41,37.74,257.7,2017.85,2784.74,766.89,13.1,13.1,0.0,Entregue no prazo,4.1
+V00184,2026-05-14,Natal,Mossoró,Caminhão Truck,Motorista 13,282.4,12810.3,14000,91.5,1446.43,23.35,104.74,1574.52,2129.15,554.63,4.4,5.7,1.3,Entregue com atraso,3.6
+V00434,2026-05-15,Mossoró,Assú,Carreta,Motorista 08,673.2,13409.6,27000,49.7,3945.19,83.12,235.91,4264.22,5741.02,1476.8,14.5,14.5,0.0,Entregue no prazo,3.9
+V00869,2026-05-15,Natal,Caicó,Caminhão 3/4,Motorista 20,95.6,999.7,3500,28.6,271.78,9.83,46.42,328.03,433.49,105.46,1.5,1.5,0.0,Entregue no prazo,5.0
+V01013,2026-05-15,Mossoró,Natal,Van,Motorista 08,748.2,881.6,1500,58.8,1349.54,60.58,268.92,1679.04,2136.28,457.24,11.9,17.4,5.5,Entregue com atraso,2.4
+V01166,2026-05-15,Recife,Mossoró,Caminhão 3/4,Motorista 04,653.7,800.2,3500,22.9,1601.72,89.09,261.24,1952.05,2436.89,484.84,11.1,16.3,5.2,Entregue com atraso,3.2
+V01033,2026-05-16,Fortaleza,Assú,Caminhão Truck,Motorista 04,116.9,13147.6,14000,93.9,479.27,14.61,36.74,530.62,709.4,178.78,2.4,2.4,0.0,Entregue no prazo,4.5
+V00041,2026-05-16,Fortaleza,Caicó,Caminhão 3/4,Motorista 03,540.8,2284.1,3500,65.3,1523.18,34.16,239.66,1797.0,2719.96,922.96,11.1,11.1,0.0,Entregue no prazo,4.6
+V01031,2026-05-16,Fortaleza,Caicó,Caminhão Truck,Motorista 04,119.5,2659.1,14000,19.0,489.53,15.65,49.04,554.22,707.57,153.35,2.5,2.5,0.0,Entregue no prazo,5.0
+V00995,2026-05-16,Natal,Currais Novos,Caminhão Truck,Motorista 08,762.1,13976.6,14000,99.8,3242.11,47.28,250.51,3539.9,5006.87,1466.97,13.1,19.2,6.1,Entregue com atraso,4.6
+V00938,2026-05-16,Natal,Sousa,Caminhão 3/4,Motorista 19,111.9,2053.5,3500,58.7,291.78,13.6,44.47,349.85,461.85,112.0,2.1,5.6,3.5,Entregue com atraso,2.6
+V01012,2026-05-17,Mossoró,Fortaleza,Van,Motorista 19,626.4,1280.3,1500,85.4,1050.01,39.81,290.93,1380.75,2097.03,716.28,10.3,10.3,0.0,Entregue no prazo,5.0
+V00620,2026-05-17,Natal,Currais Novos,Caminhão 3/4,Motorista 14,313.9,2360.2,3500,67.4,879.25,34.1,116.6,1029.95,1422.18,392.23,6.1,6.1,0.0,Entregue no prazo,3.7
+V00385,2026-05-17,João Pessoa,Sousa,Caminhão Truck,Motorista 13,247.4,9347.5,14000,66.8,1270.68,35.03,99.1,1404.81,2062.32,657.51,5.2,5.2,0.0,Em rota,
+V01090,2026-05-18,Fortaleza,Sousa,Caminhão Truck,Motorista 18,321.1,12519.0,14000,89.4,1481.86,36.79,109.79,1628.44,2144.55,516.11,5.2,5.2,0.0,Entregue no prazo,3.8
+V00966,2026-05-18,Fortaleza,Currais Novos,Caminhão Truck,Motorista 08,842.7,6153.8,14000,44.0,4237.54,117.68,393.71,4748.93,5550.36,801.43,13.2,13.2,0.0,Entregue no prazo,4.8
+V00391,2026-05-18,Fortaleza,João Pessoa,Van,Motorista 07,642.1,389.2,1500,25.9,1293.89,49.39,318.77,1662.05,2165.92,503.87,13.2,13.2,0.0,Entregue no prazo,4.2
+V00512,2026-05-19,Recife,Sousa,Caminhão 3/4,Motorista 04,399.6,2686.9,3500,76.8,1183.28,50.83,187.2,1421.31,2066.93,645.62,8.3,10.3,2.0,Entregue com atraso,3.2
+V00358,2026-05-19,Natal,Caicó,Caminhão 3/4,Motorista 13,636.5,896.2,3500,25.6,1837.61,33.76,298.37,2169.74,2894.72,724.98,12.9,12.9,0.0,Entregue no prazo,5.0
+V00351,2026-05-19,Mossoró,Fortaleza,Carreta,Motorista 07,497.5,16553.3,27000,61.3,3502.74,64.09,151.64,3718.47,5070.71,1352.24,8.5,10.6,2.1,Entregue com atraso,3.6
+V01144,2026-05-20,Natal,Parnamirim,Caminhão 3/4,Motorista 14,430.9,2397.0,3500,68.5,1112.32,62.24,190.07,1364.63,1981.01,616.38,8.6,8.6,0.0,Entregue no prazo,5.0
+V00222,2026-05-20,Mossoró,Natal,Van,Motorista 11,269.9,631.9,1500,42.1,472.92,14.62,115.36,602.9,837.38,234.48,4.6,4.6,0.0,Entregue no prazo,5.0
+V01110,2026-05-20,Natal,Recife,Caminhão Toco,Motorista 04,487.7,2786.4,6000,46.4,1521.17,48.04,192.05,1761.26,2209.76,448.5,7.7,7.7,0.0,Entregue no prazo,4.3
+V00984,2026-05-20,Natal,Recife,Caminhão Truck,Motorista 16,835.7,12139.1,14000,86.7,3929.54,51.09,286.69,4267.32,5384.39,1117.07,16.8,16.8,0.0,Entregue no prazo,4.6
+V00487,2026-05-21,Mossoró,Currais Novos,Caminhão Toco,Motorista 13,130.4,3297.4,6000,55.0,496.5,11.87,51.69,560.06,659.85,99.79,2.6,2.6,0.0,Entregue no prazo,4.5
+V00496,2026-05-21,Natal,Fortaleza,Caminhão 3/4,Motorista 10,476.0,1317.2,3500,37.6,1260.32,52.99,225.51,1538.82,2177.06,638.24,8.9,16.2,7.3,Entregue com atraso,3.6
+V00229,2026-05-21,Fortaleza,Assú,Van,Motorista 05,127.3,1474.7,1500,98.3,218.52,7.22,53.33,279.07,403.41,124.34,2.8,2.8,0.0,Entregue no prazo,4.0
+V00982,2026-05-22,Natal,Currais Novos,Caminhão Truck,Motorista 11,122.0,13869.8,14000,99.1,532.58,18.0,41.05,591.63,765.83,174.2,2.0,2.0,0.0,Entregue no prazo,5.0
+V00848,2026-05-22,Fortaleza,Natal,Van,Motorista 02,437.3,729.6,1500,48.6,845.96,61.4,201.62,1108.98,1397.07,288.09,7.0,14.5,7.5,Entregue com atraso,3.1
+V00408,2026-05-22,Natal,Parnamirim,Van,Motorista 03,396.8,1455.2,1500,97.0,710.2,30.09,138.36,878.65,1171.33,292.68,6.6,6.6,0.0,Entregue no prazo,5.0
+V00238,2026-05-22,Natal,João Pessoa,Van,Motorista 09,282.9,945.0,1500,63.0,499.7,15.26,100.26,615.22,709.07,93.85,4.4,4.4,0.0,Em rota,
+V00097,2026-05-23,Mossoró,Currais Novos,Caminhão Truck,Motorista 04,650.5,7367.5,14000,52.6,2784.46,89.63,309.58,3183.67,4769.87,1586.2,13.1,13.1,0.0,Entregue no prazo,5.0
+V00623,2026-05-23,Recife,Currais Novos,Van,Motorista 12,391.4,1492.9,1500,99.5,708.06,43.37,125.62,877.05,1167.96,290.91,7.9,14.3,6.4,Entregue com atraso,2.9
+V00154,2026-05-23,Fortaleza,Assú,Carreta,Motorista 02,651.0,4532.8,27000,16.8,4113.8,79.31,227.5,4420.61,6216.47,1795.86,11.2,11.2,0.0,Entregue no prazo,5.0
+V01147,2026-05-24,Fortaleza,João Pessoa,Carreta,Motorista 06,356.8,17187.8,27000,63.7,2466.72,52.94,142.99,2662.65,3547.46,884.81,7.7,7.7,0.0,Entregue no prazo,5.0
+V01055,2026-05-24,João Pessoa,Sousa,Caminhão Toco,Motorista 16,77.6,3359.9,6000,56.0,242.92,10.3,33.09,286.31,393.04,106.73,1.6,1.6,0.0,Entregue no prazo,4.3
+V00113,2026-05-24,Mossoró,Natal,Caminhão 3/4,Motorista 06,88.2,1039.5,3500,29.7,227.13,8.58,27.27,262.98,317.16,54.18,1.7,1.7,0.0,Em rota,
+V01035,2026-05-24,Natal,Caicó,Caminhão 3/4,Motorista 16,241.5,703.9,3500,20.1,704.31,29.75,99.54,833.6,1033.47,199.87,4.4,4.4,0.0,Entregue no prazo,4.2
+V01015,2026-05-25,João Pessoa,Recife,Caminhão 3/4,Motorista 08,237.9,3232.6,3500,92.4,660.28,12.21,81.11,753.6,1072.47,318.87,3.9,6.6,2.7,Entregue com atraso,3.4
+V00046,2026-05-25,Fortaleza,João Pessoa,Caminhão 3/4,Motorista 07,402.9,1901.5,3500,54.3,1070.81,47.01,132.12,1249.94,1452.42,202.48,7.9,7.9,0.0,Entregue no prazo,3.1
+V01125,2026-05-26,Recife,Sousa,Caminhão 3/4,Motorista 04,217.2,1460.1,3500,41.7,600.56,12.51,91.38,704.45,1072.52,368.07,3.5,3.5,0.0,Entregue no prazo,4.7
+V01094,2026-05-26,Natal,João Pessoa,Caminhão 3/4,Motorista 04,257.4,2018.3,3500,57.7,621.51,37.14,92.2,750.85,1140.69,389.84,5.0,7.3,2.3,Entregue com atraso,3.0
+V00811,2026-05-26,Recife,Caicó,Caminhão 3/4,Motorista 14,728.8,2027.5,3500,57.9,2045.46,101.82,350.08,2497.36,3200.13,702.77,11.4,11.4,0.0,Entregue no prazo,4.4
+V00515,2026-05-26,Natal,Mossoró,Van,Motorista 19,437.0,724.7,1500,48.3,841.4,40.24,215.13,1096.77,1524.19,427.42,7.1,7.1,0.0,Entregue no prazo,5.0
+V00683,2026-05-26,Fortaleza,Assú,Caminhão Toco,Motorista 02,575.1,1859.8,6000,31.0,1857.04,82.6,174.66,2114.3,2801.68,687.38,12.7,12.7,0.0,Entregue no prazo,3.4
+V00951,2026-05-27,João Pessoa,Currais Novos,Van,Motorista 09,372.6,415.5,1500,27.7,629.43,44.99,184.41,858.83,1067.73,208.9,6.2,6.2,0.0,Entregue no prazo,4.7
+V00598,2026-05-27,Natal,Parnamirim,Caminhão 3/4,Motorista 04,351.2,2252.3,3500,64.4,1042.93,20.89,132.75,1196.57,1570.67,374.1,6.2,6.2,0.0,Entregue no prazo,4.3
+V00011,2026-05-27,Recife,Parnamirim,Van,Motorista 04,472.7,410.6,1500,27.4,944.78,63.64,232.12,1240.54,1503.37,262.83,8.2,8.2,0.0,Entregue no prazo,3.8
+V00170,2026-05-27,Fortaleza,João Pessoa,Caminhão Truck,Motorista 19,545.0,3615.6,14000,25.8,2307.08,37.44,165.66,2510.18,3278.98,768.8,11.2,11.2,0.0,Entregue no prazo,4.5
+V01111,2026-05-28,Recife,Assú,Caminhão 3/4,Motorista 13,364.9,568.4,3500,16.2,958.47,31.16,125.77,1115.4,1569.22,453.82,5.7,5.7,0.0,Entregue no prazo,5.0
+V01000,2026-05-29,Natal,Sousa,Caminhão 3/4,Motorista 17,655.7,756.3,3500,21.6,1803.48,38.4,320.88,2162.76,2739.55,576.79,13.2,13.2,0.0,Entregue no prazo,4.7
+V01025,2026-05-30,Mossoró,João Pessoa,Carreta,Motorista 13,777.6,7016.3,27000,26.0,5270.12,59.52,265.74,5595.38,8548.1,2952.72,17.1,17.1,0.0,Em rota,
+V00970,2026-05-31,Natal,Assú,Caminhão Toco,Motorista 06,469.9,5045.1,6000,84.1,1683.85,53.28,191.82,1928.95,2933.75,1004.8,7.4,7.4,0.0,Entregue no prazo,4.4
+V00976,2026-05-31,Mossoró,Natal,Van,Motorista 06,550.3,1193.3,1500,79.6,912.24,36.36,245.79,1194.39,1579.64,385.25,10.2,10.2,0.0,Entregue no prazo,4.9
+V00796,2026-05-31,Mossoró,Caicó,Caminhão Truck,Motorista 15,57.4,1457.0,14000,10.4,235.64,4.79,23.07,263.5,359.13,95.63,1.1,1.1,0.0,Cancelada,
+V00801,2026-05-31,João Pessoa,Recife,Caminhão Toco,Motorista 19,44.9,4390.3,6000,73.2,169.28,4.04,17.49,190.81,284.4,93.59,0.7,0.7,0.0,Entregue no prazo,3.8
+V00500,2026-06-01,Recife,Natal,Caminhão Toco,Motorista 09,443.3,3360.3,6000,56.0,1463.32,64.21,207.68,1735.21,2496.88,761.67,9.5,9.5,0.0,Entregue no prazo,4.7
+V00827,2026-06-01,Mossoró,Assú,Caminhão 3/4,Motorista 14,112.6,1598.2,3500,45.7,285.96,15.82,53.36,355.14,442.18,87.04,2.4,2.4,0.0,Entregue no prazo,5.0
+V00526,2026-06-02,Recife,Sousa,Van,Motorista 05,105.7,1148.4,1500,76.6,187.75,12.48,39.59,239.82,289.76,49.94,2.0,2.0,0.0,Entregue no prazo,4.7
+V00872,2026-06-02,João Pessoa,Recife,Caminhão Truck,Motorista 02,191.4,9067.6,14000,64.8,873.81,24.73,58.34,956.88,1334.05,377.17,3.2,3.2,0.0,Em rota,
+V00794,2026-06-03,João Pessoa,Caicó,Caminhão Toco,Motorista 12,787.8,4696.8,6000,78.3,2795.32,94.19,381.98,3271.49,4694.45,1422.96,15.0,15.0,0.0,Entregue no prazo,4.5
+V00251,2026-06-03,Fortaleza,Recife,Caminhão 3/4,Motorista 10,759.5,3315.0,3500,94.7,2155.3,38.39,228.05,2421.74,3151.27,729.53,15.9,15.9,0.0,Entregue no prazo,5.0
+V00292,2026-06-03,João Pessoa,Currais Novos,Caminhão Toco,Motorista 03,380.5,3942.3,6000,65.7,1405.35,27.86,145.0,1578.21,1984.86,406.65,7.8,15.1,7.3,Entregue com atraso,4.1
+V00085,2026-06-03,Recife,Caicó,Caminhão Toco,Motorista 10,538.1,2261.9,6000,37.7,2009.84,31.91,224.73,2266.48,3042.5,776.02,9.3,9.3,0.0,Entregue no prazo,5.0
+V00577,2026-06-04,Natal,Recife,Van,Motorista 07,525.9,824.2,1500,54.9,1044.99,29.59,243.54,1318.12,1776.7,458.58,11.0,16.4,5.4,Entregue com atraso,3.5
+V01046,2026-06-04,Mossoró,Currais Novos,Caminhão Truck,Motorista 03,63.0,3455.7,14000,24.7,281.67,4.3,19.82,305.79,379.19,73.4,1.1,1.1,0.0,Entregue no prazo,4.3
+V00617,2026-06-04,Mossoró,Natal,Carreta,Motorista 07,432.2,1193.0,27000,4.4,2770.25,52.07,158.98,2981.3,3560.94,579.64,8.5,11.6,3.1,Entregue com atraso,3.0
+V00504,2026-06-05,Mossoró,João Pessoa,Caminhão Toco,Motorista 14,844.1,4744.8,6000,79.1,3244.46,58.67,415.39,3718.52,4488.48,769.96,15.3,18.4,3.1,Entregue com atraso,2.7
+V00813,2026-06-05,Recife,Currais Novos,Van,Motorista 13,387.7,257.5,1500,17.2,670.75,49.07,121.67,841.49,1017.32,175.83,6.6,11.9,5.3,Entregue com atraso,3.9
+V00056,2026-06-05,João Pessoa,Sousa,Caminhão Truck,Motorista 15,531.0,5872.2,14000,41.9,2652.26,74.34,196.83,2923.43,3638.93,715.5,8.8,8.8,0.0,Entregue no prazo,4.4
+V00285,2026-06-05,Mossoró,Caicó,Van,Motorista 11,509.6,1423.9,1500,94.9,865.55,49.52,162.2,1077.27,1508.47,431.2,9.1,9.1,0.0,Entregue no prazo,4.5
+V00168,2026-06-05,Recife,Currais Novos,Van,Motorista 19,609.1,894.6,1500,59.6,1134.95,56.62,220.35,1411.92,1896.08,484.16,12.9,12.9,0.0,Em rota,
+V00476,2026-06-06,João Pessoa,Caicó,Van,Motorista 19,189.2,897.6,1500,59.8,386.09,25.26,88.64,499.99,635.63,135.64,3.5,3.5,0.0,Entregue no prazo,3.9
+V00730,2026-06-06,Fortaleza,Recife,Caminhão Truck,Motorista 13,98.8,4989.2,14000,35.6,446.72,5.11,36.85,488.68,615.48,126.8,1.8,1.8,0.0,Entregue no prazo,4.6
+V00784,2026-06-06,Recife,Assú,Van,Motorista 11,385.6,1249.0,1500,83.3,675.67,29.07,163.49,868.23,1184.48,316.25,8.3,8.3,0.0,Entregue no prazo,3.1
+V00565,2026-06-07,João Pessoa,Fortaleza,Caminhão Toco,Motorista 18,439.7,1970.2,6000,32.8,1709.41,51.15,167.81,1928.37,2433.96,505.59,7.4,7.4,0.0,Entregue no prazo,4.7
+V00364,2026-06-07,Natal,Caicó,Caminhão Toco,Motorista 15,558.0,5039.1,6000,84.0,1981.32,63.97,218.55,2263.84,3082.18,818.34,12.2,12.2,0.0,Entregue no prazo,4.8
+V00621,2026-06-07,Natal,Caicó,Caminhão Truck,Motorista 19,366.8,10141.7,14000,72.4,1696.63,52.95,113.11,1862.69,2516.92,654.23,6.5,6.5,0.0,Cancelada,
+V00734,2026-06-07,Mossoró,Recife,Caminhão Toco,Motorista 01,118.7,2681.6,6000,44.7,373.18,13.28,39.02,425.48,578.21,152.73,2.6,2.6,0.0,Entregue no prazo,4.3
+V00404,2026-06-07,João Pessoa,Sousa,Van,Motorista 18,541.0,662.9,1500,44.2,1068.48,39.69,231.46,1339.63,1666.87,327.24,9.1,10.6,1.5,Entregue com atraso,3.5
+V00394,2026-06-07,Natal,Currais Novos,Carreta,Motorista 14,475.2,3667.4,27000,13.6,2928.43,28.47,201.77,3158.67,4197.08,1038.41,7.8,7.8,0.0,Entregue no prazo,4.3
+V00211,2026-06-08,Natal,Currais Novos,Caminhão Truck,Motorista 14,689.1,2092.6,14000,14.9,3241.03,69.29,226.59,3536.91,4950.26,1413.35,13.7,13.7,0.0,Entregue no prazo,4.6
+V00099,2026-06-09,João Pessoa,Sousa,Caminhão Toco,Motorista 08,684.3,2496.6,6000,41.6,2626.22,70.69,226.91,2923.82,4176.27,1252.45,11.2,11.2,0.0,Entregue no prazo,4.4
+V01194,2026-06-09,Mossoró,Caicó,Carreta,Motorista 09,507.1,19205.4,27000,71.1,3505.68,75.4,177.43,3758.51,4594.26,835.75,9.3,9.3,0.0,Entregue no prazo,4.8
+V00020,2026-06-09,Mossoró,Sousa,Carreta,Motorista 17,172.6,10819.3,27000,40.1,1165.96,20.64,57.09,1243.69,1836.1,592.41,3.5,3.5,0.0,Entregue no prazo,4.9
+V00096,2026-06-10,Mossoró,Fortaleza,Van,Motorista 16,367.6,1046.3,1500,69.8,685.74,20.67,147.96,854.37,1258.11,403.74,6.8,6.8,0.0,Entregue no prazo,5.0
+V00029,2026-06-10,Recife,Mossoró,Caminhão Truck,Motorista 15,588.0,9232.3,14000,65.9,2562.16,85.31,194.16,2841.63,3759.29,917.66,9.2,9.2,0.0,Entregue no prazo,3.9
+V00243,2026-06-11,João Pessoa,Mossoró,Carreta,Motorista 02,80.7,14547.9,27000,53.9,521.11,10.1,26.34,557.55,755.63,198.08,1.7,1.7,0.0,Entregue no prazo,4.0
+V00261,2026-06-11,João Pessoa,Sousa,Caminhão 3/4,Motorista 20,433.5,2828.5,3500,80.8,1079.91,31.47,177.83,1289.21,1752.58,463.37,8.6,8.6,0.0,Entregue no prazo,5.0
+V00853,2026-06-11,Fortaleza,Currais Novos,Caminhão Toco,Motorista 01,745.1,1505.2,6000,25.1,2581.98,47.13,282.4,2911.51,3554.53,643.02,14.3,14.3,0.0,Entregue no prazo,4.8
+V01161,2026-06-11,Mossoró,Recife,Van,Motorista 07,397.7,1054.0,1500,70.3,777.55,37.94,125.95,941.44,1373.16,431.72,8.7,8.7,0.0,Entregue no prazo,4.2
+V01132,2026-06-11,Fortaleza,Natal,Van,Motorista 12,56.7,685.6,1500,45.7,107.98,5.8,20.63,134.41,162.34,27.93,1.0,1.0,0.0,Entregue no prazo,3.9
+V00438,2026-06-11,João Pessoa,Assú,Caminhão Truck,Motorista 03,425.6,8791.5,14000,62.8,1728.49,29.57,169.5,1927.56,2949.56,1022.0,8.1,8.1,0.0,Entregue no prazo,5.0
+V00136,2026-06-11,Recife,Currais Novos,Van,Motorista 09,209.8,243.8,1500,16.3,360.14,19.22,94.81,474.17,580.92,106.75,3.5,7.4,3.9,Entregue com atraso,3.4
+V00054,2026-06-11,João Pessoa,Recife,Caminhão Toco,Motorista 10,530.5,4353.7,6000,72.6,1746.26,48.46,172.08,1966.8,2404.33,437.53,9.0,9.0,0.0,Entregue no prazo,5.0
+V00636,2026-06-11,Fortaleza,Currais Novos,Caminhão Toco,Motorista 19,454.5,2415.4,6000,40.3,1608.77,27.93,226.98,1863.68,2460.47,596.79,8.7,8.7,0.0,Entregue no prazo,5.0
+V00797,2026-06-12,Fortaleza,João Pessoa,Van,Motorista 14,682.0,217.2,1500,14.5,1272.96,84.79,234.19,1591.94,1869.68,277.74,14.2,14.2,0.0,Entregue no prazo,3.2
+V01183,2026-06-12,João Pessoa,Currais Novos,Caminhão 3/4,Motorista 18,350.3,561.7,3500,16.0,1023.59,18.76,165.56,1207.91,1563.02,355.11,6.1,6.1,0.0,Cancelada,
+V00650,2026-06-13,Fortaleza,Caicó,Caminhão Toco,Motorista 19,232.5,4781.3,6000,79.7,836.85,24.01,88.0,948.86,1201.78,252.92,3.8,3.8,0.0,Entregue no prazo,5.0
+V00172,2026-06-13,Fortaleza,Caicó,Caminhão Toco,Motorista 20,257.8,1802.7,6000,30.0,883.54,38.16,80.82,1002.52,1360.9,358.38,5.3,5.3,0.0,Em rota,
+V00690,2026-06-13,João Pessoa,Sousa,Caminhão Truck,Motorista 14,138.8,7357.2,14000,52.6,683.79,10.56,46.16,740.51,951.35,210.84,2.5,2.5,0.0,Entregue no prazo,4.5
+V00763,2026-06-13,Natal,Caicó,Van,Motorista 09,415.6,796.4,1500,53.1,857.23,37.09,154.79,1049.11,1340.18,291.07,6.6,6.6,0.0,Entregue no prazo,3.9
+V00340,2026-06-14,João Pessoa,Fortaleza,Van,Motorista 04,830.8,690.4,1500,46.0,1645.67,77.64,393.72,2117.03,2587.57,470.54,13.0,13.0,0.0,Entregue no prazo,4.2
+V01034,2026-06-14,João Pessoa,Currais Novos,Carreta,Motorista 07,596.3,3254.2,27000,12.1,3934.5,46.51,182.32,4163.33,5478.66,1315.33,11.1,11.1,0.0,Entregue no prazo,4.0
+V00291,2026-06-14,Recife,Currais Novos,Caminhão 3/4,Motorista 19,756.8,699.5,3500,20.0,1845.63,62.71,235.28,2143.62,2621.61,477.99,11.8,11.8,0.0,Entregue no prazo,4.4
+V00002,2026-06-14,Fortaleza,Natal,Van,Motorista 16,493.2,285.4,1500,19.0,971.1,47.02,199.69,1217.81,1615.19,397.38,9.3,9.3,0.0,Entregue no prazo,3.5
+V00461,2026-06-14,Recife,Mossoró,Caminhão Toco,Motorista 12,382.5,1866.1,6000,31.1,1410.0,36.47,190.43,1636.9,1918.28,281.38,7.3,7.3,0.0,Entregue no prazo,5.0
+V00239,2026-06-14,João Pessoa,Natal,Caminhão Truck,Motorista 05,732.9,11521.9,14000,82.3,3331.5,46.35,275.9,3653.75,5106.98,1453.23,13.6,21.6,8.0,Entregue com atraso,3.1
+V00421,2026-06-15,Fortaleza,Parnamirim,Van,Motorista 04,480.9,1005.5,1500,67.0,922.64,64.26,164.99,1151.89,1380.19,228.3,7.8,7.8,0.0,Entregue no prazo,5.0
+V00950,2026-06-15,Recife,Natal,Van,Motorista 18,153.2,1056.3,1500,70.4,258.56,21.8,63.27,343.63,440.43,96.8,3.2,3.2,0.0,Entregue no prazo,4.6
+V00953,2026-06-15,João Pessoa,Recife,Caminhão Truck,Motorista 15,273.5,11565.5,14000,82.6,1217.9,16.38,123.52,1357.8,1885.41,527.61,5.4,5.4,0.0,Entregue no prazo,3.2
+V00867,2026-06-15,Natal,Sousa,Caminhão Toco,Motorista 11,383.5,2527.7,6000,42.1,1182.74,45.84,176.99,1405.57,1989.48,583.91,8.0,8.0,0.0,Entregue no prazo,3.5
+V00075,2026-06-16,Mossoró,Currais Novos,Caminhão Toco,Motorista 13,61.2,4528.0,6000,75.5,221.56,7.97,19.65,249.18,290.1,40.92,1.1,1.1,0.0,Entregue no prazo,4.2
+V00744,2026-06-16,João Pessoa,Caicó,Van,Motorista 08,156.3,1231.8,1500,82.1,308.43,11.52,55.91,375.86,573.26,197.4,2.5,2.5,0.0,Entregue no prazo,4.4
+V00140,2026-06-17,João Pessoa,Recife,Van,Motorista 01,792.7,1297.5,1500,86.5,1525.26,50.66,278.12,1854.04,2781.44,927.4,16.3,16.3,0.0,Entregue no prazo,4.8
+V00246,2026-06-17,Recife,Mossoró,Caminhão Truck,Motorista 04,364.3,1932.8,14000,13.8,1545.62,48.36,151.9,1745.88,2243.48,497.6,6.0,6.0,0.0,Entregue no prazo,4.1
+V00834,2026-06-17,Natal,Sousa,Caminhão Toco,Motorista 19,129.8,5218.1,6000,87.0,459.67,15.73,60.8,536.2,716.11,179.91,2.2,2.2,0.0,Entregue no prazo,4.2
+V01095,2026-06-18,Mossoró,Recife,Caminhão Truck,Motorista 13,582.5,8326.6,14000,59.5,2736.77,32.95,203.77,2973.49,4099.66,1126.17,12.8,12.8,0.0,Entregue no prazo,4.2
+V01062,2026-06-18,Mossoró,João Pessoa,Caminhão 3/4,Motorista 16,646.4,2680.2,3500,76.6,1651.52,33.29,201.04,1885.85,2381.5,495.65,11.0,11.0,0.0,Cancelada,
+V00390,2026-06-19,Natal,Sousa,Carreta,Motorista 19,728.3,23349.6,27000,86.5,4523.11,91.94,239.45,4854.5,5599.41,744.91,16.0,16.0,0.0,Entregue no prazo,5.0
+V00423,2026-06-20,Mossoró,Caicó,Van,Motorista 08,689.2,861.6,1500,57.4,1135.87,60.92,268.02,1464.81,1767.51,302.7,14.6,14.6,0.0,Entregue no prazo,5.0
+V00878,2026-06-20,João Pessoa,Currais Novos,Caminhão Truck,Motorista 18,92.8,6727.9,14000,48.1,459.58,11.96,41.95,513.49,662.2,148.71,1.7,1.7,0.0,Entregue no prazo,4.6
+V00377,2026-06-20,João Pessoa,Natal,Van,Motorista 10,652.4,850.8,1500,56.7,1324.57,42.19,280.0,1646.76,2047.17,400.41,13.6,13.6,0.0,Entregue no prazo,5.0
+V00558,2026-06-20,Natal,Assú,Van,Motorista 03,305.9,965.9,1500,64.4,558.11,38.09,104.84,701.04,809.19,108.15,5.1,6.0,0.9,Entregue com atraso,2.8
+V00999,2026-06-21,Recife,Sousa,Caminhão Truck,Motorista 02,801.8,11923.3,14000,85.2,4008.3,81.16,367.13,4456.59,5444.8,988.21,14.2,14.2,0.0,Em rota,
+V01143,2026-06-21,Fortaleza,Caicó,Caminhão Truck,Motorista 07,567.8,12775.2,14000,91.3,2359.15,43.35,272.81,2675.31,3380.89,705.58,9.8,9.8,0.0,Entregue no prazo,4.4
+V00482,2026-06-22,Fortaleza,Recife,Caminhão 3/4,Motorista 18,758.0,1701.9,3500,48.6,2047.62,68.52,297.15,2413.29,2789.93,376.64,15.0,15.0,0.0,Entregue no prazo,5.0
+V00699,2026-06-22,João Pessoa,Natal,Caminhão Toco,Motorista 04,42.3,5362.1,6000,89.4,138.25,5.2,19.55,163.0,243.46,80.46,0.7,0.7,0.0,Entregue no prazo,4.2
+V00541,2026-06-22,Recife,Assú,Carreta,Motorista 18,240.7,760.4,27000,2.8,1426.34,13.4,77.19,1516.93,2006.3,489.37,4.9,4.9,0.0,Entregue no prazo,4.7
+V00746,2026-06-23,Recife,Sousa,Caminhão Toco,Motorista 02,571.2,4454.1,6000,74.2,1936.57,53.29,187.83,2177.69,3221.02,1043.33,9.0,9.0,0.0,Entregue no prazo,4.7
+V00686,2026-06-23,Recife,João Pessoa,Caminhão 3/4,Motorista 13,592.3,2343.5,3500,67.0,1549.31,54.79,194.37,1798.47,2437.46,638.99,10.4,10.4,0.0,Entregue no prazo,4.0
+V00132,2026-06-24,Recife,Currais Novos,Van,Motorista 11,745.1,885.4,1500,59.0,1419.15,85.27,345.7,1850.12,2374.38,524.26,12.5,12.5,0.0,Entregue no prazo,4.5
+V00181,2026-06-24,Recife,Sousa,Van,Motorista 02,546.8,522.9,1500,34.9,1059.4,50.72,212.44,1322.56,1864.45,541.89,8.6,8.6,0.0,Entregue no prazo,4.3
+V00122,2026-06-25,Fortaleza,Sousa,Van,Motorista 01,461.2,865.2,1500,57.7,781.52,52.84,142.49,976.85,1421.08,444.23,7.2,7.2,0.0,Entregue no prazo,3.2
+V00252,2026-06-25,Mossoró,Parnamirim,Caminhão Truck,Motorista 10,235.9,9175.9,14000,65.5,1011.75,14.67,103.86,1130.28,1351.11,220.83,3.6,3.6,0.0,Entregue no prazo,4.6
+V00014,2026-06-25,Mossoró,Currais Novos,Carreta,Motorista 07,57.8,18890.9,27000,70.0,349.16,8.23,28.57,385.96,589.63,203.67,1.1,7.9,6.8,Entregue com atraso,3.9
+V01126,2026-06-25,Recife,Natal,Caminhão Toco,Motorista 15,470.7,1818.0,6000,30.3,1555.96,58.31,144.0,1758.27,2289.93,531.66,8.9,8.9,0.0,Entregue no prazo,3.9
+V00359,2026-06-25,Natal,Recife,Van,Motorista 12,426.5,486.1,1500,32.4,739.68,58.76,135.59,934.03,1341.4,407.37,8.5,14.4,5.9,Entregue com atraso,3.3
+V00830,2026-06-25,Recife,Mossoró,Caminhão 3/4,Motorista 18,685.1,650.9,3500,18.6,1757.94,100.38,272.63,2130.95,2545.75,414.8,12.6,12.6,0.0,Entregue no prazo,5.0
+V00063,2026-06-25,Mossoró,Sousa,Caminhão Toco,Motorista 20,541.3,716.9,6000,11.9,2003.88,33.98,251.82,2289.68,3349.37,1059.69,9.1,9.1,0.0,Entregue no prazo,5.0
+V00648,2026-06-26,Natal,Recife,Carreta,Motorista 13,34.7,11705.9,27000,43.4,215.56,2.13,15.1,232.79,333.08,100.29,0.6,1.1,0.5,Entregue com atraso,3.7
+V01037,2026-06-26,João Pessoa,Parnamirim,Caminhão 3/4,Motorista 19,87.1,1838.0,3500,52.5,230.58,7.06,41.29,278.93,339.79,60.86,1.7,2.4,0.7,Entregue com atraso,3.9
+V00559,2026-06-26,João Pessoa,Fortaleza,Caminhão 3/4,Motorista 14,667.3,1087.9,3500,31.1,1913.64,68.96,207.23,2189.83,2918.55,728.72,10.5,11.8,1.3,Entregue com atraso,3.8
+V00899,2026-06-28,Mossoró,Natal,Caminhão Truck,Motorista 04,816.0,3799.2,14000,27.1,3931.56,117.56,353.08,4402.2,6596.74,2194.54,13.3,13.3,0.0,Entregue no prazo,3.9
+V01134,2026-06-28,Mossoró,Assú,Caminhão Toco,Motorista 08,114.8,2215.9,6000,36.9,355.53,10.34,37.43,403.3,520.24,116.94,1.9,1.9,0.0,Entregue no prazo,4.1
+V01186,2026-06-29,Fortaleza,João Pessoa,Caminhão Toco,Motorista 11,748.3,1221.2,6000,20.4,2458.29,43.13,341.0,2842.42,3348.16,505.74,13.3,13.3,0.0,Entregue no prazo,5.0
+V00631,2026-06-29,Recife,Fortaleza,Caminhão 3/4,Motorista 15,456.0,1686.8,3500,48.2,1070.49,48.19,197.13,1315.81,1824.72,508.91,7.6,7.6,0.0,Entregue no prazo,3.8
+V00038,2026-06-29,Recife,João Pessoa,Van,Motorista 14,306.3,436.8,1500,29.1,605.05,35.49,122.41,762.95,1046.88,283.93,5.2,5.2,0.0,Entregue no prazo,4.3
+V01101,2026-06-30,João Pessoa,Natal,Caminhão 3/4,Motorista 06,847.7,2068.0,3500,59.1,2008.08,109.9,321.53,2439.51,2955.39,515.88,13.6,13.6,0.0,Entregue no prazo,4.5
+V00619,2026-06-30,Natal,Mossoró,Caminhão Toco,Motorista 01,159.4,4633.1,6000,77.2,554.52,13.37,52.5,620.39,850.47,230.08,2.7,2.7,0.0,Entregue no prazo,4.7
+V00941,2026-06-30,João Pessoa,Mossoró,Caminhão 3/4,Motorista 20,132.7,1272.5,3500,36.4,359.25,18.33,60.81,438.39,601.18,162.79,2.9,2.9,0.0,Entregue no prazo,3.8
+V00420,2026-06-30,Recife,Currais Novos,Van,Motorista 10,628.0,850.4,1500,56.7,1134.68,42.03,211.95,1388.66,1602.82,214.16,13.4,13.4,0.0,Entregue no prazo,4.4
+V00890,2026-06-30,Natal,Sousa,Carreta,Motorista 20,63.5,2291.3,27000,8.5,441.41,8.35,26.9,476.66,728.33,251.67,1.1,1.1,0.0,Entregue no prazo,4.5
+V00313,2026-06-30,Recife,João Pessoa,Caminhão Toco,Motorista 02,399.2,3280.4,6000,54.7,1474.59,52.93,175.37,1702.89,2587.76,884.87,6.5,6.5,0.0,Entregue no prazo,4.9
+V00720,2026-06-30,Mossoró,Caicó,Caminhão 3/4,Motorista 15,244.2,1889.3,3500,54.0,622.16,16.3,86.1,724.56,843.6,119.04,4.1,4.1,0.0,Entregue no prazo,4.7
